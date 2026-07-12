@@ -1,0 +1,558 @@
+111
+CHAPTER 11: Biological Environmentlisted in Table 11.4. They will hence be described in
+some detail.
+LIFE CYCLE
+It consists of four stages—Egg, larva, pupa and adult.1.Egg:  About one mm each in size, the eggs are laid
+on the surface of water, 100 to 300 at a time, about12 times in the life span of a female mosquito. Themale dies soon after mating. The female lives for1-2 months. The eggs hatch into larvae in three tofour days (Fig. 11.2) .
+2.Larva:  It rests and breathes near the surface of
+water and wriggles about rapidly with dartingmovements. It grows into pupa in about one week.
+3.Pupa: It has a large head and a ventrally covered
+body, which give it the appearance of anexaggerated comma. It has a pair of breathing
+TABLE 11.5: Arthropods of medical importance
+Arthropods Disease transmitted
+Mosquitoes Malaria, filaria, yellow fever, dengue, Japanese
+encephalitis
+Houseflies Diarrhea, dysentery, gastroenteritis, cholera,
+typhoid, paratyhoid, amebiasis, conjunctivitis,
+trachoma, helminthic infections, yaws, polio,
+anthrax
+Sandfly Leishmaniasis
+Tsetse fly Trypanosomiasis
+Black fly Onchocerciasis
+Louse Epidemic typhus, relapsing fever, trench fever
+Rat flea Plague, endemic typhus, Hymenolepis diminuta
+Reduviid bug Chagas’ diseaseCockroach Intestinal pathogens
+Hard tick Tick typhus, viral encephalitis, KFD, tularemia,
+tick paralysis, babesiosis
+Soft tick Q fever, relapsing fever
+Trombiculid mite Scrub typhus, rickettsial pox, scabies
+Cyclops Guinea worm, fish tapeworm
+Fig. 11.2:  Life cycle of mosquito
+Fig. 11.3:  Characteristics of Anopheles, Aedes and Culextrumpets on the thorax. It develops into an adult in
+about three days. During this period, it does not takeany food and moults more than once. The total lifecycle is completed in two to three weeks.
+4.Adult:  The male, smaller and more slender than the
+female, is vegetarian and spends most of its time invegetation by the side of water. As a result, it isseldom seen in houses. It is differentiated from thefemale by the very hairy character of the antennae.The female is aggressive and larger. It sucks the bloodof an animal (zoophilous) or man (anthrophilous),this blood sucking being essential for lying eggs. Thepalps have three segments and are tufted. These areused as feelers or organs of touch while the antennaeare used to judge the air current. The female maytravel up to 3 km but usually only up to 1.5 km.It sucks more blood when temperature and humidityare high and the skin is moist.Four genera of mosquitoes—Anopheles, Mansonia,
+Culex and Aedes —are important from the point of view
+of disease transmission. The first of these belongs to sub-family Anopheline and the rest to subfamily Culicine.The differences between the two are shown in Figure11.3 and Table 11.6.
+Mosquitoes of the genus Mansonia  are biologically
+different from others. They lay eggs in clusters on theundersurface of water plants such as water lettuce, Pistia
+stratiotes  and water hyacinth. Larvae and pupae remain
+
+112
+PART II: Epidemiological TriadTABLE 11.6: Distinguishing characters of Anophelini and Culicini
+Anophelini (Anopheles) Culicini (Culex, Aedes and Mansonia)
+Eggs a. Laid singly on water a. Laid in clusters or rafts of 100-250 (singly in case of Aedes)
+b. Boat shaped with lateral air floats b. Oval with no air floats
+Larvae a. Siphon tubes absent a. Two siphon tubes present
+b. Lie parallel to water surface b. Hang at an angle
+c. Have palmate hair on abdominal segments c. No palmate hair
+Pupae a. Siphon tubes broad and short a. Siphon tubes long, thin and narrow
+Adults a. Sit against the wall at an angle so that a. Sit parallel to wall, the head and body are angled or hunch
+proboscis, head and body form a line backed
+b. Quiet b.Make ringing noise in the ear (Aedes is quiet)
+c. Wings are spotted c. No spots
+d. Palpi long in male as well as female d. Palpi shorten in female
+attached to the rootlets. They have a long siphon tube
+with a spine with which they pierce the plant and drawthe air required, never coming to the surface. Theadults, when mature, come out from below the surfaceof water. They have speckled wings and legs. The palpsin the female are 1/4th of the proboscis in length. Theimportant Indian species are—M. annulifera,M. uniformis, M. longipalpis and M. indiana
+(Fig. 11.3) . They are mostly found in rural areas.
+Forty-six species of Anopheles  have been found in
+India. Only the following seven of these are vectors formalarial parasite:1.A. stephensi
+2.A. culicifacies
+3.A. fluviatilis
+4.A. philippinensis
+5.A. sundaicus
+6.A. minimus
+7.A. leucosphyrus.Of the above species, A. stephensi  is found mainly
+in towns. A. culicifacies and A. fluviatilis  are mainly rural,
+the former with indoor and the latter with outdoorresting habits.
+The important Aedes (Stegomyia) species are A.
+aegypti, A. vittatus and A. albopictus . These are mainly
+found in the rainy reason and are sometimes called tigermosquitoes because of the stripes on their legs. Amongthe culex (the common nuisance mosquito), the mostimportant species is C. fatigans.
+DISEASES TRANSMITTED BY MOSQUITOES IN INDIA
+•Anopheles : They transmit malaria.
+•Culex : They transmit Bancroftian filariasis ( W.
+bancrofti ), Japanese encephalitis and West Nile
+fever.
+•Mansonia: They transmit Brugian or Malayan filariasis(caused by B. malayi ) and Chikungunya fever.
+•Aedes : They transmit viruses of dengue and chikun-
+gunya fever in India. Yellow fever, not found in India,is also transmitted by Aedes.Mosquitoes also transmit disease from animal to animalsuch as monkey malaria and avian (bird) malaria.METHODS OF CONTROL
+Integrated Vector Management (IVM)
+Ideally, malaria vector control activities should be partof a broader vector control management program. IVMentails the use of a range of biological, chemical andphysical interventions of proven efficacy, separately orin combination, in order to implement cost-effectivecontrol and reduce reliance on any single intervention.Combinations of a number of methods will compensatefor the deficiencies of each individual method. It includessafe use of insecticides and management of insecticideresistance. Rotation of insecticides may be done so asto prolong their effectiveness. It is based on the premisethat effective vector control is not the sole preserveresponsibility of the health sector but requires thecollaboration of various public and private agencies andcommunity participation.
+Antilarval Measures
+•Elimination of breeding places (Source Reduction) :
+It includes permanent measures such as—– Filling of low lying places where water may accu-
+mulate. This is particularly important for control-
+ling breeding of Anopheles .
+– Weekly emptying of household collections of
+water, particularly to prevent breeding of Aedes .
+– Covering drains, ditches, cess pools and sewers
+near the houses, where Culex  breeds.
+– Removal of vegetation on shores of slow moving
+streams where A. fluviatilis breeds.
+– Removal of water plants such as Pistia stratiotes
+and water hyacinth, manually or by herbicides,
+checks the breeding of Mansonoides.
+•Larvicidals:  The breeding of mosquitoes can be
+reduced by a variety of physical, chemical andbiological methods. Residual effect of larvicidesvaries considerably with the water quality. Thehigher dosages are indicated for polluted water.Larvivorous fish are widely used in urban areas,peri-urban areas and freshwater bodies in ruralareas. Following methods are being used to controllarval stage.
+113
+CHAPTER 11: Biological Environment–Mineral oils: Kerosene, diesel, fuel oil and
+malariol are used for this purpose. These oils
+form a thin layer over water, thereby cutting offthe oxygen supply to larvae and pupae. Theyalso have probably a direct toxic effect on them.Larvae die within 1-2 hours of application ofcrude oil. The quantity of oil needed is 40 to 90liter per hectare (one hectare = 10,000 sq m).
+–Paris green  (copper acetoarsenite): It is used to
+kill surface feeding anopheline larvae. It is dustedat the rate of 840 g/ha (one hectare = 100000sq m) of surface. There are no hazards to humanbeings and livestock at this concentration. Parisgreen is sprayed over water as dust. This dustingis not effective against culex larvae which arebottom feeders. However, special granularpreparations of Paris green are available whichare effective against these also.
+1
+–Synthetic insecticides:  The most effective larvicides
+are organophosphorus compounds like chlor-pyriphos, fenthion and Abate, which quicklyhydrolyse in water.
+2 Abate is the least toxic of
+these and is very effective at a concentration of1 ppm. Organochlorine compounds like DDTand HCH are no longer used as larvicidesbecause of the associated effects like watercontamination and emergence of resistant vectorstrains.
+•Biological control: Following methods are in use as
+vector control measures—– Larvivoros fish have been successful and widely
+used biological control agent against mosquitolarvae in the top water. Two fish namely Gambusia
+affinis   and Poecilia reticulata , (common guppy)
+have been extensively used for mosquito controlin the urban malaria scheme in India under theNational Anti Malaria Program. Gambusia is a
+surface feeder, hence it is suitable for feeding onboth anophelines and culicines
+– Use of biocides: The bacterium Bacillus
+thuringiensis israelensis (Bti) and B. sphaericus
+produce toxins which are very effective in killingmosquito and blackfly larvae after ingestion.  Thetoxins formulation may be used in water or forthe irrigation of food crops to control vector.
+–Insect growth regulators (IGRs). These are
+chemical compounds that are highly toxic tomosquito larvae by preventing their developmentinto adults. Their use has generally been limiteddue to high cost and poor operationalacceptability, but may be useful where othercompounds cannot be used.
+Antiadult Measures
+Killing : The mosquitoes are killed in two ways by
+contact poisons:1.Space spray : Space spraying has been defined as
+the destruction of flying mosquitoes by contact with
+insecticides in the air
+.  Unless applied during the
+night, when most malaria vectors are active, it maynot be effective. Space spraying has very limitedindications for malaria control because operational
+costs are high, the residual effect is low, requires
+special and expensive equipment, and its efficacy isoften very dependent on the meteorologicalconditions at the time of application. The commonlyused insecticides are pyrethrum, malathion andfenitrothion. The latter two are sprayed by ULV
+(Ultra low volume) fogging using specially designed
+apparatus.
+3 Pyrithrum may be used in the form of
+fog or mist through special equipment. Pyrithrum isa plant product (flower Chrysantheum cineariagrown in Shimla and Kashmir). Active ingredient is1 percent Pyrethrins and cinerins from extract of
+flower.
+2.Indoors residual spraying (IRS): IRS is the
+application of insecticides to the inner surfaces of
+dwellings, where endophilic anopheline mosquitoesoften rest after taking a blood meal. The mainpurpose of IRS is to reduce the survival of malaria
+vector(s) entering houses. The selection of an
+insecticide for IRS in a given area is based on dataon insecticide resistance, the residual efficacy ofinsecticide, costs, safety and the type of surface tobe sprayed. DDT has comparatively long residualefficacy (6 months or more) against malaria vectors
+and plays an important role in the management of
+vector resistance. With the development ofresistance to DDT in many parts of the world thereliance on insecticidal approach continued with theintroduction of replacement insecticides such asHCH/ Dieldrin, Malathion, Pirimiphos methyl,
+Fenitrothion, Carbamates (propoxure and
+bandiocarb) and synthetic pyrethroids, etc. WHOrecommends DDT only for indoor residual spraying.Generally, all the interior walls and ceilings ofpermanent human dwellings should be sprayed.Two rounds of sprays are done for DDT and
+synthetic pyrethroids to provide protection during
+the entire transmission season. Three rounds arerequired in case of Malathion since the insecticideis effective for a shorter period only Table 11.7 .
+TABLE 11.7: Insecticides suitable as residual spray
+against malaria vectors
+Toxicant Dosage in Average duration of
+g/m2effectiveness (months)
+DDT 1 or 2 6 to 12
+Dieldrin 0.5 6 to 12
+Lindane 0.5 3
+Malathion 2 3
+OMS-33 (Propoxur) 2 3
+114
+PART II: Epidemiological TriadCurrent policy of insecticide use in India:  DDT should
+be the insecticide of choice for residual spray where it
+is sensitive. If resistance is noted with DDT thenMalathion is the alternative choice; in case of resistanceto DDT and Malathion both then synthetic pyrethroidsis the choice. The use of HCH was banned in India in1997 due to environmental concerns and partly dueto resistance.
+For Mansonia, in addition to insecticides, herbicides
+have to be used to destroy the weeds whose rootssupport the larvae.
+The various types of formulations used for sprays
+are described later under the section Insecticides.
+Genetic Control 4,5
+Males sterilized by gamma irradiation andchemosterilants are released. They mate with femalesbut the later produce unfertilized eggs which do notdevelop further. This is a potentially useful method thathas yet to be tried on a large scale.
+Prevention of Mosquito Bites
+•Use of repellents : Diethyl toluamide (deet) and butyl
+ethyl propanediol applied on clothes repels Culexfor 6-13 hours. Others in use are DMP , indalone,dimethyl carbate and ethyl hexanediol. They areapplied to the exposed parts of the body.
+•Preventing entry into houses : Mosquito-proof wire
+gauze (6 mesh) is used for this purpose on doors,windows and ventilators.
+•Sleeping in mosquito nets : (6 mesh) and using veils,
+socks and gloves, etc. as necessary.
+In regard to wire gauze and mosquito nets, it
+should be ensured that the number of holes shouldbe at least about 25 per sq cm (i.e. 5 holes or 5mesh per cm). It is preferable to use a net with 6mesh per cm (15 mesh per inch).
+Flies
+Though less important than mosquitoes as vectors ofdisease, the flies have a large variety of species. Theymay be divided into two groups, the biting andnonbiting flies. The biting flies include sandfly, tsetse fly,blackfly and deer fly. Of these the sandfly is the mostimportant. The common example of a nonbiting fly isthe domestic fly.
+SANDFLIES
+They belong to order Diptera, family Psychodidae andsubfamily Phlebotominae. The proboscis of sandflies islike a blade and not like a stylet as in case ofmosquitoes. Minute in size (1.5-3 mm), they have lotof hair on the wings and body. The wings are hard andstand out erect, forming a V . Flights are short and jerkyas they are too weak to fly against wind (Fig. 11.4) .
+The sandflies breed in cracks in the walls and in stone
+heaps where there is enough nitrogenous waste. Theysting at night and the bite is painful. Itching persists forsometime. Out of about 39 species of sandflies foundin India, those of medical importance are Phlebotomus
+argentipes, P . papatasii, P . sergenti  and Sergentomyia
+punjabensis.
+Diseases Transmitted
+The sandflies are responsible for the transmission of kala-azar ( P . argentipes ), oriental sore ( P . papatasii and P . sergenti )
+and sandfly fever ( P .  papatasii  and  P . punjabensis ).
+Control
+• Breeding is prevented by filling cracks and cervices
+on the walls and removing any stone or rock piles.
+• The adults are killed by indoor residual spray
+insecticides like DDT and lindane in concentrationsof 1-2 and 0.25 g per square metre respectively.
+• Repellents used on clothes or applied to skin such
+as deet, DMP , etc. are effective against bites.
+TSETSE FLIES
+They belong to family glossinae and are limited to
+equatorial Africa. They are brown in color and have the
+same size as a house fly. Both male and female bite man
+and suck blood. They attack domestic animals as well.
+Two species transmit trypanosomiasis:
+1.Glossina palpalis —It transmits T rypanosoma
+gambiense  and lives along water courses (hence
+called wet fly).
+2.Glossina morsitans —It transmits T. rhodesiense  and
+is sometimes called dry fly.
+Fig. 11.4:  Phlebotomus
+115
+CHAPTER 11: Biological EnvironmentControl
+Insecticides used are organophosphorus compounds,
+DDT and dieldrin.
+BLACK FLY
+They are of the size of a mosquito. They breed in
+running water and are found in Africa. They transmitonchocerciasis.
+DEER FLY
+Deer flies belong to the genus Chrysops. They areyellowish in color and about one centimeter in length.Their wings have dark and pale areas. The bite ispainful. They transmit loiasis, tuaremia and anthrax andare found in Africa, USA and USSR.
+Housefly
+Houseflies belong to the family Muscidae. Their mouthparts are adapted not to pierce the skin but to suckliquids and small particles. They are also called filth fliesbecause of their filthy habits. They are one of the mostwidely distributed insects. The common species is Musca
+domestica . Other important species found in India are
+M. vicinia, M. nebulo  and M. sorbens .
+Life Cycle (Fig. 11.5)
+It is completed in 4 stages—egg, larva, pupa and adult,and takes 10 to 14 days.1.Eggs:  They are laid five to six times in life, in batches
+of 100 to 200 on excreta and other soft, moist andwarm filthy matter, especially horse litter. Glisteningwhite in color and about one millimeter in size, theeggs, look like tiny grains of polished rice when seenwith the help of a hand lens.
+2.M Larvae (Maggots):  Eggs hatch into larvae in 8
+to 24 hours. They feed on organic matter. Activelymotile, white, legless, 1.2 cm in length, with a distincthead, they grow rapidly and burrow into the food.They shun sunlight and come out at night. Theymigrate to dry earth to form pupae in three to fivedays.
+3.Pupa (Chrysalis):  It is barrel shaped and about six
+milimeter in length. It is initially pale yellow in color,changes to red brown and finally turns black. Itrepresents a resting phase in the life cycle.
+4.Adults:  The adult fly emerges from the pupa in
+about a week. Mating starts a few days later.
+Habits
+The housefly is a restless insect, moving continuallybetween food and filth. Its feeding habits are favorableto transmission of pathogens present in the excreta. Anadult fly sucks, regurgitates, mixes, sucks again andvomits out the liquid food. It tends to move towardslight and prefers to sit on strings and wires. It has aremarkable ability to locate food. Infection is carried bymechanical transmission (along legs, wings, body) andby deposition of vomit and feces on food and drink.
+Diseases Transmitted
+The housefly can potentially transmit a large number ofdiseases, e.g. typhoid, paratyphoid, cholera, diarrheadysentery, food poisoning, polio, impetigo, anthrax,trachoma, etc. Maggots may invade human tissues andproduce gastrointestinal, genitourinary or cutaneous myiasis,depending upon the mode of infection with the eggs.
+Fly Control Measures
+Elimination of breeding places:• Sanitary disposal of wastes such as refuse (especially
+garbage), horse litter and dung, human excreta andsullage water.
+• Food sanitation such as keeping all foods in wire
+gauze or glass cupboards and containers with wellfitting lids.
+• Tight packing of manure in trenches or pits to kill
+larvae by heat.
+• Provision of cement lined tanks or floors for stocking
+cowdung so that larvae cannot burrow in the soilto pupate.
+Prevention of entry: Making the houses flyproof
+ ,
+especially the kitchen and latrines, by putting wire gauzescreens in doors and windows.
+Trapping : Using a Balfour fly trap made of wir
+ e gauze
+in which the flies enter through a slit to sit on the baitbut cannot come out.
+Manual killing: Fly swatters are useful devices to kill flies.
+Baiting:  Baits may be used in houses, food establish-
+ments, cattle sheds, etc. Examples are:
+Fig. 11.5:  Developmental stages of the housefly
+116
+PART II: Epidemiological Triad•Adhesive fly paper: 500 g castor oil and 800 g resin
+are heated together and the mixture is spread on
+thick paper. Flies get stuck when they sit on thepaper.
+•T angle-foot paper:  Glue 1 part in 3 parts of water
+is spread on a paper which is placed in an archedposition.
+•Strings and branches of trees:  They may be dipped
+in sugar or jaggery solution containing a toxicantsuch as formalin, sodium arsenite ororganophosphorus compounds. The flies areattracted and get killed.
+• Diazinon, dichlorvos, malathion, ronnel, naled,
+dimethoate and trichlorion may be used in dry orliquid baits. Sugar is used most often as a carrier.Liquid baits consist of 0.1 to 0.2 percent of toxicantand 10 percent of sugar or other sweetening agentin water. Commercial preparations are also available.
+Insecticide spray:  Pyr
+ethrum may be used for space
+spray. Houseflies have become resistant to residualspray with almost all insecticides—chlorinatedhydrocarbons as well as organophosphorus andcarbonate pesticides. For susceptible species diazinon 1to 2 percent, malathion 5 percent, dimethoate 1.0 to2.5 percent and ronnel 1.5 percent are effective. 2percent lindane, 5 percent methoxychlor and 5 percenttoxaphene may also be tried at the rate of 4 liters per100 sqm of surface. It may be mentioned that larvicidalspraying at breeding sites of housefly is notrecommended. The reason is that this leads todevelopment of insecticide resistance.
+Health education  of individuals, families and the
+community is essential for effective control.
+Fleas
+They belong to the order Siphonaptera and havelaterally flattened body but no wings. Thus they differfrom lice and bugs which are compressed dorsoventrally.They feed on a number of hosts such as rodents, cats,dogs, etc. Important fleas are those that migrate fromthe animal hosts to attack man. These are listed below:
+Pulex irritants or human flea:  It is cosmopolitan in
+habitat. It causes dermatitis and may transmit human
+plague and endemic typhus. It is characterized by anocular bristle below the eye.
+Xenopsylla cheopis, X. astia and X. braziliensis:
+These are oriental rat fleas responsible for transmittingplague and endemic typhus. They are characterized byan ocular bristle in front of the eye.
+Nosopsyllus fasciatus: This is the rat or squirrel flea
+of temperate regions. It has got a prenatal comb only.Ctenocephalus canis and felis:  These are the dog
+and cat fleas. They possess pronotal and genal combs.Tunga penetrans or sandflea:  It is found in the
+tropical parts of America and Africa. It is not found in
+India. It has an angular head.
+Flea indices
+6 are helpful in indicating the potential for
+epidemic spread of plague in and around areas where thisdisease is endemic. Various indices have been described.The general flea index  refers to the average number of
+fleas of all species present per rodent. The  specific flea
+index  similarly pertains to particular species of fleas.
+Life Cycle (Fig. 11.6)
+It includes egg, larval, pupal and adult stages.
+Eggs:  They are glistening white, about 0.5 mm in size.
+They are laid in batches of 8 to 12 in the debris in the
+cracks of floors, under carpets and in burrows, especiallywhere there are food grains and dry earth. They hatchin two to hour days in summer and in about a week
+in winter.
+Larva:  It is a white, active, legless maggot with scanty
+hair on the segments of the body. It lives in dust and
+feeds on the debris and feces of the adults. Its head isbrown in color.
+Pupa:  It is concealed in a cocoon spined by the larva. It is
+seen in dirty and deserted placed and can remain dormant
+for months. The adult usually comes out within a week.
+Adults: After emerging, they get onto the hosts as
+wingless insects. Both male and female are bloodsuckers and the beak is provided with a siphon tubefor this purpose. Head and thorax are united at theback. The legs have spines. The foot has five joints, thelast of which has a hook as an adaptation for jumping.
+Fig. 11.6:  Developmental stages of a flea
+
+117
+CHAPTER 11: Biological EnvironmentDiseases Transmitted
+Bubonic plague, endemic typhus and Hymenolepis
+diminuta infection.
+Control Measures
+• Rats, mice and other hosts should be killed and other
+antirodent measures adopted.
+• Dogs and cats should be dusted with 10 percent DDT
+or BHC powder.
+• For plague control the floor, walls (up to one meter
+height) and rat-runs should be sprayed with organo-
+chlorines such as DDT, gammexane and dieldrin.
+Other insecticides such as diazinon, malathion and
+carbaryl are used in resistant cases.
+• Burrows and rat-runs should be insufflated with 10
+percent DDT powder or cyanogas. The latter killsboth rats and fleas. Diazinon 1 to 2 percent andmalathion 5 percent may be dusted where fleas have
+become resistant to DDT or BHC. Resistance to DDT,
+BHC and dieldrin is reported at some places in Indiawhere spray was done repeatedly for malaria
+control. Malarial spray has resulted in plague control
+also as a collateral benefit because of the killing offleas.
+• Flea bite should be prevented by use of repellents
+applied to clothing. Deet (diethyl toluamide) andbenzyl benzoate are best for this purpose. Others,
+such as DMP , may be applied on skin.
+• Contact with hosts, especially field rodents, should
+be avoided to prevent sylvatic plague.
+Lice
+These are blood sucking insects with a dorsoventrally
+flattened body and clawed legs. Both sexes live on the
+host itself. The following three species infest man
+(Fig. 11.7) :
+1.Pediculus capitis  (Head louse)
+2.Pediculus corporis  (Body louse)
+3.Phthirus pubis  (Crab or pubic louse).Life Cycle
+It is in 3 stages—egg, nymph and adults.
+1.Egg:  The eggs (Fig. 11.8)  are operculated with
+ovoid shape and white color. They are often known
+as ‘nits’. The head louse lays 3 eggs a day and gluesthem to the hair. The body louse lays about 6 eggs
+a day and sticks them onto clothes, especially in the
+seams and linings. The crab louse lays 2 eggs a dayand cements them to pubic hair.
+2.Nymph or larva:  The eggs hatch in about a week
+into nymphs or larvae which resemble the adults.These moult 3 times and turn into adults in another
+week.
+3.Adults:  Gray in color and 2 to 3 mm long, they
+have a life span of one month. They can live for aweek without feeding. Head and body lice look alike
+and interbreed. The head is conical, joined with thethorax by a constriction. It bears a blood sucking
+proboscis and two antennae. The head louse is
+darker, smaller and brisker than the body louse. Thecrab louse is 1 to 2 mm long and has a squarish
+shape. It has a blunt, truncated head and strong legs,
+hence the name. It is found in pubic and perinealhair.
+Louse bites cause irritation and sometimes, urticaria.
+Prolonged infestation may result in deep pigmented skin
+or melanoderma.
+Diseases Transmitted
+•P . corporis and P . capitis transmit Rickettsia
+prowazeki, the causative agent of epidemic typhus ,
+and quintana , the causative agent of trench fever .
+The infection is transmitted through bite and feces.
+The crab louse is not known to transmit any disease.
+• The head and body lice also transmit Borrelia
+recurrentis  which causes relapsing fever.  The
+organisms enter the body when infected louse iscrushed on the skin.
+•Dermatitis  may occur due to scratching and
+secondary infection.
+Fig. 11.7:  Human lice Fig. 11.8:  Eggs of lice
+118
+PART II: Epidemiological TriadControl Measures
+Prevention of Infection
+• Contact with infested person, often a servant or a
+fellow school child, should be avoided. Hat, cap,
+comb, hair brush and clothes of an infested person
+should not be used.
+• The bedlinen and under clothes should be properly
+washed and the hair combed as a part of personalhygiene. If necessary, clothing may be dusted with
+carbaryl powder in highly lousy surroundings.
+Delousing Measures
+Applying 2 percent DDT emulsion or dusting with
+10 percent DDT were very effective previously. With
+the emergence of DDT resistance, 0.2 percentlindane in coconut oil should preferably be used. In
+case of resistance to this also, 0.5 percent malathion
+lotion (1% in case of body louse) is effective. Thelotion should be allowed to act for 12 to 24 hours
+before the hair is washed. It kills both lice and nits.
+Carbaryl dust may also be used as louse powder.
+3
+An emulsion designated NBIN (68 percent benzyl
+benzoate, 6 percent DDT, 12 percent benzocaine
+and 14 percent Tween-80) applied after 1:5 dilutionin water is also effective against lice as well as nits.
+7
+Leather, wool and silk may be deloused by soakingthem in 2 percent cresol and 50 percent soap
+emulsion for one hour.
+Bugs
+The common bedbugs (Cimex lectularius and C. hemip-
+terus) are not known to transmit any disease. The Redu-
+viid bugs are known transmitters of Chagas disease in
+South and Central America. Several species of thesebugs are known to transmit T rypanosoma cruzi , the
+causative agent. Though Reduviid bugs have beendescribed in India,
+8 they do not act as vectors of
+infection.
+The bedbugs (Fig. 11.9) are nocturnal in habit and
+reside in the clothing and seams of linen. They emit astinking odor. Their bite is very painful. They feed onblood, the feeding lasting for about 15 minutes. Theycan fast for up to six months.Control
+Bugs have become resistant to organochlorine insecticideslike DDT, gammexane and dieldrin. Diazinon in keroseneoil is most effective but toxic. Other organophosphorusinsecticides and carbamates are effective. Malathionresistance has also been reported.
+4 Synergised pyrethrum
+spray (with piperonyl butoxide, sesame oil and lindane)is effective against bedbugs.
+Scorpions
+These octapods belonging to class Arachnida do nottransmit any disease. Their medical importance is limitedto scorpion bite which is painful and may sometimes bepoisonous. The bite of poisonous varieties of scorpionsmay produce severe systemic reactions such as lymph-adenitis, twitching of muscles, spasm and convulsions.Patients may die of respiratory failure with pulmonaryedema within two to three hours of the sting. The venomis probably a neurotoxin which acts peripherally.
+Treatment for Scorpionism
+A tourniquet is applied above the bite to preventsystemic spread of the poison. The wound is incised andthe poison is sucked. Pain is relieved usually by a dropof strong or dilute ammonia solution poured directly.If necessary, 0.3 to 0.6 ml of 2 percent novocainesolution with epinephrine is injected near the puncturewould to combat pain. If systemic dissemination occurs,(indicated by profuse sweating, salivation, vomiting,myoclonic twitching or abdominal pain), specificantivenom should be given. Cortisone may have to beadministered.
+Control
+Sprays with 2 percent chlordane, 10 percent DDT and0.2 percent pyrethrum in kerosene are useful to killscorpions. Dieldrin, BHC and organophosphoruscompounds are also effective as surface spray or dust.
+Ticks
+Ticks are blood sucking parasites. Their natural hosts aredomestic animals such as cats, dogs and cattle. Theyattack man only accidentally. The two families of medicalimportance are Ixodidae (hard ticks) and Argasidae (softticks, Fig. 11.10). The hard ticks remain attacked to
+the host while the soft ticks leave the host after feeding.
+LIFE CYCLE
+It consists of four stages (egg, larva, nymph and adult)and is completed in two years (Fig. 11.11) .
+1.Eggs:  They are laid on the ground in batches of
+thousands and take 2 weeks to one month for hatching.
+Fig. 11.9:  Bedbug
+
+119
+CHAPTER 11: Biological Environment
+2.Larvae:  Smaller than adults, they have only 3 pairs
+of legs. They jump about to feed on small rodents,
+then leave them, shed skin and develop intonymphs.
+3.Nymphs: They are octapods like adults adults aresexually immature. They remain unfed for about ayear. Later on they feed on rodent or man, thenfall to ground and change into adults.
+4.Adults:  They hibernate for one year before sucking
+blood of larger animals or man.
+DISEASES TRANSMITTED
+Hard ticks : Tick typhus (Rocky mountain spotted fever),
+Q fever, viral encephalitis, viral hemorrhagic fevers (e.g.KFD) and tularemia. They transmit babesiosis in animalsand may also sometimes cause human babesiosis. Inaddition, they also cause tick paralysis.
+Soft ticks:  They mainly transmit relapsing fever.
+CONTROL MEASURES
+Dimethyl phthalate (DMP) is a good tick repellant,
+especially against larvae. Clothes dipped in 5 percentDMP and 2 percent soap solution retain the repellanteffect for one to two months. Infested animals may bedusted with lindane, malathion or DDT.
+Mites
+Mites are parasitic to man and animals and produceirritation of skin (acariasis). The mites of public healthimportance are the itch mite and the trombiculid mite.ITCH MITE ( SARCOPTES SCABIEI )
+The scab or itch mite is the causative agent for scabies.It is found allover the world. Infestation is morecommon when living is congested.
+All the four stages of the parasite (egg, larva, nymph
+and adult) are completed in the skin, the developmentfrom egg to the adult occurring in about two weeks.The female makes zig-zag burrows and lays eggs deepin the horny layers of the skin. Eggs develop into threelegged larvae, which enter hair follicles and grow intonymphs and adult. The adult is 0.4 mm in length andoval in shape with flat ventral and convex dorsal surface.The spines and bristles on its body given it theappearance of a hedgehog (Fig. 11.12 ).
+The male dies after mating, leaving behind the ferti-
+lized female to cause the disease. Places of predilectionfor burrows are: interdigital webs, wrists, elbows, feet,penis, scrotum, buttocks and armpits. Face, palms andsoles are always free in adults but may be involved inchildren. The scabies mite can be located in the skinwith the help of the hand lens.
+Clinical picture appears after sensitisation of the skin
+over a period of a month or two. This can be calledthe incubation period. To start with, erythematouspatches are seen around the burrows. These developinto papules and vesicles. Itching is intense at night,which leads to scratching and secondary infection.Personal contact of prolonged nature, such as sharingthe same bed, is needed for infection. However,transmission through bedlinen is not likely as mitesprefer the warm body. Off the host, the parasite dieswithin two days.
+Prevention and Control
+• Direct contact with the infested person, or indirect
+through undergarments, should be avoided. Properpersonal hygiene should be observed including bathwith soap and water.
+Fig. 11.11: Life cycle of tickFig. 11.10:  Hard and soft ticks
+Fig. 11.12:  Sarcoptes scabiei
+120
+PART II: Epidemiological Triad• The infested persons and contacts should be treated
+thoroughly with 3 to 5 percent sulfur  ointment or
+20 to 25 percent benzyl benzoate emulsion. The
+patient should take hot bath with soap and water,scrub the affected parts with brush, dry the bodywith rough towel, and rub the medicine all over,especially over the affected parts. He should thenput on clean clothes and take no bath for 48 hours.The old clothes should be sterilised by boiling.Second application may be necessary.
+• Tetmosol 5 to 10 percent in soap is a good
+prophylactic. Five percent tetmosol solution is a goodsarcopticides and can be applied three times a day.
+• 0.5 to 1 percent BHC or Gamma HCH (lindane)
+in coconut oil is a good sarcopticide when appliedon the affected part two or three times at intervalof two to three days.
+TROMBICULID MITE (REDBUGS OR CHIGGERS)
+Redbugs (Fig. 11.13) are the six legged larvae of mites
+belonging to family Trombiculidae. They alone areparasitic to man while the adults or nymphs live in thesoil. The parasitic larvae are called redbugs, chiggers,harvest mites or scrub mites. Leptotrombidium
+akamushi  is found in Japan and L. deliens  in India. Their
+larvae are called red bugs because of their brick redcolor.
+L. akamushi  larvae, when anchored to the skin,
+inject saliva that produces irritation and causes tissuereaction. They transmit Rickettsia orientalis, the causative
+organism of scrub typhus, or tsutsugamushi fever. Thetransmission is transovarial—the larva bites and becomesinfected and passes on the infection to nymph and adultstages. The female transmits the infection to the ovumfrom which the larva emerges and bites the fresh host,thereby passing on the infection.
+Prevention
+Use of repellents protects against larval bites when sittingon infected grass. Such repellents may be used on theexposed parts (DBP or dibutyl phthalate) or on clothes(deet, benzyl benzoate). Clothes impregnated with DBPremain effective for two to four weeks even if washed.
+CYCLOPS
+Cyclops or water flea is found in fresh water. It ispyriform in shape and is dorsally convex. The head andthorax are fused to form a bulbous cephalothorax whilethe abdominal portion is narrowed. The head has twopairs of antennae and small pigmented eyes. The sizedoes not exceed one mm and it is just visible to atrained eye. Average life is three months. It isresponsible for transmission of guinea worm infection.
+Insect Control
+Insecticides
+Insecticides are substances that kill insects. The term
+pesticides is a general term including, besides insecticides,rodenticides, herbicides, fungicides, disinfectants andrepellents. Till 1936, the major emphasis was on
+inorganic chemicals such as arsenicals (Paris green),
+fluorides, mercurials, hydrocyanic acid, sulfur dioxideand methyl bromide. However, their use was restrictedbecause they are injurious to man and pets. Vegetablepoisons and chlorinated hydrocarbon were found to beless toxic to man. From 1936 to 1945, plant insecticides
+such as pyrethrum, rotenone, nicotine and certain
+petroleum oils were widely used. They were effectiveagainst insects but practically nontoxic to man. From1945 to 1955 chlorinated hydrocarbons such as DDT,BHC and dieldrin were put to extensive use butresistance to them developed over a period of time.
+Later on organophosphorus compounds such as
+diazinon, malathion, parathion and dichlorvos becamepopular. Though they are more expensive and moretoxic to man, they are effective against insects that havebecome resistant to organochlorine compounds.However, insects have started showing resistance to
+them also. Some other chemical insecticides such as
+OMS-33 (baygon), and OMS-29 (carbaryl) were laterdeveloped. These are safer than organophosphoruscompounds if general precautions are taken.
+9
+Increasing reports of resistance of insects to chemical
+insecticides and their toxicity to man (direct and through
+food contamination) is causing great concern.Consumer hazards due to the increasing use ofpesticides in food and agriculture have been evaluatedby several expert committees. Organochlorinecompounds have been found to be persistent andcumulative and there is evidence of their effect on livereven in low doses.
+10 According to one study “Indians
+ingest more pesticides through their food than any othernation studied. The level of DDT in the body fat ofresidents in Delhi has been found to be in the region
+Fig. 11.13: Trombiculid mite
+121
+CHAPTER 11: Biological Environmentof 26 ppm on average—well above the maximum
+residue limit of 1.25 ppm—the highest in the world.”11
+The Environmental Liaison Center in Nairobi esti-
+mates that 2 million cases of pesticide poisoning occurin the world every year, of which 40,000 die. The inter-national agency PAN (Pesticides Action Network) hasidentified 12 worst offenders among the pesticides andhas labeled them as the Dirty Dozen.
+11 These are:
+1. Campheclor (Toxaphene)2. Chlodane (Heptachlor)3. Chlordimeform (Galecron)4. DBCP5. DDT6. The “Drins” (Aldrin/Dieldrin/Endrin)7. EDB8. HCH (Lindane)9. Paraquat
+10. Ethyl Parathion11. Pentachlorophenol (PCP)12. 2,4, 5-T.
+In view of insect resistance and human hazards of
+the existing chemical insecticides, newer insecticides andnewer methods of vector control are being tried. Twoimportant methods are biological and genetic control,discussed later.
+CHARACTERISTICS OF A SUITABLE INSECTICIDE
+An insecticide, to be useful, should have the followingcharacteristics:• It should be highly toxic to insects and not to verte-
+brates.
+• It should have persistent action or residual effect.• It should not be too slow in killing or paralysing the
+insects.
+• Insects should not develop resistance against it.• It should be economical, easily available and should
+be soluble in or miscible with ordinary solvents.
+• It should not spoil floors or paints.• It should not give unpleasant smell.
+Classification of Insecticides
+Insecticides may be grouped as contact poisons (pyre-thrum, DDT , diazinon, carbaryl, etc.) stomach poisons(sodium fluoride, formalin), fumigants or respiratorypoisons (HCN, methyl bromide) and larvicides (oils,Paris green and some contact poisons). In addition,insect repellents (DMP , deet, indalone) are also used forprotection  from insects.
+CONTACT POISONS2
+These are substances that kill insects when the lattercome in contact with the substance. The insecticides areabsorbed by the cuticle of the insect and cause paralysisof the nervous system. Most are synthetic compounds(organochlorines, organophosphates, carbamates andsynthetic pyrethroids) while some are natural onesobtained from plant sources. Contact poisons belongingto different groups are listed in Table 11.8.  They are
+briefly described below.
+Natural Products and Synthetic Pyrethroids
+Pyrethrum : This is an instantly acting insecticide but is
+effective for only a short duration being highly photodegradable. It is extracted from flower heads ofChrysanthemum cineariafolium  which originated in East
+Africa but is now successfully grown in K
+ashmir, Shimla,
+and Nilgiri Hills.
+Pyrethrum is the main insecticide used for space
+spray and kills insects on their wings in rooms or other
+TABLE 11.8: Contact poisons
+Natural product S ynthetic Organochlorines Organophosphorus Carbamates
+(from plants) pyrethroids compounds
+Pyrethrum Prothrin DDT Diazinon Propoxur or Baygon
+Derris Resmenthrin DDD M alathion
+Rotenone Bioresmenthrin Methoxychlor Dichlorvos Carbaryl
+Allethrin HCH (BHC) Parathion Dim etilan
+Lindane Chlorthion Pyrolan
+Dieldrin Fenthion
+Chlordane Abate
+Heptachlor Dimethoate
+Toxaphene Dioxathion
+Kepone FenitrothionAldrin Gardona
+Endrin Naled
+Mirex Methyl parathion
+TrichlorphonChlorpyrifos
+EPN
+RonnalTrichlorfon
+Dicapthon
+122
+PART II: Epidemiological Triadclosed spaces. In the planes and ships, it is used largely
+to check the spread of yellow fever from one countryto another. The active principle is an oily liquid, forming1 percent by weight of dried flowers. The oil contains4 complex esters pyrethrins I and II and cinerins I andII, soluble in kerosene or other oils and organic solvents.They are unstable and are destroyed by heat andsunlight. They are harmless to vertebrates. 2.5 percentpyrethrum solution in kerosene or an emulsion withsoap and water is required for 1000 cu ft of space (0.1g/m
+3). The concentration of pyrethrins in this solution
+is about 0.1 percent. After spray, the rooms should bekept closed for about an hour. Piperine compounds,piperonyl cyclonene and piperonyl butoxide, enhancethe action of pyrethrins and are good synergists oradjuvants when mixed in the ratio of one part with 5parts pyrethrum. The effect is quicker and morepersistent and the kill is greater. Sesame oil, thoughweaker than piperine in synergic action, is also used asit is cheap. Addition of 3 percent DDT also synergisesits action. Pyrethrum may be used as spray, dust oraerosol. For the latter purpose, aerosol bombs or specialdispensing devices containing pyrethrum in liquefiedfreon gas are used.
+Rotenone : This is the active principle pr
+ esent in the
+rhizomes of tropical legumes Derris and Lonchocarpus.The roots are dried and powdered and used as insecticidaldust. The active principle is extracted in organic solvents.It was widely used against lice and fleas.
+Allethrin  is a synthetic compound acting like pyrethrin
+but is more stable and persistent. It is also called‘synthetic’ pyrethrin. It is less effective than pyrethrin evenin combination with synergists but is cheaper.
+Organochlorines (Chlorinated Hydrocarbons)
+Ten such compounds are listed below with varying spec-trum of use. The most important of these have so farbeen DDT and BHC, but their use is being grosslycurtailed now.
+1.DDT (Dichloro diphenyl trichlorethane) : It is a
+white, odorless, crystalline, substance insoluble inwater but soluble in organic solvents like keroseneoil. It has high residual toxicity lasting for 2-6months. In the concentrations used, it is lethal tothe majority of common insects but not to theireggs. It is absorbed from the skin and mucousmembranes, hence workers should wear gloves,shoes and aprons and should use respirators inclosed spaces. Fatal dose is 250 mg/kg, i.e. 1.5 to20 g for an adult. Cows fed on sprayed grassexcrete DDT through milk. This is a warningagainst indiscriminate use of insecticides andpesticides in the fields. DDT is a cerebrospinalpoison. The chief toxic symptoms are tremors,paralysis and convulsions. It also injures the liverand causes anorexia and vomiting. It depressesbone marrow and may cause purpura. Dermatitisis seen in some cases.
+T reatment  of poisoning is stomach wash and
+general supportive measures. Phenobarbitone isgiven to lessen excitement and to avoid convul-sions. Other anticonvulsants may sometimes bynecessary. Sympathomimetic drugs should beavoided in such patients, as there is risk ofventricular fibrillation.
+DDT has been variously used as 10 percent
+dust (mixed with chalk or talcum powder, to killlice), 5 to 7.5 percent water suspension (for sprayover mud walls, etc.) 3 to 5 percent emulsion (forcemented and polished surfaces) and as oilysolution for space spray when mixed withpyrethrin. However, the use of DDT has beenstopped all over the world now, because of wide-spread mosquito resistance. Moreover, DDT isnonbiodegradable. It was decided to phase out itsuse in India by March 1997.
+2.Methoxychlor : It is a cream colored powder.
+Toxicity being much less than DDT, it is the safestchlorinated compound. Faster in action but lesslasting, it is used against flies, fleas, etc. as 5 percentdust or solution.
+3.Benzene hexachloride (BHC) or hexachlorocyclo-hexane (HCH) : In crude form it has as number
+of isomers of which the gamma isomer alone hasthe killing power. The crude form contains only10 to 16 percent of the gamma isomer. It isinsoluble in water but soluble in organic solvents.It acts on arthropods mainly as a contact poisonbut, being volatile, it has fumigant action as well.It is more effective and quicker but less persistentthan DDT. It kills most insects but not their eggs.Fatal dose is 150 mg per kg. Toxic symptoms aresame as in case of DDT. The dust irritates the eyesand respiratory tract. There is no specific antidote.General measures are usually sufficient.
+Lindane or gammexane is a preparation
+containing 99 percent of the gamma isomer. Thisis the form used most because of its potency.Crude BHC is now seldom used. Gammexane isused as a 0.5 to 1 percent solution for spray andas 5 to 10 percent powder for dusting.
+Like DDT, the manufacture of BHC in India was
+to be stopped after March 1997 with concomitantefforts to switch over from nonbiodegradableinsecticides like DDT and BHC to biodegradableones like melathone and synthetic pyrethroids.
+4.Dieldrin : Named after Dr Diel, it is a chlorinated
+cyclodiene, buff or light brown in color, more toxicthan BHC but equally persistent as DDT . Toxicityto mammals is higher and it causes epilepsy likesymptoms in man. It is used for surface spray

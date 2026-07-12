@@ -1,0 +1,2472 @@
+373
+CHAPTER 21: Epidemiology of Noncommunicable Diseases
+• Polyuria and polydipsia.
+• Plasma glucose of 126 mg/dl or higher after an
+overnight fast on more than one occasion. After 75 goral glucose, diagnostic values are 200 mg/dl or more2 hours after the oral glucose.
+• Hypertension, dyslipidemia, and atherosclerosis are
+often associated.
+Diagnostic Tests Used to Define
+Glycemic Status (Table 21.8)
+Venous plasma glucose : This is the standard
+method for measuring and r
+eporting. However, in
+recognition of the widespread use of capillarysampling, especially in under-resourced countries,conversion values for capillary plasma glucose areprovided for post-load glucose values. For somereasons the conversion of whole blood glucose toplasma glucose is problematic and the previouslypublished WHO conversion tables may be inaccuratein some situations. Venous and capillary samples willgive the same result in the fasting state but in thenonfasting state capillary will give higher results thanvenous samples.
+Glucose should be measured immediately after
+collection by near patient testing, or if a blood sampleis collected, plasma should be immediately separated,or the sample should be collected into a container withglycolytic inhibitors (e.g. NaF) and placed on ice-wateruntil separated prior to analysis.
+Oral glucose tolerance test (OGTT):  There is
+continuing debate about the place of the oral glucosetolerance test (OG
+TT) for clinical and epidemiological
+purposes. The test is recommended by the WHO.Although ADA acknowledges the OGTT as a validway to diagnose diabetes, the use of the test fordiagnostic purposes in clinical practice is discouragedin favor of fasting plasma glucose for several reasons,including inconvenience, greater cost and lessreproducibility.
+The OGTT should be retained as a diagnostic test
+for the following reasons:• Fasting plasma glucose alone fails to diagnose
+approximately 30 percent of cases of previouslyundiagnosed diabetes.
+• An OGTT is the only means of identifying people
+with IGT.
+• An OGTT is frequently needed to confirm or
+exclude an abnormality of glucose tolerance inasymptomatic people.An OGTT should be used in individuals with fasting
+plasma glucose 6.1 to 6.9 mmol/l (110 to 125 mg/dl)to determine glucose tolerance status.
+Glycated hemoglobin (HbA1c):  HbA1c reflects
+average plasma glucose over the previous 2 to 3
+months in a single measure which can be performedat any time of the day and does not require anyspecial preparation such as fasting. These propertieshave made it the gold standard for assessing glycemiccontrol in people with diabetes and have resulted inits consideration as an option for assessing glucosetolerance in people without diagnosed diabetes.Currently HbA1c is not considered a suitablediagnostic test for diabetes or intermediate
+hyperglycemia.
+In November 2005 a joint WHO and International
+Diabetes F
+ederation (IDF) Technical Advisory Group met
+in Geneva to review and update the current WHO
+guidelines.
+Prevention and Control
+•Diet: A well-balanced, nutritious diet remains a
+fundamental element of therapy. The AmericanDiabetes Association (ADA) recommends about 45to 65 percent of total daily calories in the form ofcarbohydrates; 25 to 35 percent in the form of fat(of which less than 7% are from saturated fat), and10 to 35 percent in the form of protein. In patientswith type 2 diabetes, limiting the carbohydrate intakeand substituting some of the calories withmonounsaturated fats, such as olive oil, rapeseed(canola) oil, or the oils in nuts and avocados, canlower triglycerides and increase HDL cholesterol. Thecurrent recommendations for both types of diabetescontinue to limit cholesterol to 300 mg daily, andindividuals with LDL cholesterol more than 100 mg/dl should limit dietary cholesterol to 200 mg daily.High protein intake may precipitate renal disease inpatients with diabetic nephropathy; for theseindividuals, a reduction in protein intake to 0.8 kg/TABLE 21.8: This table summarizes the 2006 WHO
+recommendations for the diagnostic criteria for diabetes and
+intermediate hyperglycaemia1
+Diabetes
+Fasting plasma glucose ≥ 7.0 mmol/l (126 mg/dl)
+2–h plasma glucose* or
+≥ 11.1 mmol/l (200 mg/dl)
+Impaired Glucose Tolerance (IGT)
+Fasting plasma glucose < 7.0 mmol/l (126 mg/dl)
+2–h plasma glucose* and
+≥ 7.8 and < 11.1 mmol/l
+(140 mg/dl and 200 mg/dl)
+Impaired Fasting Glucose (IFG)
+Fasting plasma glucose 6.1 to 6.9 mmol/l
+2–h plasma glucose* (110 mg/dl to 125 mg/dl)
+and (if measured)
+<7.8 mmol/l (140 mg/dl)
+* Venous plasma glucose 2–h after ingestion of 75 g oral glucose load
+* If 2–h plasma glucose is not measured, status is uncertain as diabetes
+or IGT cannot be excluded
+374
+PART II: Epidemiological Triadday (or about 10% of total calories daily) is advised.
+Dietary fiber tends to retard nutrient absorption ratesso that glucose absorption is slower andhyperglycemia may be slightly diminished. Highsoluble fiber content in the diet may also have afavorable effect on blood cholesterol.
+7
+•Drug: Hypoglycemic drugs and insulin are used.
+•Exercise : For weight reduction. Behavior modification
+to achieve adherence to the diet, as well as increasedphysical activity to expend energy are required.
+National Diabetes Control Program
+The National Diabetes Control Program was started on
+a pilot basis during the Seventh Five Year Plan in somedistricts of Tamil Nadu, Jammu and Kashmir andKarnataka, but, due to paucity of funds in subsequentyears this program could not expand further.
+The five objectives of the program are:
+1. Primary prevention by identifying high risk subjects
+at an early stage and imparting appropriate riskreducing health education to them, their family andcommunity by IEC program.
+2. Secondary prevention through early diagnosis and
+appropriate treatment of the disease to reducemorbidity and mortality with special reference togroups at risk.
+3. Prevention of acute metabolic and chronic cardio-
+vascular, renal and ocular complications of the disease.
+4. Provision of equal opportunities for physical attain-
+ment and scholastic achievement for the diabeticpatients; and
+5. Rehabilitation of those particularly or totally physi-
+cally handicapped due to the disease.
+References
+1. Definition and Diagnosis of Diabetes Mellitus and
+Intermediate Hyperglycemia. Report of a WHO/IDF
+consultation. World health organization 2006.
+2. Gupta V , Suri P . Diabetes in elderly patients. JK Practitioner.
+2002;91: 258–9.
+3. Gulabani M, John M, Isaac R. Knowledge of Diabetes, its
+Treatment and Complications amongst Diabetic Patients ina Tertiary Care Hospital. Indian Journal of CommunityMedicine. 2008;33(3):204–6.
+4. Kelinfield NR. Modern ways open India’s door to diabetes.
+NY Times Sep 13 2006 release.
+5. Ramachandran A, Snehalatha C, Kapur A, Vijay V , Mohan
+V , Das AK, et al. High prevalence of diabetes and impairedglucose tolerance in India: National urban diabetes survey.Diabetologia, 2001;9:1094-1111.
+6. National Cardiovascular Disease Database. Sticker No: SE/
+04/233208. IC Health. Ministry of Health and FamilyWelfare, Government of India and World HealthOrganization. Available at www.whoindia.org/LinkFiles/NMH_Resources_National_CVD_database-Final_Report.
+7. American Dietetic Association. Available at www.eatright.
+orgAccidents
+Accidents constitute an important cause of preventablemorbidity, mortality and disability. In case of 58countries for which data were available with the WHO,mean mortality rate due to accidents, poisoning andviolence was found to be 64 per 1,00,000 population.
+1
+These causes accounted for 5 to 10 percent of all deathsin the majority of these countries. Accidents constitutethe first leading cause of death for the age group 5 to45 years in developing as well as developed countriesand the third leading cause at all ages. However, theaccident deaths form a lesser proportion of total deathsin the lesser developed countries because of a largernumber of deaths due to infection and malnutrition,etc.
+1 Such proportion is often less than 10 percent of
+the age group 5 to 14 years in developing countries,compared to over 40 percent for boys and over 30percent for girls in highly industrialized countries. Theclassification of accidents according to the InternationalClassification of Diseases is given below.• Motor vehicle accidents• Suicide and self-inflicted injury• Accidental falls• Accidents mainly of industrial type• Accidental drowning and submersion• Accidental poisoning• Accidents caused by fires, etc.• All other accidents.
+Motor accidents and suicide are two major causes
+of accidental deaths. Data from 54 countries reveal theannual figures to be 173,000 deaths due to motoraccidents and 120,000 due to suicide. Assuming 30percent underreporting for suicide, it can be safelystated that the mortality from suicide is on the same scaleas that from motor vehicle accidents.
+1
+Motor Accidents
+Road accidents are emerging as a major cause of deathin most countries. A case study from Delhi brings out thefacts vividly. According to the data from Delhi TrafficPolice
+2 the number of vehicles in Delhi increased three
+and a half times during 1982 to 1990, resulting in a sharpincrease in accidents and fatalities (Table 21.9).According to a study by the Central Road ResearchInstitute, the major factors for increase in road deaths are:
+TABLE 21.9: Road accident trends in Delhi
+1982 1988 1989 1990
+No. of vehicles (In lakhs)
+Motor vehicles 6.45 14.16 15.90 18.30
+Slow moving 4.63 14.41 16.30 19.06
+% increase in accidents
+over previous year 11.25 7.7 7.08 7.02
+375
+CHAPTER 21: Epidemiology of Noncommunicable Diseases(i) Rapid increase in personalized modes of transport, (ii)
+A mixture of slow and fast vehicles and, (iii) A lack ofroad discipline. Added to the above three is thecontributing factor of a large number of two wheelersin Delhi the largest for any city in the world. The twowheelers are a peculiarly dangerous mode of transportbecause of the size and balance factors. The risk ofaccident related death is five times higher in two wheelersriders compared to car drivers. A study conducted bythe Indian Institute of Technology, Delhi, found thenumber of crash deaths per million passenger kilometersto be 16.8, 7.8, 3.5 and 3.4 for two wheelers, threewheelers, cars and buses, respectively.
+Safety measures: More than 10,000 persons can be
+saved every year in India by following road safety
+precautions.
+3 Some of these precaution are as follows.
+•Use of helmet: Use of helmet by two wheeler ridersis compulsory as per the Motor Vehicles Act.However, transport being a state subject, only a fewstates have notified the use of helmet as acompulsory measure. It is unfortunate that in spiteof the proven benefit of the helmet in preventionof head and neck injury, its use is subject to politicalconsiderations. For example, notifications regardingthe use of helmet already issued in Kerala, AndhraPradesh, Karnataka and Tamil Nadu, werewithdrawn with the change in ruling party in thestate. In Australia, even the cyclists have to use a
+helmet.
+The three desirable attributes in a good helmet
+are as follows:
+1. It should cover as much of face area as possible.2. Its thermocol padding should be at least 22 mm
+thick.
+3. It should be yellow or orange, these being the
+two most visible colors. Visibility can be furtherenhanced by putting reflective strips on the backand sides of the helmet.
+•Use of scooter lights during day time: Keeping
+scooter headlights on during the day enhancesvisibility of the scooter and thus reduces the risk ofaccident.
+•Use of proper glass in wind screen: Indian vehicles
+use toughened glass in the wind shield. The use ofsuch glass is banned in the West. Toughened glassstores energy during an accident and transfers it tothe head as soon as the person hits it. Hence, theglass causes more damage.
+All cars in the West are now fitted with laminated
+wind shield. This has a plastic layer between theglass sheets. When it shatters, the glass sticks to theplastic which does not allow the head to passthrough. This has proved to the single most affectivemeasure.
+•Pneumatic bus doors:  More than half of the road
+deaths are due to fall from moving buses.Pneumatic doors which close before the bus startscan go a long way in preventing fatal road accidents.
+•Curb parking: Studies have shown that too many
+vehicles parked on the road is a risk factor for acci-dents as drivers are not able to see pedestrians cross-ing across the road from behind the parked vehicles.
+Proper parking is therefore an important preventive
+measure.
+3
+•Drinking and driving: Education of people and strictaction by police to control drunken driving isextremely important to reduce unwanted deaths on
+the roads.
+7.Use of low beam headlights: In India most people
+drive at high speed with high beam lights. Theselights blind and dazzle the person coming in the
+opposite direction and can cause accidents.
+8. Use mobile phones while driving has been established
+as a contributory factor for vehicle accidents.
+Accident and Trauma Services
+In view of the increasing morbidity and mortality due
+to accidents, a model accident and trauma service wasproposed to be initiated in Delhi with the fallowingobjectives:• Providing prompt services to injured person right
+from the site of the accident.
+• Preventing number of deaths and extensive disabilities.• Training medical and paramedical personnel in first
+aid resuscitation and treatment.
+• Establishing zonal peripheral centers and apex center
+with all essential facilities for trauma care andappropriate networking.A modest beginning was made in procuring ambu-
+lances fitted with essential equipment and strengtheningof tertiary care hospitals in Delhi. A comprehensiveaccident and trauma service for the National Capital isplanned.
+4
+Haddons Matrix5,6 (Table 21.10)
+It is a framework for analyzing injury based on the host(i.e. the person injured), the agent (i.e. what caused theinjury, e.g. electrical energy) and the environment (i.e. thephysical and social context in which the injury occurred).
+Analyzing injury in this way helps to develop a three
+tiered approach to approach to injury prevention whichincludes behavioral, environmental and policy changes.Haddon’s Matrix is used to assess injury and methodsof prevention.
+Suicide
+Challenges to the health of children have been changingin the recent decades. Childhood diseases causingsignificant mortality and morbidity in the past fewdecades have now been tackled through immunization
+376
+PART II: Epidemiological Triad
+and child health programs. However, new challenges
+threatening child health are emerging. Child abuse andneglect is one of them. Child abuse is an emotional,physical, economic and sexual maltreatment meted outto a person below the age of eighteen.
+7 The Centers
+for Disease Control and Prevention (CDC) define childmaltreatment as any act or series of acts of commissionor omission by a parent or other caregiver that results
+in harm, potential for harm, or threat of harm to achild.
+8 Most incidents of child abuse occur in a child’s
+home, but instances of abuse occurring in school or thecommunity with whom the child interacts with are alsonot uncommon.
+Worldwide about 40 million children under the age
+of 14 years are estimated to suffer from abuse andneglect.
+9 One of the most important long-term
+consequences of childhood abuse is suicidal behaviorin adolescence.
+10 Adolescents and young adults with a
+history of childhood maltreatment were 3 times morelikely to become depressed or suicidal compared withindividuals without such a history.
+11 Physical abuse and
+neglect by parents is found as one of the main reason
+for suicidal behavior among Indian adolescents.12
+References
+1. WHO: Tech Rep Ser No. 322,1986.
+2. Indian Express 20.9.91.
+3. Roberts I et al: Effect of environmental factors on risk of
+injury of child pedestrians by motor vehicles: a case controlstudy. BMJ 1995,310:91-94.
+4. Govt of India. Ninth Plan Document, 1997-2002.
+5. Christoffel T, Gallagher SS. Injury Prevention and Public
+Health. 2nd edn Jones & Bartlett, 2005.
+6. Haddons Matrix. Available from: http://www.ihs.gov/
+medicalprograms/portlandinjury/Worddocs/
+Getting%20Started/Haddon%20Matrix/HaddonMatrixBasics.pdf
+7. Study on Child Abuse: India 2007. Ministry of Women
+and Child Development. Ministry of Women and ChildDevelopment, Government of India. New Delhi 2007.
+8. Leeb RT , Paulozzi LJ, Melanson C, Simon TR, Arias I. Child
+Maltreatment Surveillance: Uniform Definitions for PublicHealth and Recommended Data Elements. Centers for
+Disease Control and Prevention. 2008. Available from
+http://www.cdc.gov/ncipc/dvp/CMP/CMP-Surveillance.9. Prevention of Child Abuse and Neglect: Making the links
+between human rights and public health. Geneva: WorldHealth Organization. World Health Organization 2001.
+10. Silverman AB, Reinherz HZ, Giaconia RM. The long-term
+sequelae of child and adolescent abuse: A longitudinalcommunity study. Child Abuse and Neglect 1996;20:709-723.
+11. Brown J, Cohen P , Johnson JG, Smailes EM. Childhood
+abuse and neglect: specificity of effects on adolescent and
+young adult depression and suicidality. Journal of theAmerican Academy of Child and Adolescent Psychiatry1999;38:1490-1496.
+12. Sidhartha T, Jena S. Suicidal Behaviors in Adolescents.
+Indian Journal of Pediatrics 2006;73:783-788.
+Blindness
+Blindness is now a major public health problem bothin the developed and the developing countries. Ablindness prevalence rate of more than 1 percent iswidely acknowledged as indicative of a significantpublic health problem.
+1 The past few decades have
+seen an upsurge in the number of the blind. This isdue to increase in total population and increase inlife expectancy resulting in increase in geriatricpopulation. It is well known that the aged suffer 20to 100 times more from blindness compared tochildren.
+Definition
+No standard definitions existed earlier for defining themagnitude. The WHO in 1979 defined categories ofvisual impairment
+2 as a first step to obtain comparable
+data (Table 21.11).
+TABLE 21.11: Categories of visual impairment and blindness3
+Category Visual acuity
+(with both eyes, using best possible correction)
+1 Below 6.18 to 6/60 to 3/60 or more
+2 Below 6/60 to 3/60 or more3 Below 3/60 to 1/60 or more (Finger counting at 1 M)
+4 Below 1/60 to Light perception alone
+5 No light perception6 Undetermined or unspecified. Phase Host Vehicle Physical environment Social environment
+ Pre-event Driver ability, driver training Maintenance of brakes, Adequate roadway markings, Attitudes to drink driving/
+vehicle inspection programs, correct installation of child speed/use of child
+installation of child restraint, restraint, right child restraint restraints for every car trip
+child restraint checking for child’s height and weight
+programs
+ Event Human tolerances to crash Crash worthiness of the Presence of fixed object Enforcement of mandatory
+forces, wearing of seatbelt, vehicle (e.g. crush space), near roadway, presence seatbelt and child restraint
+having child in a correctly crash worthiness of child of unsecured object within usefitting child restraint restraint (e.g. head extrusion) the vehicle
+ Post-event Crash victims general Petrol tanks designed to Availability of effective and Public support for trauma
+health status minimize likelihood of post timely emergency response care and rehabilitation
+crash fireTABLE 21.10: Haddons matrix
+377
+CHAPTER 21: Epidemiology of Noncommunicable Diseasesand diabetic retinopathy are the other major causes,
+each being responsible for approximately 10 to 20
+percent of blindness.
+In developing countries, cataract is responsible for
+40 to 70 percent of all blindness and glaucoma for 10
+percent. Onchocerciasis is seen exclusively in Africa andSouth America and trachoma in trophical regions. Inchildren, genetic factors are the major cause of blindnessin the west, while xerophthalmia and measles areresponsible for more than 50 percent of childhoodblindness in Asia and Africa.
+4
+The prevalence of blindness in different geographical
+regions is given in Table 21.13.
+Magnitude in India
+The first comprehensive survey was undertaken byICMR in 1971 to 74. This survey projected that 9million were economically blind in the country. Of these3.14 million had visual acuity of 3.60 or less. The majorcauses of blindness in this survey are shown in Table
+21.14.
+This survey showed that cataract had emerged as
+the major cause of blindness in the country while cornealcauses accounted for about 25 percent.
+5 The most
+recent survey was carried out by NPCB and SHO overthe period 1986 to 89. This survey showed that there
+TABLE 21.12: Causes of blindness—worldwide
+Cause No blind Geographical distribution
+(Millions)
+Cataract 16.0 U niversal
+Trachoma 6.0 Poor, hot, dry areas
+Glaucoma 5.5 Open angle-Africa; Angle
+closure-South-East Asia
+Xerophthalmia 0.5 Asia, Africa
+Onchocerciasis 0.5 Africa, Latin America
+Age related macular
+degeneration 1.0 Developed countries
+Diabetic retinopathy 0.25 Developed countries
+Leprosy 0.25 Asia, Africa
+Others 2.50 U niversal
+Source: Ref 3 (slightly modified)The WHO recommends that categories 3,4 and 5
+should be labeled as blind while categories 1 and 2
+denote visual impairment. Thus, for internationalcomparisons, a cut-off point of 3/60 is important. Itshould also be noted that although visual loss is definedprimarily in terms of distant visual acuity, account shouldalso be taken, wherever possible, of visual field and nearvision. For visual field comparisons, patients with fieldof vision less than 10° but more than 5° around centralfixation should be placed in category 3 while those witha field loss of less than 5° should be placed in category4 even if the central acuity is not impaired.
+2 Though
+there is a need for an internationally acceptabledefinition for comparing populations, each countrymust endeavor to define blindness in relation to its ownsocial and economic conditions.
+The National Program for Control of Blindness in
+India defines blindness in the following manner.
+Vision < 6/18-6/60 in better eye : Low vision
+Vision < 6/60-3/60 in the better eye : Economic blindness
+Vision < 3/60 in the better eye : Social blindness
+Thus the Indian definition basically consider anybody
+whose earning potential (economic blindness) isimpaired as blind while the WHO considers anybodywho is not able to lead a normal social life (socialblindness) as blind. The two terms are therefore called‘Work Vision’ and ‘Walk Vision’ to differentiate betweenthe Indian and the WHO definition.
+Global Magnitude
+It must be appreciated that there is a paucity of reliable
+and accurate data on blindness. It must also be remem-bered that because of variation of blindness criteria,
+most available figures are not strictly comparable.
+Early five seconds one individual goes blind (<3/
+60) somewhere in the world. Globally, the WHOestimates that in 2000 
+AD, there were nearly 45 million
+blind people (< 3/60) and 135 million with low vision
+(< 6/18-6/60 in better eye). Therefore 180 million
+people around the world have some degree of visual
+disability. Cataract is the main cause of blindnessworldwide with an estimated 16 million being cataract
+blind. It is estimated by the WHO that nearly 7 million
+newly blind are added every year of whom 70 percenthave their vision restored by treatment. The number
+of blind people is therefore increasing by 2 to 3 million
+every year. Without intensified efforts, the prevalenceof blindness is likely to double by 2020 AD.
+3
+The prevalence in the developing countries is 10 to
+40 times higher as compared to the developedcountries.
+On a global scale, the causes of blindness are as
+shown in Table 21.12.
+The major cause of blindness in the Western World
+is age-related macular dgeneration which accounts for25 to 50 percent of adult blindness. Glaucoma, cataractTABLE 21.13: Prevalence of blindness and
+estimated blind population
+Region Population Prevalence of Blind population
+(millions) blindness (%) (millions)
+Asia 2800 0.8 20.0
+Africa 550 1.0 6.0
+Latin America 400 0.5 2.0
+Europe/USSR/ 700 0.2 1.5
+Oceania
+North America 260 0.2 0.5
+378
+PART II: Epidemiological Triad
+was an increase in the blind population in India. The
+cut-off point was taken as 6/60 and it was seen thatthere were 12 million blind in both eyes and another8 million in one eye. The causes enumerated in thissurvey are shown in Table 21.15.
+The major factors responsible for high prevalence
+of blindness in India are follows:• Increase in population• Increased life expectancy• Poor access to eye care facilities• Under utilization of available ophthalmic manpower• Compromised nutritional status of mothers, infants
+and children
+• Lack of awareness regarding eye health• Environmental factors predisposing to high infection
+rates.Based on the 1986 to 89 survey, the States in India
+have been categories as follows Table 21.16 :
+A pilot survey was undertaken in two districts in the
+country in 1999. This was done in Sivagana district(Tamil Nadu) and Bharatpur district (Rajasthan). Thecause of blindness among 50 + population were asfollows:Cataract 55 percent
+Uncorrect refractive error 19 percent
+Glaucoma 4 percent
+Corneal pathology 7 percent
+Other causes 15 percent
+Major Blinding Disorders
+Experience from several developing countries hasdemonstrated that 2/3 or more of existing blindness isavoidable, i.e. either preventable (as in the case oftrachoma and vitamin A deficiency) or curable (as resto-ration of sight in cataract and refractive errors).
+The main blinding diseases have specific epidemio-
+logical characteristics which, if properly assessed, mayincrease effectiveness of intervention strategies.
+Cataract
+Surveys in a number of countries suggest that almosthalf of the world’s blind are those having unoperatedcataract. Surveys in Nepal, Saudi Arabia, India,China, Thailand, Sri Lanka and Vietnam confirmcataract as being responsible for 40 to 80 percent ofblindness.
+6
+Age: Cataract is usually diagnosed after the age of 60 to
+70 years in most of the developed countries. In developingcountries, the onset is much earlier
+, usually after the age
+of 40 years. In India, cataracts are 3 times more commonand develop earlier in life compared to USA.
+Sex: Women are more commonly affected but men
+have been observed to be 1.6 times more likely to haveundergone cataract extraction.
+Socioeconomic status: Those from lower socioeco-
+nomic state have a higher incidence. This could be
+related to poor nutritional status, use of cheap fuelsources and extensive exposure to sunlight, all of whichar
+e important determinants for cataract. Similarly, low
+literacy levels also predispose to increased risk ofcataract. The literacy effect may also be due to otherunderlying socioeconomic factors.
+Exposure to sunlight: Ultraviolet radiation above
+295 nm has been postulated to be cataractogenic.This is a component of sunlight. P
+opulation-based
+studies in USA, Australia and Nepal provide evidencefor the role of sunlight in cataract formation. In Nepal,sites exposed to an average of 12 hours of sunlight had3.8 times as much cataract as sites exposed to only 7hours of sun.
+8
+Other factors: Diabetes, cigarette smoking, dehydra-
+tional crisis and the type of fuel used for cooking haveall been hypothesised to be important determinants.However
+, no conclusive evidence has yet been
+presented.TABLE 21.16: Vatious categories of states in India
+Category Prevalence (%) States
+Low < 1 Punjab, HP, Delhi, West Bengal,
+North Eastern States
+Moderate 1 to 49 Gujarat, Haryana, Kerala, Bihar,
+Karnataka, Andhra Pradesh, Assam
+High 1.5 to 1.9 Maharashtra, Orissa, Tamil Nadu,
+Uttar Pradesh
+Very high > 2 Madhya Pradesh, Rajasthan, J and KTABLE 21.15: Causes of blindness and visual impairment
+in the WHO NPCB survey 1986–89.
+Causes Percentage of blind
+Cataract 81.0
+Refractive errors 7.0
+Corneal opacities 3.0Glaucoma 2.0Trachoma 0.2Vitamin A deficiency 0.04
+Others 7.0TABLE 21.14: Causes of blindness—ICMR (1971–74)
+Causes Percentage of total blindness
+Cataract 55.0
+Vitamin A deficiency 2.0Trachoma 5.0Glaucoma 0.5Smallpox 3.0Injuries 1.5Other infections 15.0Other causes 18.0
+379
+CHAPTER 21: Epidemiology of Noncommunicable DiseasesNutritional Blindness
+Xerophthalmia is a major cause of blindness in the pre-
+school age group (0 to 5 years) and is commonly
+associated with malnutrition. Twenty-three countries in
+the world have the highest risk of vitamin A deficiency.India, Bangladesh, Indonesia, Nepal, Sri Lanka, Vietnam
+and the Philippines have a public health problem in the
+Asian region. Cross-sectional prevalence surveys in Asiaindicate that 0.4 percent of the preschool children suffer
+from nutritional blindness.
+Corneal involvement leading to blindness is seen
+only in the preschool age group. Though nightblindness and Bitot’s spots occur more frequently in
+males, the incidence of active corneal lesions is similarin both sexes. Nutritional blindness is mostly aggregated
+in lower socioeconomic strata. Concurrent infection with
+measles increases the risk of nutritional blindness.Disasters, whether natural or man made, also increase
+the risk. Early withdrawal from the breast and late
+supplementation are related to deficiency states.
+Glaucoma
+This disease may manifest in several forms but mainly
+as angle closure glaucoma with sudden intense pain andrapid loss of vision or open angle glaucoma as a chronicinsidious disease with slow but progressive loss of visualfields. Both forms are age related, occurring predomi-nantly after the age of 40 years. The classical presentationis a triad consisting of elevated intraocular pressure,characteristic optic disc changes and visual field losses.
+In India, prevalence of glaucoma has been reported to
+vary from 4.4 to 7.2 percent of population above 35 yearsof age. The ratio of open angle glaucoma to angle closure
+glaucoma in India is now thought to be almost equal.
+Trachoma
+Worldwide, trachoma is the most common cause of
+preventable blindness. Trachoma and associated infec-
+tions are estimated to affect 400 to 500 million in the
+world, of whom approximately 2 million get blind.
+Blinding trachoma is no longer seen in the west.
+Presently, blinding trachoma is endemic in most of
+North Africa and the Eastern Mediterranean region
+and in parts of Asia, East and West Africa and Latin
+America.
+Blinding trachoma is a disease of rural areas, urban
+slums and shanty towns where environmental sanitation
+is poor, overcrowding is rampant and personal hygiene
+is poor.
+Trachoma can affect any age group but younger
+the age at onset of the trachomatous process, the more
+severe is the disease. In endemic areas, trachoma ismost prevalent below the age of 2 years. There is agradual decline in prevalence after the age of 5 to 6years. In these areas the active inflammatory stage oftrachoma starts during infancy, with gradualconjunctival scarring during school age andadolescence. The most common blinding complication,inverted eyelids, does not appear until the fourthdecade of life or later.
+9 Trachoma prevalence is lower
+in J and K, West Bengal, Maharashtra, Kerala, AP ,Orissa, TN and Kerala.
+Over the years, blinding trachoma has declined in
+the country. In 1971 to 74 it was responsible for5 percent of blindness while in 1986 to 89 theprevalence of blinding trachoma came down to 0.2percent. Females suffer more from trachoma and alsohave a higher risk of blinding trachoma.
+Environmental risk factors are very important for
+evolution of trachoma. Trachoma abounds whereverhousing conditions are poor, with overcrowding, non-existent domestic sanitation, inadequate water supply anddusty, dirty environment. Flies abound in suchcircumstances, facilitating infection and reinfection.
+Water scarcity has been incriminated as an important
+determinant. Related to the availability of water is thefrequency of face washing; the less the frequency of facewashing, the more is the frequency of trachomatousafflictions.
+AGE-RELATED MACULAR DEGENERATION (ARMD)
+This is the leading cause of blindness in the USA andEngland. The etiology of this disorder remainsunknown. The risk of macular degeneration increaseswith age, especially after the fifth decade. 2.2 percentof people above 65 years of age go blind every yearin USA due to ARMD. 6.4 percent of people aged 65to 74 years and 19.7 percent of people aged 65 to74 years and 19.7 percent of those above 75 yearshave ARMD in USA. In India more than 1 millionpeople have ARMD. The 1986 to 89 ICMR-WHOsurvey documented that the rate of blindness due tomacular and optic nerve diseases is 0.12 percent and0.08 percent respectively. It is clear that as lifeexpectancy increases, the magnitude of this diseaseswill increase. There is a 50 percent higher prevalenceof ARMD in females in the USA.
+10 Persons having
+hyperopia are more likely to have ARMD, as alsocigarette smokers.
+10
+Onchocerciasis
+Endemic onchocerciasis occurs in tropical Africa,Central America and in isolated foci of South America.It is a particularly serious problem in the Savanna beltof West Africa where it has been recognized as a leadingpublic health problem. It is estimated that more than20 million people are infected and that 500,000 haveseverely impaired vision.
+380
+PART II: Epidemiological TriadOCULAR LEPROSY
+Great variations in the incidence of ocular complications
+in leprosy have been reported. It is thought that oculartissues are ultimately involved in all untreated cases.Conservative estimates suggest that 5.25 percent ofleprosy patients may have ocular complications. It isestimated that worldwide, 250,000 leprosy patients areblind.
+Measles
+Surveys in blind schools in Africa have shown that upon75 percent of blindness in children is caused by cornealscarring.
+Approximately, 50 percent of these children give
+a history of measles occurring shortly before theybecame blind. Two out of 5 blind children in Africamay have become blind due to measles.
+11 Measles
+infection leads to corneal ulceration and cornealscarring. Blindness results from corneal ulcerationwhich is predisposed by vitamin A deficiency, herpessimplex infection or by use of certain traditionalmedications. Three doses of 200,000 IU of vitamin Aon 1st, 2nd and 7th days should be administered toall cases of measles corneal ulceration. Measlesimmunization to susceptive children obviously reducesthe blindness rate.
+11
+Control Measures for Blindness
+The objective of WHO’s prevention of blindness teamis to assist Member States to effectively preventblindness and restore sight, when possible. The globaltarget is to ultimately reduce blindness prevalence to lessthan 0.5 percent in all countries, or less than 1  percentin any country.
+Since the estimates of the 90s, the new data based
+on the world population of 2002 show a reduction inthe number of people who are blind or visuallyimpaired, in particular, those who are blind because ofinfectious causes. But there is an increase in the numberof people who are blind or visually impaired due toincreasing longevity and the increase ofnoncommunicable chronic diseases. It will be necessaryto adapt the current strategies of prevention and carein order to take into account these demographic andepidemiologic trends.
+PRIMARY PREVENTION
+Primary prevention can be undertaken at two levels:
+Eye Health Promotion
+The strategy which can have an everlasting benefit inalleviation of blindness is health promotion. Healthpromotion strategies protect the individual by preventingcontact with the etiological agent. Eye health educationis an extremely important component of this strategy.It aims at:• Improved personal hygiene, especially face washing,
+for control of trachoma.
+• Improved child nutrition aimed at prevention of
+vitamin A deficiency
+• Augmenting health awareness which will help in early
+identification and management of cataract andglaucoma cases.
+Specific Protection
+Specific protection is important in reducing blindness inselected conditions:• Measles immunization has been documented to
+reduce measles related blindness.
+• Massive dose of vitamin A (2 lakhs IU at 6 monthly
+intervals) boost the body stores of vitamin A andprevent xerophthalmia.Improved environmental sanitation and availability
+of safe water reduce the load of trachoma.
+SECONDARY PREVENTION
+Early diagnosis and prompt initiation of treatment is the
+mainstay of any blindness control program. Secondary
+prevention becomes more important with gradual
+decline in infective and nutritional factors in etiology ofblindness and relative increase in noncommunicable
+blinding conditions.
+A multicentric study on cataract in 1982 to 83
+revealed that 7.53 million mature and hypermaturecataracts existed in rural area alone and that further 32
+million eyes had immature cataract and 18 millionincipient cataract. Based on available data, it was
+estimated that there was a cataract backlog (operable
+cases) of 22 million in 1990 and that a further 2 millionare added to this backlog every year. It is estimated that
+at the present rate of 1.2 million surgeries per year, the
+backlog would rise to 30 million by 2000 AD. Earlydiagnosis and prompt treatment are essential in all these
+cases. Eye camps, base hospitals and tertiary care
+centers, all have to play an important role.
+A large proportion of glaucoma goes unrecognized
+in the community. Institution of glaucoma screening inhigh risk groups would bring these cases to notice andprompt treatment can be instituted.
+Early detection and treatment is also important in
+vitamin A deficiency, leprosy, onchocerciasis, trachomaand diabetes. Mass chemoprophylaxis programs are
+extremely useful in trachoma (tetracycline) and
+onchocerciasis (ivermectin).
+TERTIARY PREVENTION
+Disability limitation and rehabilitation are not as cost
+effective as strategies aimed at eye health promotion,
+381
+CHAPTER 21: Epidemiology of Noncommunicable Diseasesspecific protection, early diagnosis and treatment.
+However, physical and vocational rehabilitation areessential for the terminally blind.
+National Program for Control of Blindness
+National Program for Control of Blindness was launchedin the year 1976 as a 100 percent centrally sponsoredprogram. Various activities of the program includeestablishment of Regional Institute of Ophthalmology,upgradation of Medical colleges and district hospitalsand block level Primary Health Centers, developmentof mobile units, and recruitment of required ophthalmicmanpower in eye care units for provision of variousophthalmic services.
+7 The program also extends assis-
+tance to voluntary organizations for providing eye careservices including cataract operations and eye banking.The goal is to reduce the prevalence of blindness from1.4 percent to 0.3 percent by 2000 AD.
+The infractures developed so far (1998) are as
+follows:
+Infrastructure
+ State ophthalmic cell created 21
+ Medical colleges upgraded 82
+ District hospital upgraded 445
+ District mobile units 341
+ PHCs augmented 5633
+ Eye banks (Government) 166
+ District blindness control society 501
+Performance of cataract operations has been steadily
+increasing during last 6 years rising from 16 lakhs in1992 to 93 to an estimated 40 lakhs cataract operationsduring 2001 to 2002. Previously most cataract surgerywas done by intracapsular cataract extraction but dueto better visual restoration with intraocular lens implants(IOL) the National program has been supportingaugmenting facilities in the government sector for IOLsurgery. Consequently the proportion of IOL implantsurgery has increased from 3 percent in 1993 to anestimated 58 percent in 2001 to 2002.
+Voluntary organizations are playing an important role
+in this program. With the success achieved and
+experience gained through the pilot districts, DistrictBlindness Control Societies (DBCS) have been
+established throughout the country under the
+Chairmanship of District Collector/Deupty Com-missioner. Training of District Program Managers is being
+carried out for 2 weeks. The District Blindness Control
+Society concept aims at decentralization to the districtlevel. The features of the DBCS are as follows:• Autonomous society to implement blindness control
+activities
+• Representation from government, NGO and private
+sector• Decentralized planning, management and monitoring
+• Direct funding from Central Government• Empowered to utilize and raise funds
+• Forum for community participation
+Till date, 501 DBCS have been established.
+Commodity assistance: Consumable items like sutu-
+res and intraocular lenses are procured centrally anddistributed to States and DBCS. Equipments, vehiclesand other supplies are also procured centrally. Assistance
+for fixed facilities from central government.
+• Construction of dedicated eye ward and eye OT at
+district and subdistrict level
+• Ophthalmic equipment• Consumable• Training of eye care team.
+Other assistance
+• Drugs and consumables for cataract surgery @ Rs
+150 per operated case
+• Spectacles after surgery @ Rs 75 per case
+• Transportation of patients for surgery @ Rs 75 per
+case
+• Sutures and IOLs
+• Minor equipment repairs.
+The DBCS also provides Grant in Aid to NGO for
+each operated cataract case at the same norms. If IOL
+is purchased by the NGO, an additional Rs 200 per case
+is given to the NGO to meet the cost of the IOL and
+suture. NGO also gets an additional Rs 50 per case fororganizational overheads. Thus NGO is given Rs 400
+for non-IOL surgery and Rs 600 for IOL surgery for
+each case operated (National program for Control of
+Blindness in India 2001).
+Danish International Development Agency
+(DANIDA): An agreement was signed between the
+Government of India and the Government of Denmarkto provide support for the development of servicesunder NPCB, during Phase III of Danish Assistance(1998 to 2002) viz. supply of equipments to MobileUnits, PHCs and District Hospitals. It is involved in thefollowing activities:•
+Manpower development;
+• Establishment of management information systems;• Supply of equipments and vehicles;• Preparation of health education material, teaching
+and information aids; and
+• Program support in Karnataka (pilot state project).
+World Bank assistance:  A W
+orld Bank assisted
+cataract blindness control project is underimplementation since 1994 to 95. The proposedexpenditure of the project is Rs. 554 crore during theperiod of 7 years in the states of Andhra Pradesh,Madhya Pradesh, Maharashtra, Orissa, Rajasthan, TamilNadu and Uttar Pradesh. Major inputs of the projectare upgrading the ophthalmic service, expanding the
+382
+PART II: Epidemiological Triadcoverage in rural and tribal areas, establishment and
+functioning of DBCS, training of ophthalmic manpower,improving the management information system andcreating awareness about the programme in the masses.
+Under the World Bank Project a sum of Rs. 21
+crores was allocated for the year 1994 to 95, Rs. 46.80crore for the year of 1995 to 96, Rs 42.26 corer for1996 to 97 and 53 crore  for 1997 to 98.
+A midterm review of the project was undertaken
+during 1998 to assess the progress. As a part of midtermreview, rapid assessment survey, facility survey andbeneficiary assessment survey was undertaken in theseven states covered under World Bank assisted cataractblindness control project. The survey was conducted byindependent organization to find out level of prevalence,outcome of surgery, coverage and satisfaction of bene-ficiaries, their knowledge, attitude and practices for eyecare and quality of life after surgery.
+Mega eye camps in underserved areas:  In the
+G
+olden Jubilee year of the India’s independence a
+special program for organizing Mega Eye Camps in
+underserved areas has been undertaken. The objectiveof this activity is to enhance coverage of eye careservices in general and cataract surgery in particular, tounderserved areas of the district. This would includetribal or geographically difficult areas. These camps wereorganised in two phases. About 3 lakhs additionalcataract operations were performed during these twoweeks.
+12
+SCHOOL SCREENING PROGRAMME
+Under the NPCB, all children aged 10 to 14 years will
+be screened for refractive errors by trained teachers.Children who cannot read the 6/9 line with any eyeare then sent to the ophthalmic assistant at the CHCfor refraction. Children needing spectacles are thenprovided free spectacles by opticians who have beencontracted by the NPCB. This program is now beingimplemented all over the country.
+Since 2000 to 2001, it has been decided that the
+NPCB should not be centred around cataract blindnessbut should undertake a more comprehensiveapproach to prevention of blindness by targeting otherdisease responsible for blindness, in addition to
+cataract.
+13
+STOP THE GLOBAL EPIDEMIC OF
+CHRONIC DISEASE
+The WHO Prevention of Blindness (PBL) team workswith Member States through WHO regional offices todevelop strategies for prevention and control of blindnessand visual impairment. Team members, together with ourmany partners in the field, including NGOs and WHOcollaborating centers, work with country-based teams tosupport the implementation of strategies developed.In addition, to facilitate ongoing strategic planning, thePBL team coordinates the collection and disseminationat national, regional, and global levels of data that reflectthe burden of visual impairment and the implementationof program strategies. The principal area of work of thePrevention of Blindness team (PBL) is elimination ofavoidable blindness. Three-quarters of all blindness canbe prevented or treated.
+VISION 2020: THE RIGHT TO SIGHT: GLOBAL INITIATIVEFOR ELIMINATION OF AVOIDABLE BLINDNESS
+After the realization that unless blindness control effortsare intensified, the prevalence of blindness will doubleby 2020 
+AD, the WHO along with an International
+Partnership Committee launched the Vision 2020 Initia-tive in 1995.
+Three essential elements of a global plan were set
+out as follows.1. Setting up strategies and targets for disease control2. Planning human resource needs and development3. Addressing infrastructure needs and development.
+Under the global initiative for the elimination of all
+avoidable blindness by 2020 
+AD, all countries are commit-
+ted to a minimum program. Countries can include otherproblems than those identified under the minimumprogram based on their local situation and needs.
+The five diseases identified for global elimination
+include:1. Cataract blindness2. Trachoma blindness and transmission3. Onchocerciasis4. Avoidable causes of childhood blindness5. Refractive errors and low vision.
+Targets have been set up for each of the component
+diseases for the next 20 years.
+14
+Disease Surveillance
+Integrated Disease Surveillance Project (IDSP)
+Disease surveillance is considered, as the backbone ofpublic health programs in India. Integrated DiseaseSurveillance Project (IDSP) is a decentralized, Statebased Surveillance Program in the country launched inNovember 2004. It is intended to detect early warningsignals of impending outbreaks and help initiate aneffective response in a timely manner. It is also expectedto provide essential data to monitor progress of ongoingdisease control program and help allocate healthresources more efficiently and optimally. The IDSPproposes a comprehensive strategy for improvingdisease surveillance and response through an integratedapproach. Surveillance activities carried out undervarious vertical diseases control program, viz, programon malaria, tuberculosis, HIV/AIDS and disease under
+383
+CHAPTER 21: Epidemiology of Noncommunicable DiseasesRCH program (measles, polio, acute diarrhea) as well
+as some state specific disease has be integrated underIDSP . This will be effected through data generation usinguniform and common reporting formats, collection,compilation and analysis and using common IT networkfor transmission to state and central levels.
+Objectives of IDSP
+To establish a decentralized district-based surveillancesystem for communicable and noncommunicablediseases, to provide data for monitoring progress ofongoing disease control activities and to establish anearly warning system for impending outbreaks so thattimely and effective public interventions can be institutedand help allocate health resources more efficiently.
+Definition of Surveillance
+‘The ongoing systematic collection, analysis andinterpretation of health data essential to planning,implementation and evaluation of public health practiceclosely integrated with timely dissemination of these datato those who need to know. Surveillance helps to keepa close watch on health events occurring in thecommunity and provides information so that effectiveaction can be taken timely. It provide data (who, where,when do they get the diseases and why?) for planninga disease control program.
+Organizational structure: District Surveillance Units
+at the District level and State Surveillance Unit at the
+State level implement the Project. A Central SurveillanceUnit has been set up at National Institute of Communi-cable Diseases New Delhi (Fig. 21.1).
+Types of Surveillance
+Depending on the level of expertise and specificity,disease surveillance in IDSP will be of following threecategories:1.Syndromic:  Diagnosis made on the basis of
+symptoms/clinical pattern by paramedical personneland members of the community based on broadcategories of presentation. They will identifySyndrome with fever without any localizing signs/withrash / with cough, AFP
+, diarrhea, jaundice, unusual
+events causing death or hospitalization, etc. Thesesyndromes are intended to pick up all prioritydiseases listed under IDSP .
+2.Presumptive:  Diagnosis made on typical history and
+clinical examination by Medical Officer.
+3.Confirmed: Clinical diagnosis by Medical Officer and/
+or positive laboratory identification.
+Diseases Under the Surveillance Project
+Considering the disease burden in the community, avai-lability of public health response, special considerationsand international commitments following diseases wereincluded for surveillance in the project which is mentionin Table 21.17.
+The disease conditions that are included in the core
+list and state specific list of the surveillance program willbe reviewed periodically and suitably modified.
+Fig. 21.1: Information flow (Weekly Surveillance System)
+
+384
+PART II: Epidemiological Triad
+Syndrome  is group of symptoms and/or signs
+attributable to particular disease condition (e.g. fever
+with skin rash indicative of measles.
+Syndromes Under Surveillance
+The paramedical health staff will undertake diseasesurveillance based on broad categories of presentation.The following are the clinical syndromes and diseasesunder each syndrome (Table 21.18).
+Surveillance of fever:  F
+ever is the most common
+presenting symptom among patients at the periphery.Fever may be accompanied by other symptoms, e.g.fever with cough/ muscle pain, a patient is consideredto be suffering from fever, if his/her main symptom isthat of fever.Fever less than seven days with:
+• Rash and running nose or conjunctivitis (suspected
+Measles)
+• Altered sensorium (suspected JE)
+• Convulsions (suspected JE)• Bleeding from skin, mucus membrane, vomiting
+blood or passing fresh blood through nose or earor black motion (suspected dengue)
+• With none of the above (suspected malaria)
+Fever more than seven days (suspected typhoid)
+While entering the diagnosis for fever, care must betaken to record it as one of the following categories:• Only fever/Fever with rash/Fever with altered
+consciousness or convulsions/Fever with bleeding/Fever more than 7 days.
+Methods of Surveillance
+The following are the main sources of data under IDSP:
+• Routine reporting (passive surveillance):  It is most
+major form of data collection and universalized, while
+other methods are need and area specific. Health
+Worker/ANM reports all patients fulfilling the clinical
+syndrome from area covered by the sub-centre.Medical Officers at Primary Health Centre (PHC) or
+Community Health Centre (CHC) level will report
+as probable cases or confirmed cases as applicable.It is suggested that each of the units report at weekly
+intervals.TABLE 21.18: Clinical sydromes and diseases under
+each syndrome
+Syndromes Diseases
+Fever with and without Malaria, Typhoid, JE, Dengue,
+localizing signs Measles
+Cough more than 3 weeks Tuberculosis
+duration
+Acute Flaccid Paralysis Polio
+Watery Diarrhea Cholera
+Jaundice Hepatitis, Leptospirosis,Dengue, Malaria,
+Unusual Events causing Anthrax, Plague, Emerging
+death or hospitalization epidemicsTABLE 21.17: List of core diseases
+Regular surveillance Diseases
+Vector-borne disease Malaria
+Water-borne disease Acute diarrheal disease (Cholera)Typhoid
+Jaundice
+Respiratory diseases Tuberculosis
+Acute respiratory infection
+Vaccine preventable diseases Measles
+Diseases under eradication Polio
+Other conditions Road traffic accidents
+Other International commitments Plague, Yellow fever
+Unusual clinical syndromes (Causing death/ Menigoencephalitis/ Respiratory distress,
+hospitalization) distress, hemorrhagic fevers, etc. hemorrhagic fevers, etc.
+Sentinel Surveillance
+Sexually transmitted diseases/Blood borne HIV, HBV, HCV
+Other Conditions Water quality
+Outdoor air quality (Large urban centers)
+Regular periodic surveys
+Noncommunicable disease risk factors Anthropometry, Physical activity,
+Blood pressure, Tobacco, Nutrition
+State specific diseases Dengue, Japanese Encephalitis,
+Leptospirosis, Arsenicosis
+385
+CHAPTER 21: Epidemiology of Noncommunicable Diseases• Sentinel surveillance : a hospital, health center,
+laboratory or a rehabilitation center that caters to a
+relatively large number of cases of the disease canbe considered as a sentinel center. Data from sentinelcenters of public health care system as well as thatfrom private sector are useful to determine trendsin the incidence of the disease and can trigger actionfor outbreak investigation. This form of surveillancewill be used for HIV , HBV , HCV , Water Quality, AirQuality etc.
+• Active surveillance (active search for cases): Active
+search is resource intensive; it may be carried out
+under some specific circumstances such as during
+outbreaks, Acute Flaccid Paralysis (AFP) case search,
+to know the magnitude of a problem, etc.
+• Laboratory surveillance : The laboratory network
+under IDSP will report independently all confirmedcases which allow understanding and validating thechanges in pattern of syndromes and probable cases
+seen at the reporting centers. It also helps in
+diagnosis of cases for case management and feedback of laboratory reports on a case to the reporting
+units. This facilitates identification of new agents and
+changes in the behavior of microorganisms especiallyin relation to susceptibility to anti-microbials.
+• Sample surveys : Surveys may be conducted to
+collect baseline data prior to the launch of a largecontrol program, especially if such data are lacking
+through other sources. In IDSP Non communicable
+diseases (NCD) risk factors will be collected throughregular surveys (3 to 5 yearly). Surveys give reliable
+epidemiological information, however it is difficult to
+conduct and are relatively expensive.
+• Vector surveillance
+• Outbreak investigations : Outbreak investigation is the
+primary method of confirming emerging infections.
+This provides information on magnitude, distribution
+and possible cause of outbreak.
+• Special studies : Special studies are sometimes
+required to study a specific problem (e.g. increasedprevalence of cases due to environmental pollution,
+multi-drug resistant microorganisms), which is not
+available by other means.
+Collection and Transmission of Data
+The health workers or village level volunteers collectsdata by Syndromic surveillance and record thenumber of these syndromes in a register locally andreport it to the next level on a weekly basis since mostdiseases with epidemic potential has a short incubationperiod. Each sentinel site will record selected diseaseconditions by prior agreement but will send regularweekly report including zero reporting. If there aremore than expected number of cases of particularsyndrome, the Medical Officer inform DSU and initiateepidemic investigation.Feedback and Sharing Information
+Sharing of information with all stakeholders for effectivepublic health action is the primary purpose of the IDSP .Regular reports generated at different level would beshared with all the stakeholders as relevant. Feed backreport should also be provided on the quality of datasubmitted. Feedback is essential to maintain and supportthe peripheral staff.
+Analysis
+Analysis is necessary at all levels for the optimumutilization of information. Most of the primary analysiswould be automatic background activity of the computerprogram at the district and state levels. The analysiswould reveal trends of disease, of time and space, andproduce reports regularly, and on detecting deviationsfrom the normal. The district and state surveillanceofficer will perform specific additional analysis requiredfor each disease. However, at the periphery onlyfrequency tables are  necessary and this will be
+automated by the use of computers. The analyzedreports need to be sent to the stakeholders at differentlevel and will guide the surveillance actions. Afterpreliminary analysis if it fount to crossed the threshold,the HW should take immediate action.• Initiate response at appropriate level• Monitor disease control programs• Identify emerging epidemics• Assist in allocation of resources• Mobilization of public support for health programs
+RESPONSE TO THE SURVEILLANCEINFORMATION
+Every disease needs a basic number of cases in orderto sustain the transmission to other vulnerable in thepopulation called threshold level; if the a disease reachesthis threshold level, there is a risk of an outbreak of thatdisease. The IDSP manuals set out case definitions andtrigger levels (e.g. number of suspected cases in aspecified time and location) for each of the diseases/health conditions under surveillance. When the triggerlevels are crossed for communicable diseasesappropriate responses has to be made. Details are givenin the District Operations Manuals for the project.
+Integrated Management of
+Childhood Illness (IMCI)
+Though global childhood mortality rates continued
+falling but its progress has been extremely uneven; in
+some countries the rates are on the increase and inmany, especially in sub-Saharan Africa, they remain
+shockingly high.
+15 The evidence showed that a large
+386
+PART II: Epidemiological Triadproportion of childhood morbidity and mortality in the
+developing world is caused by just few conditions only:
+acute respiratory infections (mostly pneumonia),diarrhea, measles, malaria, and malnutrition. Often the
+sick children present with combination of signs andsymptoms related to one or more of these conditions.This overlap means that a single diagnosis may beneither possible nor appropriate and may need anintegrated approach in management of these cases.WHO in collaboration with UNICEF , has responded tothis challenge by developing a strategy for Integrated
+Management of Childhood Illness (IMCI) . IMCI  is an
+effective, low-cost strategy for improving child healththrough prompt recognition of all coexisting conditions,rapid and effective treatment based on standard casemanagement and prevention of illness by improvingnutrition including breastfeeding, and vaccination in1 week to 5 years age group children. The threecomponents of IMCI for implementation in a countryinclude : improving health workers’ skills, improving
+health systems to support IMCI, and improving familyand community practices . In health facilities, the IMCI
+strategy promotes the accurate identification ofchildhood illnesses in outpatient settings, ensuresappropriate combined treatment of all major illnesses,strengthens the counseling of caretakers and theprovision of preventive services, and speeds up thereferral of severely ill children. It also aims at improvingthe quality of care at the referral level also. At homelevel it promotes appropriate care-seeking behaviors,improved nutrition and preventive care, and the correctimplementation of prescribed care.
+1 The clinical guide-
+lines in IMCI strategy are evidence based assessmentand management of illness using a syndromic approachthat support rational, effective and affordable use ofdrugs.
+Adaptation of IMCI to IMNCI in India
+Considering the fact that majority of the infant deaths
+occur in the first week of birth, India adopted IMCI
+strategy with additional component of newborn care for0 to 7 days age and renamed as Integrated
+Management of Neonatal and Childhood Illness
+(IMNCI).
+16 In India, IMNCI is a component of
+Reproductive and Child Health (RCH) II program.
+Integrated Management of Neonatal
+and Childhood Illness (IMNCI)
+Integrated Management of Neonatal and Childhood
+Illness (IMNCI) is an integrated approach that includesthe assessment, classification and management of themajor health problems a sick infant or an under fivechild may suffer. It also includes assessment ofnutritional and immunization status of all sick infantsand children. Indian version of IMNCI also includeshome visits for all newborns to teach the mother waysto prevent illnesses through exclusive breastfeedingand essential newborn care. The case managementprocess under IMNCI strategy involves the followingelements:• Assessment: All sick young infants up to 2 months
+of age must be assessed for “possible bacterialinfection/jaundice” by asking certain specified
+question and  examining the child. They are also
+assessed for the major symptom of “diarrhea” and
+breastfeeding. All sick children age 2 months up to
+5 years must be examined for “ general danger
+signs ” which indicate the need for immediate referral
+or admission to a hospital. They must then beroutinely assessed for major symptoms : cough or
+difficult breathing, diarrhea, fever and ear problems.All sick young infants and children 2 months up to5 years must also be routinely assessed fornutritional and immunization status, feedingproblems, and other potential problems. Only a
+limited number of carefully selected clinical signs  are
+used,  based on evidence of their sensitivity and
+specificity to detect disease. These signs were selectedconsidering the conditions and realities of first-levelhealth facilities.
+• Classification of illness: A combination of individual
+signs and symptoms leads to an infant’s or a child’sclassification(s) rather than a diagnosis.Classification(s) indicate the severity of condition(s).They call for specific actions based on whether theinfant or child (a) should be urgently referred to ahigher level of care, (b) requires specific treatments(such as antibiotics or antimalarial treatment), or(c) may be safely managed at home. The illnessesare classified using a color coded management chart.This chart is organized in three different colors viz.red, yellow and green for easy identification andmanagement. Following are significance of the colorcode of illness:– Conditions under red color (or pink) indicate
+severe illness. Children with a severe illness mustbe referred to a hospital or sent to the doctor.
+– Conditions under yellow color should be treated
+with medicine at home and home care adviceto the mother.
+– Conditions under green color are to be treated
+with home care without the use of medicines.
+• Identify:  Relevant treatment and action based on
+assessment and classification.
+387
+CHAPTER 21: Epidemiology of Noncommunicable Diseases
+• Management:  IMNCI management procedures use
+a limited number of essential drugs and encourage
+active participation of caretakers in the treatment of
+infants and children. Treatment instructions are given
+and referred when required, including information
+on follow up visit. It also teaches how to recognizedanger sign and should return immediately.
+• Counseling of caretakers: This includes assessment
+of feeding and breastfeeding and counsel to solveany problem and encourage correct practices.
+Management of sick child discussed in two parts
+1. Management of young infants age up to 2 months
+(0 to 59 days old)
+2. Management of sick children 2 months up to 5 years
+(2 to 59 months).Health workers or paramedical worker are supposed
+to use a learner’s module and a color-coded
+management chart to provide care to the sick childrenin community and at routine home visits for new borns.Sick young infants are somewhat different from olderchildren. Sick young infants (0  to 23 months) frequentlyhave only general signs like lethargy, low bodytemperature or fever. They can become sick very quicklyand may die within a few hours or days. These are someof the reasons why young infants have to be manageddifferently. Refer the management chart for details.References
+1. Brilliant LB, et al. World Health Stat Quart 37(2):
+162-85.
+2. WHO. International Classification of Diseases, 1970,I.242.
+3. WHO. Elimination of Avoidable Blindness in South East
+Asia, 2000.
+4. Foster A. Eye 2 (suppl): 1988,527-36.
+5. Malik SRK. Magnitude of Blindness. Unpublished
+Document, 1990.
+6. Foster A. Community Eye Health 1988,1:2-3.
+7. Bucher PJM, et al. Br J Ophthalmol 1988,72:721-26.8. Brillant LB, et al. Am J Epid 1983,118(2):250-64.9. Thylefors B. World Health State Quart 1987,40:129-41.
+10. Ferris FL III. Am J Epid  1983,118(2):132-151.11. Yorston D. Community Eye Health 1991,8:2-4.12. Ministry of Health and Family Welfare, Govt of India:
+Annual Report 1999-2000.
+13. Conference of Central Council for Health and Family Welfare,
+Govt. of India: Agenda Notes for the Meeting, 2001.
+14. WHO. Global initiative for the Elimination of Avoidable
+Blindness, 1997.
+15. Division of Child Health and Development, Family and
+Reproductive Health, WHO (1998). CHD 1996–1997Report.
+16. Ministry of Health and Family Welfare, Government of
+India, New Delhi (2003). Integrated Management ofNeonatal and Childhood Illness: Training Module forHealth Workers/Physicians.
+Food and Nutrition 22
+We have discussed the environment, host and agent
+factors affecting health in section 2, 3 and 4 respectively.
+However, the topic of food and nutrition must be
+discussed separately because it represents an interesting
+interplay of all the three factors and cannot belongexclusively to any one of the above three sections.
+The present chapter is organized into the following eight
+parts:1. Epidemiological aspects
+2. Nutrients and proximate principles of food
+3. Foods and food groups4. Preservation of foods and conservation of
+nutrients
+5. Diet standards and diet planning6. Malnutrition including National Nutrition Programs
+and Obesity
+7. Food hygiene8. National nutrition policy.
+Before further discussion, it is appropriate here to
+define nutrition and to look into its various divisions.
+Nutrition  is a science that deals with all aspects of
+interaction between a living organism and the
+substances which help the organism to grow and
+sustain itself. There being three types of livingorganisms (plants, animals and men), nutrition may
+be said to have different specialities, viz., plant
+nutrition, animal nutrition and human nutrition.
+Human nutrition  deals with food and nutritional
+requirements of human beings at different age, sex and
+physiological status, nutritional imbalances in human
+beings and various measures for overcoming suchdeficiencies and imbalances.
+Clinical nutritio n is that branch of human nutrition
+dealing with the physiological, pathological and
+therapeutic aspects of nutrition.
+Public health nutrition  is the branch of human nutri-
+tion dealing with human health and the services neces-
+sary to maintain human health. It deals with whatever
+can be done through national health services and otherhealth related agencies and institutions to promote
+human nutrition. Community nutrition to promote
+human nutrition. Community nutrition is same as public
+health nutrition.
+1Epidemiological Aspects
+There is an inseparable association between nutrition
+and health. In different situations, nutrition may act asan environmental, host or agent factor influencinghealth.
+Food and Nutrition as Environment
+Like air and water, food is an essential part of man’severyday environment and harbours various agents ofdisease, chemical as well as biological, described later.Examples of chemical disease agents transmitted
+through food as a vehicle are heavy metals like lead,
+copper and mercury,
+2 food toxins like BOAA (from
+Lathyrus sativus ), sanguinarine (from Argemone
+mexicana ), alkaloids causing VOD or venoocclusive
+disease3 (from Crotalaria  and Heliotropium ) carcinogens
+like a aflatoxins, food adulterants like orthophel
+phosphate (added to rapeseed oil to make it look like
+mustard oil) and several harmful dyes for impartingcolor to foods (e.g. polished blue VR dye to make peaslook fresh), brominated vegetable oil (BVO, added tobottled cold drinks to impart them a stable cloudiness),etc. and food contaminants like DDT and other
+pesticides. Examples of biological disease agents in foods
+are the various bacterial, protozoal and helminthicinfections transmitted through foods, already describedin previous chapters. Food also forms an importantcomponent of social environment. From timesimmemorial, food has formed an essential part of
+religious and social practices. Such practices may be in
+the form of offering rice, ghee, sweets, etc. to Gods andGoddesses by Hindus; sacrificing animals by the tribalsand passing around of bread and wine by the Christians.Social intercourse, conflicts and revolutions have oftencentral around food. Salt, tea and spices have been
+important items of trade among different countries. The
+historical Dandi March undertaken by Mahatma Gandhiduring India’s struggle for independence was centeredaround salt. Even in modern times, food and alcoholare an intergral part of our social environment. On theone  hand food prices exert enormous influence on the
+social front, causing large scale public  demonstrations
+and strikes and influencing wide ranging political
+389
+CHAPTER 22: Food and Nutritiondecisions. On the other, major political, commercial and
+industrial decisions are often taken at meetings held inthe background of lavish dinners and executive lunches.
+Food and Nutrition as Host Factors
+Needless to say, nutritional status is a very importantdeterminant of health. Deficiencies of energy, vitaminA, iodine, iron and riboflavin are widely prevalent inIndia.
+4 These deficiencies, in turn, lead to protein-
+energy malnutrition, xerophthalmia, iodine deficiencydisorders, nutritional anemia, etc. which account fora heavy toll of morbidity and mortality. For example,almost one-third children born in India aremalnourished at birth, i.e.  they have low birth weight(LBW). The mortality among these children is 3 to 4times of that found in the normal weight babies. Lowbirth weight, in turn, is determined by maternalmalnutrition. Another example of nutritional status asa host factor influencing health and outcome of diseaseis the well-known relation between nutrition andinfection. It is well-documented that while measles maybe a minor passing illness in well-nourished children,it may be fatal in children with malnutrition.
+Food and Nutrition as Agent Factors
+Several nutrients are important disease agents. In thiscontext, it should be remembered that an agent isdefined as a living or nonliving substance or a tangibleor intangible force, the excessive presence or relative
+lack of  which may initiate or perpetuate a disease
+process. Accordingly, vitamin A is an agent ofxerophthalmia and hypervitaminosis A, vitamin D ofrickets and hypervitaminosis D, thiamine of beriberi,energy of marasmus and obesity, saturated fats ofhypercholesterolemia, fiber of constipation anddiverticulosis, iron of anemia and siderosis, fluorine ofcaries and fluorosis and iodine of endemic goiter.
+Nutrients and Proximate
+Principles of Food
+Food consists of seven main components—carbohydra-tes, fats, proteins, vitamins, minerals, water and fiber.These components provide the six types of nutrientsessential for human body, viz. energy, protein, vitamins,essential fatty acids, minerals and water. Fiber, thoughnot usually labeled as a nutrient, is an importantcomponent of food and its deficiency gives rise tovarious disease syndromes. The basic role of fats andcarbohydrates in nutrition is similar, i.e. to act as sourceof energy. It is true that fats also supply the essentialfatty acids, but the deficiency of the latter is rate.Proteins, fats and carbohydrates are sometimes referredto as proximate principles of foods.Proteins
+Dietary proteins provide amino acids for the synthesisof body proteins, both structural proteins andbiologically active enzymes and other biologicallyimportant nitrogenous compounds in the body. Proteinsare primary structural and functional components ofevery living cell. Proteins perform a wide range offunctions and also provide energy (4 kcal/g).
+Body proteins are made up of twenty amino acids,
+eight of which are essential, i.e. these cannot be madein the human body and must be present as such in foodin adequate amounts. These are isoleucine, leucine,lysine, methionine, phenylalanine, threonine, tryptophanand valine. In addition, histidine is an essential amino acidfor infants. Animal proteins, in contrast to plant protein,have an amino acid pattern that resembles the humantissue proteins more closely. Therefore animal proteinshave a better quality than plant proteins. But plantproteins may be combined judiciously to derive a goodquality protein mixture. A classical example is a cerealpulse combination in which the lysine deficiency of cerealsis made up by pulses and the methionine deficiency ofpulses is made up by cereals. Quantitatively the quality
+of a protein can be worked out in terms of biologicalvalue, digestibility co-efficient, net protein utilization,protein efficiency ratio and amino acid score. The quality
+of protein is expressed in terms of its biological value,
+which is define as:
+ Nitrogen retained in the bodyBV =        × 100
+ Nitrogen absorbed
+Nitrogen absorbed × 100Digestibility co-efficient =
+Nitrogen intake
+      Retained Nitrogen × 100Net Protein Utilization (NPU) =
+Intake of Nitrogen
+ Weight gain in gProtein Efficiency Ratio (PER) =
+Protein intake in g
+It is usual to express protein in terms of its nitrogen
+content, which is about 16%. The biological value ofmilk protein (casein) or egg albumin, which are termedas standard or reference proteins, is 100%. Anothercommon method of expressing protein quality is theamino acid score .
+   mg/g of limiting amino acid in
+the test protein
+Amino acid score = _________________________________________  × 100
+ mg/g of the particular amino acid
+in reference protein
+The limiting amino acid is that amino acid in a protein
+which is relatively most deficient compared to bereference protein. In practice, the limiting amino acidsin foods are only four: lysine, methionine, cysteine andtryptophan. Wheat is deficient in lysine and pulses inmethionine, the relative lack of a particular amino acidcan be compensated by simultaneous consumption ofanother protein, which contains that limiting amino
+390
+PART II: Epidemiological Triad
+acid. This is known as supplementary action.  The protein
+value of some common foods is given in Table 22.1.
+Recommended Protein Intakes for Indians
+Daily protein requirement of different age groups should
+be expressed as gram per kilogram of body weight(g/kg/d) . The safe level of requirement should be
+expressed as Mean +1.96 SD while Mean –1.96 SDshould indicate the minimal requirement. The safe proteinintake at different ages is given per kg body weight as wellas total requirement for a normal individual are given inTable 22.2A  for adults and in Table  22.2B  for infants
+and children. Total daily requirement of normal population
+TABLE 22.2A: Protein requirement for normal Indian adults and allowances for pregnant and lactating womena
+Group Body weight kg Protein* g/kg/d Daily additional requirement* (g) Total daily requirement* (g)
+Adult
+Male 60 1.0 60
+Female 55 1.0 55
+Pregnant women(3rd trimester, 10 kg GWG) 23
+b78
+Lactating women
+0-6 months 19b74
+6-12 months 13b68
+a Terms of mixed Indian diet protein; b High quality protein, GWG: Gestational weight gain
+* Sources:  ICMR 2010
+The daily requirement for Indian children, computed for their growth, is given in  Table 22.2B .is computed by multiplying the per kg value at different
+age with the corresponding normal standard bodyweights.
+5
+Sources of Protein in Diet
+ANIMAL FOODS
+Milk, egg, meat and fish are good sources of high qualityprotein, but are often available only to the rich.
+VEGETABLE FOODS
+Pulses contain 20 to 25% protein and are called poorman’s meat. A still more important source is cereals witha protein content of 8 to 13%. Since they are takenin bulk, cereals form the main source of protein in diet.They account for 50% of the world intake of proteins.
+Protein content in 100 gm of some food is as follows
+Table 22.3.
+Fats
+Fats are chemically triglycerides, i.e. esters of glyceroland lower saturated and unsaturated fatty acids and areclassified as animal fats and vegetable fats. However, theterm fat is often loosely used as a synonym for lipidswhich include triglycerides, phospholipids and sterols.TABLE 22.1: Biological value of protein of common foods
+Food Biological value
+Egg 96
+Milk 90
+Meat 74
+Wheat 66
+Maize 50
+Rice 80
+Bengal gram 74
+Red gram 72
+Groundnut 55
+Gingili 62
+TABLE 22.2B: Protein requirement and dietary allowances for infants, Boys and Girls
+Age Group Requirementa,bBody weight Total daily Requirementa,bBody weight Total daily
+g protein kg/d (kg) requirement g protein/kg/d (kg) requirement
+(g protein/d) (g protein/d)
+Infantsc (Months)
+6-9 1.69 7.9 13.4
+9-12 1.69 8.8 14.9
+Pre-school Children(y) Boys Girls
+1-2 1.47 10.3 15.1 1.47 9.6 14.12-3 1.25 12.8 16.0 1.25 12.1 15.1
+3-4 1.16 14.8 17.2 1.16 14.5 16.84-5 1.11 16.5 18.3 1.11 16.0 17.8
+School Children (y) Boys Girls
+5-6 1.09 18.2 19.8 1.09 17.7 19.3
+6-7 1.15 20.4 23.5 1.15 20.0 23.0
+Contd...
+391
+CHAPTER 22: Food and Nutrition
+Age Group Requirementa,bBody weight Total daily Requirementa,bBody weight Total daily
+g protein kg/d (kg) requirement g protein/kg/d (kg) requirement
+(g protein/d) (g protein/d)
+7-8 1.17 22.7 26.6 1.17 22.3 26.1
+8-9 1.18 25.2 29.7 1.18 25.0 29.5
+9-10 1.18 28.0 33.0 1.18 27.6 32.6
+Adolescents (y) Boys Girls
+10-11 1.18 30.8 36.3 1.18 31.2 36.8
+11-12 1.16 34.1 39.6 1.15 34.8 40.0
+12-13 1.15 38.0 43.7 1.14 39.0 44.5
+13-14 1.15 43.3 49.8 1.13 43.4 49.0
+14-15 1.14 48.0 54.7 1.12 47.1 52.8
+15-16 1.13 51.5 58.2 1.09 49.4 53.8
+16-17 1.12 54.3 60.8 1.07 51.3 54.9
+17-18 1.10 56.5 62.2 1.06 52.8 56.0
+a In terms of mixed Indian vegetarian diet protein.
+b Requirements for each age band taken as the protein requirement for the lower age limit at that age band.
+Source: ICMR 2010Contd...
+again during frying with oil especially when same oil
+used repeatedly.
+Poly unsaturated fatty acids (PUFA) are essential
+components of cell membranes. The n-6 PUFAs arepredominant in all cells, while the nerve tissue has highlevels of long chain n-3 PUFA. The two most importantpolyunsaturated essential fatty acids namely, linoleic(n-6) and linolenic acid (n-3) are metabolized at varioussites in the body to generate a group of biologically-active compounds, which perform several importantphysiological functions. Further, PUFAs reduce totalcholesterol; influence peripheral glucose utilization,insulin action and decrease adiposity and hence are antiatherogenic. On the other hand saturated fatty acids
+are known to increase serum total, LDL cholesterollevels, reduce insulin sensitivity and increase CVD risk.Excessive fat in the diet increases the risk of obesity,heart disease, stroke and cancer.
+8 Replacing SFA with
+MUFA reduces LDL cholesterol concentration and total/HDL cholesterol ratio.
+SOURCE OF FAT
+Dietary fats can be derived from plant and animalsources. Fats that are used as such at the table or duringcooking are termed as “visible” fats; and that presentas an integral components of various foods are referredto as “invisible” fat. Fats, in processed and ready to eatfoods are known as hidden fats. Cereals contain only2 to 3% of invisible fat. A typical Indian diet containsignificant amount of invisible fat. Major sources ofdietary SFA are from animal fat and especially fromruminant dairy fats. Appreciable levels of SFA are alsopresent in some tropical oils, such as palm oil, coconutoil, etc.Fats are distinguished from oils by their different
+melting points; fats are solid and oils liquid at roomtemperature. Fat is one of the major sources of calorieto the body, which provides 9 calories of energy pergram. It helps in digested, absorbed, and transportationof fat soluble vitamins A, D, E, and K.
+The dietary fatty acids have been subdivided into
+three broad classes according to the degree ofunsaturation; saturated fatty acids (SFA) have no doublebonds, monounsaturated fatty acids (MUFA) have onedouble bond and polyunsaturated fatty acids (PUFA)have two or more double bonds.
+A cis configuration means that the hydrogen atoms
+attached to the double bonds are on the same side. Ifthe hydrogen atoms are on opposite sides, theconfiguration is termed trans . Each broad classification
+of fatty acids may have unique biological properties andhealth effects.
+8 Trans fatty acids are produced during
+the partial hydrogenation of PUFA. Trans fatty acidshave been associated with adverse effects on lipoproteinstatus by elevating LDL and depressing HDL. Trans fattyacid formation occur when oil is heated over and overTable 22.3: Protein content in 100 gm of some foods
+Cow’s milk 3.2%
+Human milk 1.1%
+Buffalo milk 4.3%
+Meat 22.5%
+E
+gg 13.3%
+Fish 22.0%
+Groundnuts 25.3%
+Atta raw, handpounded 12.1%
+Rice 7.5%
+Pulses 20.25%
+Soybean 43%
+392
+PART II: Epidemiological Triad
+Oleic acid (OA) is the most common MUFA and it
+is present in considerable quantities in both animal and
+plant sources commonly in marine oils and vegetableoils. Nutritionally important n-6 PUFA includes linoleicacid, α-linolenic acid, arachidonic acid, docosatetraenoic
+acid, etc. Nutritionally important n-3 PUFA , α-linolenic,
+stearidonic acid, eicosapentaenoic, acid which is foundin flaxseed oil, perilla oil, canola oil, soybean oil, etc.
+RECOMMENDED INTAKE5
+The total fat (visible + invisible) in the diet shouldprovide between 15 and 30% of total calories. Excessintake of saturated are associated increase CVD risk,therefore, SFA intake should not exceed 8 to 10% oftotal energy. One should reduce both saturated fat andcholesterol intake by limiting the consumption of fatanimal foods like butter, ghee, meat, egg and organmeats and consuming low fat (skimmed) milk insteadof whole milk. However, consumption of eggs (3 eggs/week) is recommended in view of several nutritionaladvantages.
+The intake of PUFA should be 8 to 10% of energy
+intake. The remaining 8 to 10% of fat calories can bederived from mono-unsaturated fatty acids, which alsohelp in maintaining plasma cholesterol. Further, to geta good proportion of all the classes of fatty acids, it isadvisable to consume more than one type of vegetableoils.
+An appropriate balance of these two classes of PUFA
+(e.g. n-6 linoleic and n-3 linolenic acids) in the diets isessential for the functioning of vascular, immune,nervous and renal systems and for early humandevelopment. Linoleic acid (LA) and alpha-linolenic acid(ALA) are indispensable since they cannot besynthesized by humans. The minimum intake levels foressential fatty acids to prevent deficiency symptoms areestimated to be 2.5% of total energy from LA plus 0.5%of energy from ALA.
+Higher dietary cholesterol increases blood
+cholesterol. Therefore, cholesterol intake should bemaintained below 200 mg/day.
+CHOICE OF COOKING OILS5
+The recommended ratio of polyunsaturated/ saturated(PUFA/SFA) fat is 0.8 to 1.0, and that of linoleic/ -linolenic (n-6/n-3) is 5 to 10 in the total diet. Anappropriate balance of fatty acids may be obtained byto increasing the α-linolenic acid (n-3) intake and
+reducing the quantity of linoleic acid obtained from thecooking oil. Hence, the choice of cooking oil should beany one of the following combinations.• Groundnut/Seasame/Rice bran + Mustard• Groundnut/Seasame/Rice bran + Canola• Groundnut/Seasame/Rice bran + Soybean• Palmolein + Soybean• Safflower/Sunflower + Palmolein + Mustard• Safflower/Sunflower + Groundnut/Seasame/Rice
+bran.
+ESSENTIAL FATTY ACIDS
+Three unsaturated fatty acids, namely linoleic, linolenicand arachidonic acids, must be supplied in diet sincethe body cannot manufacture them de novo . Hence
+these are known as essential fatty acids (EFA). Of these,linolenic and arachidonic acids can be derived fromlinoleic acid in the body. Hence, truly speaking, linoleicacid is the only essential fatty acid. EFAs are componentsof our cytoarchitecture and are also the precursors ofprostaglandins. EFA deficiency is virtually unknownexcept in experimental situations and in patients on totalparenteral nutrition. When it does occur, however, EFAdeficiency manifests through stunted growth and dry,scaly skin lesions.
+Vanaspati
+It is a popular cooking medium prepared by hydro-genation of groundnut, sesame, rapeseed, cottonseedand other vegetable oils. On hydrogenation, the colorand odor are removed and melting point is raised. Inthe process, however, the unsaturated fatty acidsbecome saturated and converted into trans fatty acidswhich may increase the risk of heart disease. Therefore,it is essential to limit the intake of trans fatty acids within2% of total energy intake. Under governmentregulations, 2500 IU of vitamin A are added per100 gm of vanaspati. Most manufactures also add about200 IU of vitamin D.
+
+393
+CHAPTER 22: Food and NutritionCarbohydrates
+Carbohydrates form the main bulk of diet. The major
+carbohydrates in diet are starch, sucrose (cane sugar)and lactose (milk sugar). Chemically, plant fiber, throughindigestible by man, is also carbohydrate. The main roleof carbohydrates in nutrition is to serve as a source ofenergy. The carbohydrate content of flesh foods isnegligible.
+STARCH VS SUCROSE
+Although generalizations are misleading, it might be saidthat in Indian diets, carbohydrate calories come mostlyfrom starch, whereas in Western diets, about 40% ofcarbohydrate calories come from sucrose. From aphysiological point of view, it is better to take more ofstarch and to minimize sucrose intake. This is so becausesucrose is quickly split into hexoses, which are rapidlyabsorbed, giving rise to sudden marked elevation ofblood glucose levels. Some pathophysiologicalimplications of high sucrose intake are discussed below.
+Obesity
+Sweets do not need much chewing and are palatable.As a result, it is all too easy to consume a large numberof calories in the form of sucrose-rich foods such ascandy, cake and icecream. High caloric intake createsa strong predisposition to obesity.
+Nutrient Depletion
+Starch in natural foods is associated with protein,vitamins, minerals and fiber. Sucrose, on the other hand,
+is pure carbohydrate. Thus replacing starch by sucrosetends to deplete the diet of many essential nutrients.
+Diabetes
+The glycemic and insulin response to sucrose differsfrom that to starch in view of the sudden, sharp risein blood glucose following sucrose intake. Thehyperglycemic stress is less in case of starch, particularlyif it is associated with protein, fat and fiber. High intakeof sucrose over the years means a lot more work forthe beta cells of pancreatic islets of Langerhans. Thismight eventually lead to exhaustion of the beta cells andconsequent diabetes. The difference in glycemicresponse to sucrose and starch also means that a personwith mild diabetes may manifest diabetes on a highsucrose diet but not on a high starch diet.
+Dental Caries
+Sucrose is a highly suitable substrate for the growthof several bacteria in the oral cavity. These bacteriaproduce acids in the course of their metabolicreactions. Acid has a slow but definite corrosive effecton dental enamel, with the result that high availabilityof sucrose in the mouth over a period of time mayeventually lead to cavities in the teeth. The mostharmful effects of sucrose are seen if:
+Sucrose does not have much company. Forinstance, candy is more harmful than chocolate.Similarly, ‘lemon drops’ would be more harmfulthan ‘ burfi’.
+The preparation sticks to the teeth.
+The mouth is not cleaned immediately afterconsuming the sweet. Even five minutes areadequate for bacteria to produce potentiallydangerous amounts of acid.
+DIETARY FIBER
+These are carbohydrates in plant foods resistant to the
+endogenous digestive enzymes of the human
+gastrointestinal tract. Traditionally, fiber was considered
+to be an inert part of food, not digested by the body
+but increase the bulk of the food. This view has been
+changed and the term fiber now includes complex
+carbohydrates and natural polymers such as cellulose
+and woody plant lignin, as well as pectin and various
+gums like arabic, agar and psyllium. Fiber is broadly
+classified into two groups – insoluble and soluble forms.
+Wheat bran, an insoluble form is a good stool
+softener but a poor absorber of cholesterol unlike
+soluble form. Insoluble form increases the bulk of stool
+and speeds their passage through the gut. Whole grains
+such as oats and wheat bran, and skin of many fruits,
+vegetables are good sources of insoluble fiber.
+Soluble form is a good absorber of cholesterol, as
+it forms a gel while passing through digestive tract. Some
+hemicellulose, betaglucans and other compounds foundin oats, legumes (lentil, peas), some vegetables(broccoli) and fruits are good source of soluble fiber.
+The pathophysiological implications of fiber are
+described below:
+Constipation and Related Disorders
+The stimulus for the defecation reflex is rectal distention.The frequency and ease of defecation depends uponthe volume and consistency of distal colonic contents.Dietary fiber increases the volume of stools as well assoftens the consistency. Conversely, deficiency of fiberleads to constipation. The worst aspect of constipationis not the decreased frequency of defecation but, rather,the hardness of the stool. Hard stool needs straining andstraining means increased intra-abdominal as well asintracolonic pressures. The sequelae of these raisedpressures are hemorrhoids, hernia, diverticulosis andvaricose veins.
+394
+PART II: Epidemiological TriadDiabetes
+Fiber attenuates the glycemic response to an oral carbo-
+hydrate load. Hence fiber also possibly plays a role inprevention of diabetes as in case of starch discussedearlier.
+Atherosclerosis
+There is limited evidence that some components of dietaryfiber may lower total serum cholesterol and low densitylipoprotein (LDL) cholesterol level, and raise high densitylipoprotein (HDL) cholesterol level. These changes areassociated with reduced risk of atherosclerosis.
+Cancer
+There is a direct relation between low fiber diet and can-cer, especially cancer of colon. Low fiber diet isassociated with less fecal volume, resulting in higherconcentration of carcinogens ingested along with food.Bowel mucosa is, in fact, exposed to this highercarcinogen concentration for an unduly long period,since low dietary fiber intake is associated with increasedstool transit time.
+It would appear from the above that fiber is an
+essential nutrient in its own way. The most practical wayof including sufficient fiber in the diet are:
+Whole cereals should be preferred to refined cereals.Wheat flour should not be passed through a sieveprior to making the dough.
+Whole pulses should be preferred to those fromwhich the husk has been removed.
+Fruits and vegetables that can be eaten with the skinintact should be eaten as such. However, fruits andvegetables are poorer sources of fiber than cerealsand pulses.
+Minerals
+Minerals, like vitamins, are micronutrients. The mineralswhich are most commonly deficient are iron and iodine.Calcium deficiency may also occur sometimes.Deficiency of other minerals is either rare or not welldocumented.
+Iron
+It is the essential constituent of hemoglobin in the redblood cells. Out of the total estimated 3 to 4 gm in thebody, 75% is present in blood.
+SOURCE
+Main dietary sources of iron are cereals, pulses, meat,eggs and green leafy vegetables. Gur (jeggery) also hassignificant amounts of iron. Milk is a poor source. VitaminC helps in iron absorption.The recommended daily intake of iron
+6 is 28 mg for
+men, 30 mg for nonpregnant women and 38 mg forpregnant women. Iron deficiency leads to microcytic-hypochromic anemia.
+Iodine
+It is an essential part of  thyroxine hormone which helpsin the oxidation process of the body and regulatesmetabolism. All biological actions of iodide are attributedto the thyroid hormones. Thyroid hormones in turnplay a major role in the growth and development ofthe brain and central nervous system in humans fromthe 15th week of gestation to 3 years of age. The iodinecontent of food depends on the iodine content of thesoil in which it is grown.
+9
+RECOMMENDED INTAKES FOR IODINE9
+The World Health Organization together with UNICEFin 2001 made following recommendations for dietaryintake of iodine:•Infants: An iodine intake of 90 µg/day from birth
+onwards.
+• For 1 to 10-year-old child would be 90 to 120 µg/
+day.
+• Adolescents and adults requirement for iodine is
+150 µg/day.Table 22.4 shows the iodine content of foods.
+11
+Sea salt is a poor source of Iodine.
+TABLE 22.4: Iodine content of foods
+Food groups Mean iodine contents
+(microg/kg weight)
+Sea fish 832
+Fresh water fish 30
+Vegetables 29
+Meat 50
+Eggs 93
+Legumes 29
+Cerebral grains 47
+Fruits 18
+Calcium
+It forms 1.2 to 2% of body weight, 99% being presentin bones and teeth. Its serum level is about 10 mg per100 ml. The proportion in blood and bone is maintainedby the interaction of vitamin D, calcitonin andparathyroid hormone. Calcium controls neuromuscularaction, including cardiac muscle contraction. It is essentialfor coagulation of blood.
+SOURCES
+Main dietary sources are milk, eggs, fish, green leafyvegetables and cereals. Rice is a poor source. Phytic acidin cereals and oxalates in some leafy vegetables decreasethe bioavailability of calcium because of formation ofcalcium phytate and oxalate which are not absorbed.
+395
+CHAPTER 22: Food and NutritionPhytase destroys phytic acid in wheat during yeast
+fermentation prior to baking of bread. Calciumhydroxide taken in betel as slaked lime is absorbed andmay be an important source of calcium. Drinking water
+may be another source to some extent.
+DAILY REQUIREMENT
+Among other elements, copper is associated functionallywith iron and is required in very minute quantities,available in normal diet. Cobalt and zinc are also
+needed in very small amounts. Fluorine prevents dental
+caries if present in water in a concentration of 1 partper million; when present in excess, it producessymptoms of fluorosis.
+Vitamins
+Vitamins are organic compounds needed in minuteamounts that are essential for health and well-being.
+They are often grouped as fat soluble (AD, E and K)
+and water soluble (B complex and C) vitamins.
+FATS SOLUBLE VITAMINS
+Vitamin A
+It is essential for body growth and for the integrity ofepithelial tissues. Dark vision depends upon availability
+of vitamin A.
+Deficiency: Vitamin A deficiency is widely prevalent in
+India. The symptoms are:
+• Retardation of growth.• Keratomalacia, xerophthalmia and Bitot’s spots.
+• Night blindness.
+• Drying and roughness of skin and drying of mucous
+membranes.
+Sources:
+• Animal fats contain large amounts of vitamin A.
+Good animal sources include butter, ghee, wholemilk, egg yolk, liver, fish, etc. Fish liver oils are veryrich in vitamin A.
+• Green and yellow pigments of plants, called carotenes
+(provitamin A),  are converted into vitamin A in the
+body. Leafy vegetables such as spinach, cabbage,
+lettuce, curry and radish leaves; yellow pumpkin; andfruits such as mangoes, papaya, tomatoes andoranges are rich in carotene. The amount of carotene
+in a fruit or vegetable is roughly proportional to the
+deepness of its green or yellow color.Vitamin A is destroyed on exposure to ultraviolet
+light. Hence vitamin A content is higher in fresh vege-tables and fruits. Frying may destroy up to 90% ofvitamin A but the loss is much less with other forms of
+cooking. Though thermostable, it is easily oxidised. Thevitamin A content of human milk, cow milk and eggsvaries according to the vitamin A content of food and
+fodder. Cow ghee contains 20 to 25 units and buffalo
+ghee 8 to 10 units of vitamin A per ml.
+Only 20 to 25% of dietary carotenes are absorbed
+depending upon the fat content of food. Vitamin A orretinol, on the other hand, is easily assimilable andtotally absorbed. One microgram beta carotene is
+regarded as equivalent to 0.25 microgram retinol when
+assessing the vitamin A content of foods.
+6
+Recommended daily allowance is 600 mg retinol for an
+adult but 950 mg for a lactating mother.5 1 microgram
+of vitamin A is equal to 10/3 or 3.33 IU.
+Vitamin D
+It increases calcium and phosphate absorption from the
+intestine and helps in calcification of bones and teeth.Its deficiency causes osteomalacia in adults and rickets
+in children.
+Sources:
+• Cod, halibut, and shark liver oils are rich sources.
+Among natural foods, it is present in milk, eggs,
+meat, butter and animal fat. It is not found in plants.
+• Ultraviolet light from sun irradiates a lipid substance
+in the skin known as 7-dehydrocholesterol to formvitamin D. This source can supply nearly all the
+requirement in adults and children. Clothes, glassand fog obstruct ultraviolet light and interfere with
+the formation of vitamin D.
+Calciferol is the most common synthetic preparation
+of vitamin D, used in the treatment of osteomalacia and
+rickets. Margarine and vanaspati are routinely enriched
+with synthetic vitamins A and D.
+Requirements: ICMR has not suggested any RDA for
+vitamin D because even five minutes exposure to
+sunlight is sufficient to supply adequate amounts, thus
+explaining the rarity of rickets in India.
+5 In specific
+situations associated with minimal exposure to sun,
+dietary supplementation with 400 IU is recommended.
+1 mg of calciferol contains 40,000 IU. Excess of vitaminD is toxic and causes calcification of tissues.
+Vitamin E
+Germ of cereals, wheat germ oil, soybean, cotton seedoil, corn oils, green leaves and milk are good sources
+of vitamin E. Its function are not well-defined but it is
+presumed to prevent sterility and helps in theembedding of ovum. It possesses antioxidant properties.
+One International Unit of vitamin E is the activitycontained in 1 mg of d-alpha tocopherol. Average
+requirement is 32 IU.
+396
+PART II: Epidemiological TriadVitamin K
+Vitamin K is fat soluble and is widely distributed,
+especially in green leafy vegetables and cauliflower. Itis thermostable. Natural vitamin K deficiency does notoccur. Gut flora are capable of manufacturing vitaminK and thus constitute an additional source.
+Water Soluble Vitamins
+VITAMIN B COMPLEX
+The vitamin B complex is a group of water solublesubstances which include thiamine (B
+1), riboflavin
+(B2), niacin (B4), pantothenic acid, pyridoxine (B6), folic
+acid and cyanocobalamin (B12). They have diverse
+composition, functions, and deficiency symptoms.
+Thiamine (Vitamin B1)
+It was formerly known as anti-beriberi vitamin becauseits deficiency caused beriberi, a condition now seenrarely. It is present in large amounts in wheat and ricegerm, outer layers of cereals, yeast, unmilled pulses andnuts, especially groundnuts. Meat, fish, eggs, milk,vegetables and fruits are relatively poor sources.
+Functions:  Thiamine is essential for proper carbohydrate
+metabolism. In its absence or deficiency, carbohydrate
+breakdown does not proceed fully and pyruvic acidaccumulates in the tissues. Carboxylase is needed fordecarboxylation and oxidation of pyruvate but carbo-xylase can act only in the presence of its coenzyme,which happens to be the pyrophosphate of thiamine.Since nervous tissue is almost entirely dependent uponcarbohydrate for its energy needs, the ill-effects ofthiamine deficiency are particularly noticeable in theform of dry beriberi, peripheral neuropathy andWernickes’ encephalopathy.
+Daily allowance: According to recommendations of the
+ICMR
+5 daily intake should be 0.5 mg per 1000 kcal.
+In terms of total daily intake, the recommendedallowance will very between 1 and 2 mg dependingupon the total energy intake commensurate with age,sex and level of physical activity. In case a largeproportion of total energy intake is derived from fats,the thiamine requirements will be correspondinglydecreased.
+About 25% vitamin B is lost in ordinary cooking
+since it is readily soluble in water. Large amounts maybe lost if too much water is used for cooking rice orvegetables and the excess water is discarded. Thiaminecan withstand high temperature, nearly up to boilingpoint, but only if the medium is slightly acidic (as whilebaking with yeast). If baking powder or soda is usedfor cooking, almost all thiamine may be lost.
+Dietary sources of thiamine: Rich sources of thiamine
+include whole grain cereals, nuts, legumes, green leafyvegetables, organ meats, pork, liver and eggs. As the
+vitamin is water-soluble and heat labile in alkalinesolutions, considerable amounts (about 40-50%) are lostduring cooking.
+Hard milling causes considerable loss by damage to
+pericarp and germ of cereals; parboiling of riceconserves this vitamin.
+Riboflavin (Vitamin B2)
+Riboflavin is concerned with biological oxidative proces-ses and its deficiency causes metabolic impairment. Itis thermostable but is destroyed on exposure tosunshine. Good dietary sources are green leafy vege-tables, milk, eggs and liver. Cereals and pulses contain0.1 to 0.3 mg per 100 gm. Green leafy vegetables intropical countries contain more riboflavin than intemperate regions. Riboflavin content of some leafyvegetables is—amaranth 0.3, beet greens 0.56, turnipgreens 0.57, carrot leaves 0.37, colocasia leaves (black)0.45, mint 0.26, radish leaves 0.47, and spinach 0.26mg/10 gm. Cow milk, egg and liver contain 0.19, 0.4and 1.7 mg percentage respectively.
+The recommended daily intake according to ICMR is
+0.6 mg/1000 kcal. In absolute terms, this corresponds toan intake of 1 to 2.3 mg/day in various age and sex groups.
+However, a minimum intake of 1.2 mg/day is
+recommended even if the calorie intake is lower than2000 kcal.
+ICMR recommended additional 0.3 mg of riboflavin
+intake during pregnancy and 0.3 to 0.4 mg duringlactation.
+Deficiency symptoms  may be oral (angular stomatitis
+and glossitis), dermal (scaly desquamation of nasolabialfolds and scrotal dermatitis) and ocular (vascularizationof cornea).
+Niacin or Nicotinic Acid (Vitamin B4)
+This is one of the most stable vitamins. In body, it occursin the form of niacinamide or nicotinamide. Niacinamideis a component of the respiratory coenzyme NAD.
+Niacin is widely distributed in plant and animal foods,
+though in small amounts. Particularly rich sources are
+meat (especially organs), fish, cereals and pulses. Theapproximate niacin content of some foods (mg/100 gmedible portion) is as follows:
+5
+Millets 2
+Rice (lightly milled) 3
+Rice (highly milled) 1.5
+Wheat flour (whole meal) 5Pulses 2
+Fish 4
+Mutton 4
+Organs (liver, kidney) 12
+Whole maize contains 1.5 to 2 mg/100 gm but it
+is biologically unavailable, being in the bound form.
+397
+CHAPTER 22: Food and NutritionNiacin is also derived from the essential amino acid
+tryptophan. In well nourished individuals 60 mg
+tryptophan is taken as equivalent to 1 mg niacin. Whilecomputing dietary intake of niacin, tryptophancontribution as niacin equivalents is added to that ofpreformed niacin/ nicotinic acid as follows:
+Niacin equivalent in mg = (Niacin mg + Tryptophan
+mg/60)
+WHO has recommended daily intake of 6.6 mg
+niacin equivalents per 1000 kcal for adults, and thisholds good for Indian subjects also.
+5 A high leucine:
+isoleucine, ratio, as in Jawar or maize based diets,impairs the conversion of tryptophan to niacin.
+5
+Deficiency symptoms  classically manifest as pellagra,
+seen in some parts of Maharashtra and other areaswhere sorghum (jawar) is used as staple food. Pellagrais characterized by soreness of tongue, pigmented scalyskin and diarrhea. The dermatitis is symmetrical andmainly affect the exposed parts of the body, such asthe back of hands and feet.
+Pantothenic Acid (Vitamin B5)
+It is thermostable and is found in all living tissues. Itsdeficiency is rare.
+Pyridoxine (Vitamin B6)
+It exists in three forms as pyridoxal, pyridoxamine, andpyridoxine, which are interchangeable. Vitamin B
+6 is
+needed for important pathways like gluconeogenesis,synthesis of neurotransmitters like serotonin dopamine,taurine, -aminobutyric acid, norepinephrine andhistamine. Along with folic acid, vitamin B
+12 and
+riboflavin, vitamin B6 is needed for the metabolism of
+homocysteine. It is thermostable. Its main dietary sourceare liver, meat, wheat germ, yeast, legumes and ricepolishings. Pyridoxine is essential for normal proteinmetabolism. It plays a role in the conversion oftryptophan into nicotinic acid. It is also concerned withmetabolism of essential fatty acids.
+The clinical signs and symptoms of pyridoxine
+deficiency include peripheral neuritis, epileptiformconvulsions, anemia, glossitis, and seborrheic dermatitis.Since these signs and symptoms are seen in other B-vitamin deficiencies as well, it is difficult to assess themagnitude of clinical pyridoxine deficiency inpopulation. Deficiency in infants is associated withneurological symptoms and abdominal distress.
+ICMR has recommended intake of 2.0 mg/day for
+adult individual. Depending upon age and sex ofindividual the daily requirement of pyridoxine variesbetween 0.9 and 2.5 mg/day. Additional allowanceshave been recommended during pregnancy and lactation.
+5
+Folic Acid
+It helps in the formation of white blood cells and in thematuration of normoblasts to red blood cells. Its defi-ciency causes megaloblastic anemia and may also leadto tropical sprue. Rich sources are pulses, green leafyvegetables, liver, kidney, yeast and milk. The recom-mended daily allowance is 200 micrograms for adults.The RDA is 500 micrograms in pregnant women and300 micrograms during lactation.
+5
+Cyanocobalamin (Vitamin B12)
+It is a thermostable vitamin found in liver, milk, eggsand meat. It is prepared commercially as a by-productof streptomycin in antibiotic drug industry. It plays animportant role in the formation of DNA, especially inthe rapidly multiplying cells of bone marrow and gastro-intestinal epithelium. It also acts as a coenzyme in aminoacid metabolism and maintains the nutrition of nervecells. Its deficiency causes macrocytic anemia.
+In addition, neurological manifestations due to sub-
+acute combined degeneration of spinal cord ordemyelination of nerve fibers may also occur.
+Daily requirement is small, the recommended
+allowances being 1 mg (1.5 in lactation).
+Though vitamin B
+12 is totally absent from plant foods,
+its deficiency in vegetarians is not as high as would beexpected. The reasons are as follows:1. Milk, which is consumed by most vegetarians, is a
+moderately rich source, providing 0.14 mgm/100 ml.
+6
+2. Pulses contain some vitamin B12 because the root bac-
+teria in leguminous plants manufacture vitamin B12.
+3. Contamination of food and water by bacteria,
+moulds, insects and fecal matter, etc. provides smallamounts of this vitamin.
+VITAMIN C (ASCORBIC ACID)
+It is the most unstable vitamin, being easily destroyedby heat. It is easily susceptible to atmospheric oxidation.Dry and stale vegetables and fruits become markedlydepleted in vitamin C. Citrus fruits, tomatoes, cabbage,green leafy vegetables fresh fruits, germinating andsprouting pulses and cereals are rich in vitamin C. Freshmeat and milk also contain small amounts.
+The recommended daily allowance is 40 mg for
+adults (80 mg during lactation).
+Functions
+• It is essential for formation and maintenance of
+intercellular cement substance, lack of which leadsto hemorrhages, delayed healing and poor forma-tion of scar.
+• It is necessary for growth and maturation of red cells.
+It converts folic acid into folinic acid.
+• It maintains functional status of adrenal cortex.
+Deficiency of vitamin C leads to scurvy which is rare
+nowadays. Delayed healing of wound, bleeding gumsand hemorrhages from mucous membranes are earlysymptoms.
+398
+PART II: Epidemiological TriadFood and Food Groups
+Foods are often grouped according to their origin as
+follows:
+Animal Foods
+• Milk and milk products• Eggs, meat and fish.
+Vegetable Foods
+• Cereals and millets• Pulses, oil seeds and nuts• Vegetables: Leafy, non-leafy and starchy• Fruits• Fats and oils• Sugar, jaggery and honey• Spices and condiments• Beverages.
+CLASSIFICATION OF FOODS BASED ON FUNCTION
+Energy Rich Foods
+These include carbohydrates and fats. Following aresome examples.• Whole grain cereals, millets• Vegetable oils, ghee, butter fat soluble vitamins,
+essential fatty acids
+• Nuts and oilseeds.
+Body Building Foods
+Includes proteins:• Pulses, nuts and oilseeds• Milk and milk products• Meat, fish, poultryProtective Foods
+Vitamins and minerals:• Green leafy vegetables• Other vegetables and fruits• Eggs, milk and milk products and flesh foods.
+Milk and Milk Products (Table 22.5)
+MILK
+Milk is an ideal food for infants and children and a goodsupplementary food for adults. Its per capita consumptionwas estimated to be 600 ml and 108 ml in England andIndia respectively in early 70’s. More recent data reveal anaverage daily milk intake of 70 ml in rural areas in Indiacompared to a daily recommended intake of 150 ml foradults.
+6 In rural areas, milk intake was less than the
+recommended intake of 150 ml in all states surveyed bythe NNMB (National Nutrition Monitoring Bureau) exceptGujarat, where the daily intake was 267 ml per consumptionunit per day. The lowest level of 20 to 30 ml per day wasseen in Orissa and West Bengal. As regards urban areas,the middle and high income groups consume more thanthe recommended quantity of milk, while the consumptionin slum areas is about one-third of the RDA.
+12
+Composition of Cow’s Milk (Table 22.6)
+Cow milk contains 3.5% protein, of which caseinaccounts for 3 gm%, lactalbumin 0.4 gm% andlactoglobulin 0.1 gm%. All the three have high biologicalvalues. It may be mentioned that when milk is heated,only lactalbumin and lactoglobulin get precipitated.Casein is held in solution by calcium phosphate in theform of calcium caseinogenate. The latter gets coagulatedduring the process of curd formation.
+TABLE 22.5: Nutritive value of milk and milk products per 100 gm
+Products Moisture Proteins Fat CHO Minerals Calcium Vit  A Energy
+g g g g g mg iu kcal
+Milk
+Human 88 1.1 3.4 7.4 0.1 28 137 65
+Cow’s 87.5 3.2 4.1 4.4 0.8 120 174* 67
+Buffalo’s 81.0 4.3 6.5 5.0 0.8 210 160 117
+Goat’s 86.8 3.3 4.5 4.6 0.8 170 182 72
+Skimmed milk 92.1 2.5 0.1 4.6 0.7 120 — 29
+Milk powder
+Skimmed milk powder (cow’s) 4.1 38.0 0.1 51.0 6.8 1370 0 357
+Whole milk powder (cow’s) 3.5 25.8 26.7 38.0 6.0 950 1400 496
+Channa (buffalo’s) 54.1 13.4 23.0 7.9 1.6 480 — 292
+Cheese 40.3 24.1 25.1 6.3 4.2 790 273 348
+Khoa or mawa (buffalo’s) 30.6 14.6 31.2 20.5 3.1 650 — 421
+* Also contains, in addition, 6 microgram carotene
+399
+CHAPTER 22: Food and Nutrition
+Cal. caseinogenate + lactic acid = casein + calcium
+lactate.
+Fats are present in emulsion as glycerides of fatty
+acids, mainly butyric, oleic, stearic and palmitic acids.
+Milk fat is easily digestible.
+Carbohydrate is present in milk as lactose. On fer-
+mentation, it is converted into lactic acid by Lactobacillus
+lactis; the acid coagulates casein, forming curd.
+Milk contains most vitamins and all minerals but vita-
+min C and iron are present only in very small quantities.It is a rich source of assimilable calcium.
+Adulteration of Milk Products
+Adulteration of milk may be defined as addition of anymaterial to the milk, or removal of any constituent ofmilk. The common adulterants in milk include additionof water, sugar, cereal flour, skim milk powder, gelatin,urea, etc. and removal of fat. The water adulteratedmilk tests less lactometer reading and less solid not fatcontent (SNF). Adulteration of milk is a punishableoffence under the Prevention of Food Adulteration Act(PFA Act. 1954 ). The PFA standards, which are
+mandatory, prescribe minimum compositionalstandards, standard for levels of residues of chemicalcontaminants and various other provisions. The Milk
+and Milk Products Order, 1992  sets sanitary
+requirements for dairies, machinery, and premises, andincludes quality control, certification, packing, markingand labeling standards for milk and milk products.
+Milk Hygiene
+Milk is an efficient vehicle for a great variety of diseaseagents. The sources these infection may be (i) the diaryof animal (ii) the human handler or (iii) the environ-ment, e.g. contaminated vessels, polluted, water, flies,dust, etc. Following factors should be taken intoconsideration production processing and distribution ofmilk and milk product.a. Animal must be healthy and clean;b. Premises where the animal is housed and milked
+must be sanitary
+c. The milk vessels must be sterile and kept coveredd. The water supply must be safee. Milk handlers’ must be free from communicable
+diseases
+f. Milker must wash their hands and arms before
+milking
+g. Strict control of milk and milk product processingh. The distribution of milk must be done under
+hygienic condition.
+Milk Standards
+Detailed food standards have been prescribed under thePrevention of Food Adulteration Act, 1954, for milk andmilk products. Some of these are given below.•Cow milk: It should not contain less than 3.5% of
+milk fat. Solids not fat (nonfat solids) should not beless than 8.5%.
+•Buffalo milk:  Milk fat at least 6% and solids not fat
+9%.
+•Skimmed milk: Solids not fat at least 8.5%.
+•T oned milk: Fat 3%, solids not fat 8.5%.
+•Dahi: Standards are same as for the milk from which
+it is prepared.
+•Khoa:  Fat 20%. Should not contain any ingredient
+other than those in milk.
+•Icecream: Fat 10%, total solids 36%.
+•Cream:  Fat 23%, no added substance.
+Milk Borne Diseases
+Diseases which can be directly transmitted through milkare brucellosis, Q fever and anthrax. However,contaminated milk can also act as a vehicle for otherpathogens and can be responsible for enteric fever,food poisoning and diphtheria.
+13 Dysentery, diarrhea,
+and, potentially, even poliomyelitis and infectiveTABLE 22.6: Boiling vs pasteurization
+Pasteurization Boiling
+Bacteriological changes
+All pathogens are killed at 63°C and acid forming bacilli All pathogens and acid-forming bacilli are killed, hence no
+are reduced, thus delaying lactose fermentation fermentation or sourcing occurs. Keeping quality is thereby improved
+Chemical changes
+ The proportion of insoluble calcium is increased by 6% Calcium and magnesium phosphates are precipitated
+Other minerals are not affected by bo iling.
+ Iodine is reduced by 20% Iodine is totally lost
+ Lactose is slightly charged or caramelised but there Lactose is caramelised (semi-burnt) and the taste
+is no change in the taste is altered
+ Scum is not formed, hence calcium and phosphorus are Calcium and phosphorus are taken up by the scum or pellicle that
+not affected forms on the top
+ Only 5% loss of lactalbumin, as it coagulates at 70°C Lactalbumin and lactoglobulin undergo coagulation
+Nutritional changes
+Vitamin C is reduced. Other vitamins are not affected Vitamin C is lost considerably or totally. Other  vitamins are reducedto variable extent
+400
+PART II: Epidemiological Triadhepatitis might be transmitted through infected milk.
+There is no evidence for occurrence of bovinetuberculosis in India.
+Pasteurization
+It is a process by which milk is made free from allpathogens, including tubercle bacillus, which is killed at63°C. Most nutrients are preserved duringpasteurization. There are two methods.1.Holding or holder process : This is the British method
+in which milk is heated to and maintained at atemperature of 65.5°C or 150°F for half an hour.Then it is cooled down to 50°F or 10°C. It is a slowmethod.
+2.Flash process or high temperature short timeprocess (HTST) : This American method is fairly
+quick. Milk is heated to 71° or 72°C, kept at thistemperature for 15 seconds, and then suddenlycooled to 10°C.Sterilization by boiling. It is a common practice in
+India to boil milk. Boiling and pasteurization arecompared in Table 22.6.
+MILK PRODUCTS
+•Cheese: It is a nutritious food consisting mainly of
+protein (24.1%) and fat (25.1%).
+•Butter:  It consists of 81% fat, a trace of protein,
+2.5% minerals and 16 to 20% water. It is rich invitamins A and D.
+•Ghee: It is clarified butter with less than 0.5%
+moisture.
+•Butter milk: It is the product obtained after removal
+of butter from curds by churning.
+Eggs and Meat
+EGGS
+An average hen’s egg weighs 50 gm. It consists of 3 parts:1. Shell, 12% by weight.2. White, 58% by weight, consisting mainly of albumin.3. Yellow, 30% by weight consisting mainly of lecithin,
+a phospholipid in finely emulsified form and vitellin,a phosphoprotein.Egg contains 13.3% protein, 13.3% and 73.7%
+water. Its energy value is 173 kcal per 100 gm. Itscalcium and iron contents are 60 and 2.1 mg per100 g respectively. Consumption of raw egg may leadto infection with Salmonella organisms. Boiling
+destroys these germs and inactivates avidin (a potentantibiotic factor) as also a trypsin inhibitor found inraw egg white. Egg can be preserved by blocking thepores in the shell. This is done by smearing the eggwith oil or grease, or by immersing it in a solutionof sodium silicate (glazing). This prevents bacteriafrom entering the egg.Tests for Freshness
+• Candling: An egg is translucent when sunlight or
+electric light is passed through it. A spoiled egg isopaque and if there is gas, it is transparent. Whenheld against light, the yellow is seen floating in thewhite in a fresh egg.
+• A fresh egg sinks in 10% saline or water and remains
+in horizontal, not a tilted or vertical position. Ifdecomposed, it floats.
+MEAT
+The term meat includes all flesh foods such as beef,pork, mutton, poultry, liver, etc.
+General Composition
+Muscle proteins consist mainly of myosin and smallamounts of albumin and myoglobin. Some meats suchas pork are rich in fat. Meats, in general, are rich invitamin B
+2, iron and protein (Table 22.7).
+Consumption of infected meat may lead to various
+diseases. The more important meat borne diseases arebrucellosis, anthrax, food poisoning and infection byhelminths like T aenia solium, T. saginata and T richinella
+spiralis .
+Cereals and Millets
+In India, cereals like wheat, rice and maize form thestaple food of people. Millets (smaller grains that areeaten without removing the outer layer) are also usedto a fair extent by some segments of the population.More common among the millets are jawar and bajra.Ragi and kodri are also used by the poor.
+Cereals and millets are rich in carbohydrates. Being
+the staple food, they form the major source of dietaryprotein. They are a good source of minerals and severalB complex vitamins.
+WHEAT
+It contains more protein than any other cereal (12%),but is deficient in lysine which is made up by eatingchapatis with legumes. When milled whole wheat flouris sieved, about 5% bran is removed and the remainingflour of 95% extraction (atta) is used for makingchapatis. On straining through cloth, about 10% isremoved and the remaining refined flour of 90%extraction (maida) is used for making bread. Highlyrefined flour is poorer in proteins, minerals and vitamins.The high extraction wheat flour is fortified in the westerncountries with calcium and thiamin to make up for theloss. Semolina (suji), prepared from the outer part ofwheat, is richer in minerals and vitamins and is usedfor making puddings. Wheat flour contains gluten, a
+401
+CHAPTER 22: Food and Nutrition
+sticky protein that makes the dough spongy and
+stretchable. Maida is rich and suji is poor in gluten.
+RICE
+The grain consists of three parts—embryo, endocarp andpericarp. The pericarp and embryo contain most of theprotein, fat, minerals and vitamins. The endocarp mainlycontains starch. The protein content of rice is 6 to 8.5per cent. Though rice contains less protein than wheat,rice protein is qualitatively better than wheat protein.
+The nutrient value of rice depends on the way the
+husk is removed. Hard milling removes a good partof pericarp along with husk (Fig. 22.1). This reduces
+the nutrient value. Undermilling and hand poundingare less damaging. Nutrient loss can be minimized byparboiling of rice. In this process, rice is soaked inwater for 2 to 3 days, boiled or steamed, dried andthen dusked by hand or machine. As a result ofparboiling, the nutrient rich outer layer (Pericarp) sticksto the endocarp and some nutrients diffuse into thelatter. The color and odour are improved if paddy issoaked in water at 65 to 67° for 2 to 3 hours onlyinstead of in cold water for 2 to 3 days. Parboiled riceis harder than ordinary rice but is less vulnerable tonutrient loss during cooking.
+MAIZE OR CORN
+It is deficient in lysine and tryptophan. Pellagra, due toniacin deficiency, may be found in areas where maizeis the staple food.Pulses, Oil Seeds and Nuts
+PULSES (LEGUMES)
+Pulses include grams, peas, lentils and beans. Theycontain globulin and a protein called legumin. Incombination with cereals, they form a good source ofall essential amino acids. The protein content of pulsesis 20 to 22% in general. They supply good amountsof iron and calcium, as well as thiamine and riboflavin.
+Khesari dal (Lathyrus sativus):  If taken for a long
+time, it gives rise to lathyrism characterized by spasticparalysis of lower limbs. The symptoms are due to toxicfactor in dal called Beta oxalyl alpha amino oxidase(BOAA). This cheap dal is mainly consumed by poorpeople in Madhya Pradesh. The toxic principle can beremoved by parboiling.
+14 Efforts are being made to
+develop toxin free strains of Lathyrus sativus .
+OILSEEDS AND NUTS
+Oilseeds and nuts are grouped with pulses because, likethem, they are a rich source of protein. Oil  seeds,except gingelly or sesame (til), are not consumed assuch. Oil is extracted from them and the oil cake richin protein is fed to cattle. Nuts, on the other hand, aretaken as such. They are rich in protein and fat.
+Groundnut (Peanut)
+It has high caloric value and is rich in fat (40%),protein (25%) and vitamins B
+1, B2 and nicotinic acid.
+The protein lacks in lysine, which can besupplemented by eating groundnut with Bengalgram. The protein rich multipurpose food, preparedby Central Food Technological Research Institute,Mysore, contains Bengal gram and defattedgroundnuts in a ratio of 1:3 with added vitamins. Itscarbohydrate, fat, protein and total energy contentper 100 gm are 35.8 gm, 8.5 gm, 41.9 gm and 387kcal respectively (Table 22.8).
+Groundnuts may be infested with a mould Asper-
+gillus flavus,  especially the old stocks stored under unfa-
+vorable circumstances. The mould is found to be toxicto lower animals. The toxins have been identified asaflatoxins. There is some evidence that aflatoxinsespecially aflatoxin B
+1, are hepatotoxic in man.TABLE 22.7: Nutrient value of different meats per 100 gm
+Name of food stuffs Protein Fat CHO Minerals Vit A Thiamine Moisture Energy
+gm gm gm gm iu mg gm kcal
+Beef (muscle) 22.6 2.6 — 1.0 18 0.15 74.3 114
+Fowl 25.9 0.6 — 1.3 — — 72.2 109
+Liver, sheep 19.3 7.5 1.3 1.5 690 0.36 70.4 150
+Mutton (muscle) 18.5 13.3 — 1.3 9 0.18 71.5 194
+Pigeon 23.3 4.9 — 1.4 — — 70.4 137
+Pork (muscle) 18.7 4.4 — 1.0 0 0.54 77.4 114
+Fish (pomfret) 17.0 1.3 1.8 1.5 — — 78.4 87
+Fig. 22.1:  Unpolished rice and polished rice
+
+402
+PART II: Epidemiological TriadTABLE 22.8: Nutrient value of cereals, pulses, oilseeds and nuts per 100 gm
+Food stuff Protein Fat CHO Minerals Vitamin B1 Vitamin B2 Energy
+gm gm gm gm mg mg kcal
+Cereals
+Wheat atta 12.1 1.7 69.4 2.7 0.49 0.17 341
+Maida 11.0 0.9 73.9 0.6 0.12 0.07 348
+Rice
+raw (milled) 6.8 0.5 78.2 0.6 0.06 0.06 345
+parboiled (hand pounded) 8.5 0.6 77.4 0.9 0.27 0.12 349
+Maize, dry 11.1 3.6 66.2 1.5 0.42 0.10 342
+Jawar 10.4 1.9 72.6 1.6 0.37 0.13 349
+Bajra 11.6 5.0 67.5 2.3 0.33 0.25 361
+Barley 11.5 1.3 69.6 1.2 0.47 0.20 336
+Oat 13.6 7.6 62.8 1.8 0.98 0.16 374
+Ragi 7.3 1.1 72.0 2.7 0.42 0.11 328
+Pulses
+Bengal gram Dal 20.8 5.6 59.8 2.7 0.48 0.18 372
+Black gram Dal 24.0 1.4 59.6 3.2 0.42 0.20 347
+Green gram (whole) 24.0 1.3 56.7 3.5 0.47 0.27 334
+Lentil 25.1 0.7 59.0 2.1 0.45 0.20 343
+Rajmah 22.9 1.3 60.6 3.2 — — 346
+Redgram 22.3 1.7 57.6 3.5 0.45 0.19 335
+Soybean 43.2 19.5 20.9 4.6 0.73 0.39 432
+Oil seeds and nuts
+Almonds 20.8 58.9 10.5 2.9 0.24 0.57 655
+Cashewnut 21.2 46.9 22.3 2.4 0.63 0.19 596
+Coconut dry 6.8 62.3 18.4 1.6 0.08 0.01 662
+Sesame (til) seeds 18.3 43.3 25.0 5.2 1.01 0.34 563
+Groundnut 25.3 40.1 26.1 2.4 0.90 0.13 567
+Linseeds 20.3 37.1 28.9 2.4 0.23 0.07 530
+Walnut 15.6 64.5 11.0 1.8 0.45 0.40 687
+Vegetables
+Vegetables form an important part of daily diet. They
+fall into three groups—leafy, non-leafy, and starchy.
+LEAFY VEGETABLES
+They are cheap protective foods, being rich in mineralslike calcium and iron and vitamins like vitamin A(carotene), vitamin C, riboflavin and folic acid. It is tobe noted that green leafy vegetables can also be a fairlygood source of protein. This is so for two reasons. Firstly,the biological value of leaf proteins is quite high.Secondly, though the protein content of fresh leafyvegetables is low, it is so because of the relatively highwater content. This means that dried green leafyvegetables can be a rich source of protein. For example,the protein content of fresh and dried colocasia leavesis 3.9% and 13.7% respectively.
+6 Similarly, the values
+for fenugreek leaves are 4.4% and 19.5% respectively.
+NON-LEAFY VEGETABLES
+They include gourds, bringal (bengan), lady finger(bhindi), tomato, cauliflower, pumpkin, carrot, turnip,radish, etc. (Their leaves in addition, may also form apart of diet). Their carbohydrate content is low (3 to8%) as compared to starchy vegetables.STARCHY VEGETABLES
+They include roots and tubers like beet, potato, sweetpotato, colocasia (ari), yam and tapioca. They are richin starch. Most of them are fair sources of vitamin C.Nutrient values of some vegetables are given inTable 22.9.
+Fruits
+Fruits in unripe state are sour because they containcertain acids (tartaric acid in grape and tamarind, citricin tomato, lemon, orange and mango, malic acid inapple). On ripening, the acids are converted into sugars(fructose and sucrose) and the fruits become sweet.Fresh fruits, specially citrus fruits, are good source ofvitamin C. Guava and Indian gooseberry (amla) are richsources of vitamin C. Papaya, mango and other yellowfruits are rich in carotene.
+Most fruits have laxative action because of high fiber
+content. About 30 to 40 gm fruits should be includedin daily diet according to the season.
+6 It is not necessary
+to eat costly fruits. In spite of their palatability, thenutritive value of fruits is low. They mainly providevitamin C, which, of course, can be obtained fromvegetables, especially the leafy ones. Nutrient values ofsome fruits are given in Table 22.9.
+403
+CHAPTER 22: Food and Nutrition
+TABLE 22.9: Nutrient values of vegetables and fruits per 100 gm
+Name of foodstuff CHO Protein Ca Fe Vitamin B1 Vitamin B2 Energy
+gm mg mg mg mg mg kcal
+Leafy vegetables
+Bathua 2.9 3.7 150 4.2 0.01 0.14 30
+Cabbage 4.6 1.8 39 0.8 0.06 0.09 27
+Coriander leaves 6.3 3.3 184 1.42 0.05 0.06 44
+Lettuce 2.5 2.1 50 2.4 0.09 0.13 21
+Fenugreek leaves 6.0 4.4 395 1.93 0.04 0.31 49
+Rape leaves 5.9 5.1 370 12.5 0.01 0.03 48
+Spinach 2.9 2.0 73 1.14 0.03 0.26 26
+Ash gourd 1.9 0.4 30 0.8 0.06 0.01 10
+Bitter gourd 4.2 1.6 20 0.61 0.07 0.09 25
+Brinjal 4.0 1.4 18 0.38 0.04 0.11 24
+Calabash cucumber (Bottle gourd) 3.5 0.2 20 0.46 0.03 0.01 12
+Cluster beans 10.8 3.2 130 1.08 0.09 0.03 16
+Cucumber 2.5 0.4 10 0.60 0.03 0.00 13
+Drumstick 3.7 2.5 30 0.18 0.05 0.07 26
+Knol-khol 3.8 1.1 20 1.54 0.05 0.09 21
+Ladies fingers 6.4 1.9 66 0.35 0.07 0.10 35
+Pumpkin 4.6 1.4 10 0.44 0.06 0.04 25
+Rhubarb stalks 4.3 1.1 120 2.2 — — 26
+Carrot 10.6 0.9 80 1.03 0.04 0.02 48
+Colocasia 21.1 3.0 40 0.42 0.09 0.03 97
+Onion, big 11.1 1.2 47 0.60 0.08 0.01 50
+Potato 22.6 1.6 10 0.48 0.10 0.01 97
+Radish, white 3.4 0.7 35 0.4 0.06 0.02 17
+Sweet potato 28.2 1.2 46 0.21 0.08 0.04 120
+Turnip 6.2 0.5 30 0.4 0.04 0.04 29
+Fruits
+Apple 13.4 0.2 10 0.660 — — 59
+Apricots, fresh 11.6 1.0 20 2.2 0.04 0.13 53
+Banana, ripe 27.2 1.2 17 0.36 0.05 0.08 116
+Ber (Zizyphus) 17.0 0.8 4 0.50 0.02 0.05 74
+Dates, fresh 33.8 1.2 22 0.96 — — 144
+Grapes (pale green) 16.5 0.5 20 0.52 — — 71
+Guava, country 11.2 0.9 10 0.27 0.03 0.03 51
+Lemon 11.1 1.0 70 0.26 0.02 0.01 57
+Musambi (sweet lime) 9.3 0.8 40 0.7 — — 43
+Malta (sweet lime) 7.8 0.7 30 1.0 — — 36
+Mango, alphonso
+Melon (musk) 3.5 0.3 32 1.4 0.11 0.08 17
+Orange 10.9 0.7 26 0.32 — — 48
+Orange juice 1.9 0.2 5 0.7 0.06 0.02 9
+Papaya ripe 7.2 0.6 17 0.5 0.04 0.25 32
+Pears 11.9 0.6 8 0.5 0.06 0.03 52
+Pineapple 10.8 0.4 20 2.42 0.20 0.12 46
+Pomegranate 14.5 1.6 10 1.79 0.06 0.10 65
+Sugar, Jaggery and Honey
+Sugar (khand), jaggery (gur), and brown sugar
+(shakkar) prepared from sugar cane are used assweetening agents in daily diet in many different ways.Honey, palm sugar, maple sugar and beet sugar are alsoused to some extent. The refined cane sugar contains99.4% of sucrose and is devoid of vitamins andminerals. Jaggery and brown sugar also contribute toCa, Fe and vitamin B needs of the body to some extent.Excessive use of sugar causes dental caries.
+Condiments and Spices
+According to Taber’s medical dictionary, condiments areappetising ingredients added to food and are classifiedas follows:Aromatic: Vanilla, cinnamon, cloves, parsley.
+Acrid : P epper, ginger
+Alliaceous : Onion, garlic, mustard, horse
+(allylic) radish
+Acidic : Vinegar, citron
+Animal origin : Caviar, anchoviesMiscellaneous : Salt, sugar
+As defined by Webster’s dictionary, spices are pun-
+gent or aromatic substances of plant origin that are usedfor seasoning or preservation of food, such as pepper,cinnamon and cloves (Table 22.10) .
+The condiments and spices have little nutritional
+value as such since their energy, protein, vitamin ormineral content is negligible. Their main importance liesin the fact that they improve taste and flavor andincrease appetite as well as the secretion of digestive
+404
+PART II: Epidemiological Triad
+juices. Some condiments and spices have been shown
+to possess specific physiological action. For example,garlic and asafoetida have been shown to reduce thetotal count of bacterial flora and thus to preventflatulence.
+15 Garlic is now well known to have
+hypocholesterolemic action. Turmeric and cumin havebeen shown to possess antiinflammatory andgalactagogic properties respectively. Excessive use ofspices, particularly red chillies, may cause gastric mucosaldamage and predispose to gastric or even peptic ulcer.
+Beverages
+Beverages are drinks used as food accessories.
+TEA
+Tea leaves contain 2 to 5% caffeine, a stimulant; 5 to12% tannic acid, an astringent; traces of theophylline;and some volatile essential oils. Tea is rich in fluorine.
+Tea is used all over the world. Its nutritional value is
+doubtful. Drinking too much tea can cause gastritis andmay even predispose to peptic ulcer. Polyphenols in teabind nonheme iron in food, thus making it unavailableand predisposing to anemia in vegetarians. Drinking teawith meals decreases iron absorption by 62%.
+16
+COFFEE
+Coffee seeds are roasted and then ground into powder.In this process, tannic acid is destroyed, proteins arecoagulated and a pleasant aroma due to an essentialoil, caffeol, is liberated. The caffeine content is 0.6 to2%. Chicory, up to about 20%, is often mixed withcaffeine to increase color and flavor.COCOA
+It is prepared by roasting and grinding cocoa beansobtained from the tree, Theobroma cocoa.  The seeds
+contain 50% fat, 1.3% theobromine and a little caffeine.
+The powder is mixed with starch and sugar in order todilute the fat content.
+ALCOHOLIC OR FERMENTED DRINKS
+There are innumerable varieties of alcoholic drinksdepending upon the type of sugar or yeast used for
+fermentation. However, all of them contain ethyl alcohol
+in varying concentration. Beer or malt liquors areprepared from fermented malt (barley) and contain 3
+to 7% alcohol. Spirits are prepared by distillation and are
+extracted from a variety of substances that yield fermensugar. They contain variable amounts of alcohol: whisky
+47 to 53%, brandy 48 to 54%, rum 50 to 60%, and
+gin 40 to 50%. Wines are made by fermentation of fruitjuice with yeast. Natural wines, such as champagne, have
+a maximum alcohol strength of 15%. Country liquors
+are made by fermentation of rice, mahua, molasses orgur. They contain 40% alcohol. Toddy is fermented nira
+(palm juice) and contains about 5% alcohol.
+Preservation of Foods and
+Conservation of Nutrients
+Food Preservation
+Three objectives of food preservation are:1. To keep foods fresh, wholesome and free from
+contamination.
+2. To make foods available when out of season and to
+avoid wastage when in excess.
+3. To supply foods to areas where there is scarcity.
+Methods of Preservation
+•Heating and canning : The food is heated to kill
+all bacteria. It is then kept in the can and heated
+again so as to drive out the air from the can,which is then sealed. Vitamin C is reduced in this
+process but the loss is lesser than that during
+cooking. Vitamin A stands heat well in the absenceof air. Vitamin B
+1, B2, D and E are not destroyed.
+This is a good method, suitable for many foods suchas fish, meat, peas, pineapple, tomato sauce, etc.
+•Drying or dehydration : This method removes the
+moisture required for growth of bacteria. It is suitablefor milk and biscuits but not for meat. Fruits andvegetables, such as apples and chillies, are exposed
+to sun for drying.TABLE 22.10: Fatty acid composition of common edible fats
+and oils (expressed as percentage of total)
+Substance Saturated* Monoun- Polyunsa-
+saturated** turated***
+Coconut oil 87.9* 7.8 0.8
+Corn oil 12.7 24.6 57.4
+Cotton seed oil 25.9 22.9 47.8
+Groundnut oil 20.9 48.3 29.9
+Mustard or 10.7 9.5 32.6
+Rape seed oil
+Olive oil 14.2 71.5 8.2
+Palm oil 47.9 37.9 9.0
+Palmolin 47.7 41.4 10.6
+Rice bran oil 19.5 39.2 33.3
+Sunflower oil 10.7 17.7 78.5
+Sesame oil 13.4 41.3 44.5
+Soyabean oil 13.1 28.9 57.2
+Sunflower oil 9.1 25.1 66.2
+Butter 49.8 20.1 1.8
+* Palmitic, stearic, arachidic, biethnic and lignoseric
+** Palmitolic and oleic
+*** Linoleic and linolenic
+405
+CHAPTER 22: Food and Nutrition•Smoking : Meat and fish, after salting, are dried and
+smoked. The organic compounds present in smoke
+are germicidal. However, the parasites present in
+meat may not die because the smoke does not
+penetrate deep.
+•Salting and pickling : 18 to 25% brine is used for
+pickling fish and meat. Brine, vinegar or weak acidsprevent the growth of germs, though they may notkill them. Pepper, chillies and mustard are used for
+pickling vegetables. Bacon is highly salted pork.
+•Preparing jams : Sugar syrup is used. To preserve
+fruits in the form of jams. It prevents bacterialgrowth.
+•Cooling and refrigeration:  Cold kills some parasites
+and reduces the growth of harmful bacteria. Meat,eggs, milk, vegetables, fruits and fish start decom-
+posing when the temperature rises above 10°C.Digestibility and food values are not affected as a
+result of refrigeration.
+•Gas storage : CO
+2 atmosphere is often used to store
+fruits and, sometimes, meat.
+•Glazing or coating : Sodium silicate solution is used
+to preserve eggs. The method closes the pores in
+the shell.
+•Addition of chemicals : Certain chemicals help in
+preservation. Those permitted are benzoic acid,benzoates, sulphur dioxide and sulphites. Methyl
+bromide is a widely used fumigant for controlling
+infestation in foods and agricultural commodities.This is being phased out now because it is an ozone
+depleting agent.
+•Ionizing radiation : There was initial controversy
+regarding safety of irradiated food. Now it isgenerally agreed that food irradiation is a safe
+procedure, provided proper guidelines are followed.It is a particularly useful procedure for controlling
+microorganisms in animal foods like poultry, pork,
+etc. It is also a preferred substitute for fumigatingproducts meant for export. A recent symposium,
+held in France, with participation of 40 countries,
+concluded that irradiation may prove to be one ofthe most important food technologies for protecting
+human health since the introduction of
+pasteurization, a century ago. The Ministry of Health,Govt of India, has already cleared irradiation of
+potatoes, spices and seafood.
+Conservation of Nutrients
+Cooking improves the flavor, taste and digestibility of
+food and helps in removing the harmful organisms.
+Cooking is both an art and a science and, if doneproperly, it conserves nutrient values.GUIDELINES FOR PREVENTING NUTRIENT
+LOSS DURING COOKING
+• Keep all foods dry, clean and airtight. This prevents
+loss due to moisture, bacterial contamination, insects
+and rats, etc.
+• Ghee, butter, oil, etc. should be kept sealed in a cool
+and dry place to prevent rancidity.
+• Milk should be rapidly brought to boiling point and
+then cooled quickly, as in pasteurization, to conserve
+food values. Milk cookers conserve food values
+better because of indirect steam heating.
+• Do not use baking soda since loss of vitamins is more
+in an alkaline medium.
+• Eggs are best cooked below the boiling point.• Rice should be hand-pounded or under-milled to
+conserve vitamins, minerals and proteins.
+• Pulses, food grains, and vegetables should not be
+washed repeatedly before cooking. Do not use largequantity of water for boiling and do not throw awaythe water used for cooking. Pulses should be sprou-ted or at least soaked for a few hours before cooking.
+• Fermentation after sprouting further increases the
+vitamin content. Rice and gram grains are soaked,ground and fermented overnight to produce theappropriate dough for preparation of idli, dosa,khaman and dhokla. This is a useful practice, sincefermentation reduces phytate content and increases
+thiamine, riboflavin and nicotinic acid content.
+• Do not cut vegetables too small and do not discard
+slender leaves and tender cuttings and gratings.
+Trimming and peeling should be minimum. Washvegetables before and not after cutting.
+• Do not cook vegetables for more than 15 minutes.
+Excessive and repeated heating of food should beavoided.
+• When cooking vegetables, they should be put
+straight into boiling water. High temperature will thendestroy an enzyme (oxidase) that destroys vitaminC, otherwise vitamin C is destroyed first. Salt should
+be added late since addition of salt before boiling
+hastens the loss of nutrients.
+• Boil potatoes and sweet potatoes without peeling
+them. Better still, steam them in a cooker.
+• Addition of a little acid such as tamarind, lemon juice,
+vinegar, citric acid or sour butter milk, while cooking,
+conserves nutrient values.
+• Use of iron knives and cast iron pans adds to the
+iron content of diet.
+• As far as possible, foods should be cooked by steam
+heating (either direct, such as putting food over a
+colander in a covered pan, or indirect, when food
+is kept in a closed container and immersed in boiling
+water). Loss of nutrients is almost nil during the
+indirect method, mild during the direct method and
+406
+PART II: Epidemiological Triadmore during open boiling. Cooking in a vessel
+covered with a lid or in a pressure cooker reducesnutrient loss.
+• Both shallow and deep frying of foods in oil causes
+loss of nutrients. The loss is less in deep fryingbecause the oil coating over the food prevents loss.Sudden high temperature in deep frying causespuffin puffing out of food because of its moisturecontent. Do not use the same oil or fat for fryingrepeatedly over a number of days.
+Diet Standards and Diet Planning
+Diet plays an important role in promotion of health andprevention of diseases. The suitable diet for a communityis one that is cheap, conforms to people’s habits andcustoms and provides a balanced intake of nutrients. Anutritionally balanced diet should provide adequateamounts (neither too little, not too much) of variousnutrients as per the nutritional requirements. Suchrequirements depend upon age, sex, weight, height andphysical conditions like pregnancy and lactation. To someextent, they may depend upon climate also.
+The requirements of various nutrients, except energy,
+have already been discussed. Ordinarily, a mixed dietconsisting of foodstuffs from different food groups islikely to be adequate in protein, vitamins and mineralsif it is adequate as regards energy needs. Inadequatecalorie intake in the poor and excess intake in the richcreate problems of malnutrition. A detailed account ofhuman energy needs will hence be given here.
+Food energy is measured in terms of a large calorie
+or kilocalorie which is equivalent to 1000 standard calo-ries. The heat of combustion of various foods, alongwith the percent energy bioavailability, is given below
+10:
+The net values as given in Table 22.11 are at the
+water factors which are used for calculating the energyvalue of carbohydrates, proteins and fats in general.
+Reference Indian Adult Man And Woman5
+Energy intake recommendations are made based on thereference man and women whose profile have beendescribed as follows.
+According to Indian standard, the reference man
+is between 18 and 29 years of age and weighs 60 kgwith a height of 1.73 m with a BMI of 20.3 and is freefrom disease and physically fit for active work; on eachworking day, he is engaged in 8 hours of occupationwhich usually involves moderate activity, while whennot at work he spends 8 hours in bed, 4 to 6 hoursin sitting and moving about, 2 hours in walking and inactive recreation or household duties.
+Reference woman is between 18 and 29 years of
+age, non-pregnant non-lactating (NPNL) and weighs 55kg with a height of 1.61 m and a BMI of 21.2, is freefrom disease and physically fit for active work; on eachworking day she is engaged in 8 hours of occupationwhich usually involves moderate activity, while whennot at work she spends 8 hours in bed, 4 to 6 hoursin sitting and moving about, 2 hours in walking and inactive recreation or household duties.
+Energy
+The body needs energy for maintaining bodytemperature and metabolic activity and for supportingphysical work and growth. To maintain energy balance,the input must equal the output, which corresponds toa steady state. The energy allowances recommendedare designed to provide enough energy to promotesatisfactory growth in infants and children and tomaintain constant appropriate body weight and goodhealth in adults.
+UNITS OF ENERGY
+The unit of energy in nutrition has long been expressedas Kilocalories (kcal). However, recently theInternational Union of Sciences and International Unionof Nutritional Sciences (IUNS) have adopted ‘ Joule’ asthe unit of energy in the place of kcal. Joule, a physical
+unit of energy, is defined as the energy required tomove 1 kg of mass by 1 meter by a force of 1 Newtonacting on it.
+A kilocalorie (kcal) is  defined as the heat required
+to raise the temperature of one kg of water by 1ºCfrom 14.5C to 15.5C. The unit kcal is still popularlyused. Both units are used in defining human energyrequirement in this report.
+The relationship between the two units of energy is
+as follows:• 1 kcal = 4.184 kJ (Kilojoule)• 1000 kcal = 4184 kJ = 4.18 mJ (Mega Joule)• 1 mJ = 239 kcal.
+ENERGY REQUIREMENTS
+The energy needs varies with number of factors suchas age, sex, body size, physical activity and, climate andaltered physiological status such as pregnancy andlactation. According to Indian standard, the total calorieintake for an Indian man has been fixed at 2,320 kilo-calories if he leads a sedentary  life. For those with
+moderate or heavy work, it should be 2,730 kilo-calories and 3,490 kilocalories respectively. Thecorresponding figures for women are 1,900 kcal, 2,230kcal and 2,850 kcal. The ideal man (or woman) shouldwork for eight hours, sleep eight hours, spend 4 to 6hours sitting or moving about and two hours in walking/active recreation or household duties. Energy needs ofchildren and adolescents have been computed forreference children and adolescents; these reference
+407
+CHAPTER 22: Food and Nutritionchildren were assumed to have a moderate daily physical
+activity level . Considering age, body weight,
+occupational activity, and non-occupational activity in
+a day the estimated energy requirement of has been
+shown  Tables 22.11A and 22.11B. The summary
+of recommended energy requirement for Indians isdepicted in Table 22.15A .
+Energy need in pregnancy should be adjusted for
+actual bodyweight, observed gestational weight gain and
+activity pattern of population.
+5 The average additional
+requirement of energy during pregnancy for an Indian
+woman of 55 kg body weight and consideringpregnancy weight gain between 10 and 12 kg has beencalculated as 350 kcal/day. Daily additional energyrequirement of a woman doing exclusive breast feeding
+during the first 6 months would be 600 kcal and for
+partial breast feeding during 7 to 12 months, it wouldbe approximately 520 kcal (Table 22.15A) .
+ENERGY EXPENDITURE OF PHYSICAL ACTIVITY
+Whenever total energy intake exceeds the total energyexpenditure there is positive energy balance leading to
+accumulation of fat. Physical activity is an important
+determinant of energy need of body. Physical inactivity(lack of physical activity) has been identified as one ofthe major risk factor for morbidity and mortality. It isdesirable that individuals over the age of 20 years shouldundertake a minimum of 30 to 45 minutes of physical
+activity of moderate intensity (such as brisk walking5-6 km/hr) to reduced risk of coronary heart disease,
+hypertension, diabetes mellitus, etc. Energy expenditureof some activities are given in Table 22.12 .Energy requirement per day for a sedentary male
+worker weighing 60 kg (Table 22.13) .
+Assessment of the Energy Requirements of a
+Group or Family
+Household diet survey provides information on food
+and nutrient intakes of that household for a given day,
+preferably for previous 24 hours. Raw equivalents ofall the ingredients used for preparation of foods on the
+reference day are weighed and recorded. Also
+demographic particulars of the individuals who have
+participated in the meals are also recorded. The intake
+of various food stuffs are computed and expressed asaverage per CU/day, as follows:TABLE 22.11A: Energy requirements of infants
+during the first year of life
+Age in months Daily energy requirement (kcal/kg/day)
+Boys G irls
+0-1 115 105
+1-2 105 100
+2-3 95 95
+3-4 80 85
+4-5 80 80
+5-6 80 80
+6-7 80 80
+7-8 80 80
+8-9 80 80
+9-10 80 80
+10-11 80 80
+11-12 80 80
+Source: ICMR 2010 (Reference 5)
+TABLE 22.11B: Energy requirement of Indian men and women at different ages and body weights
+Sex Body Age 18-30 yrs Age 30-60 yrs Age > 60 years
+weight
+kg Sedentary Moderate Heavy S edentary Moderate Heavy S edentary Moderate
+work work work work work work work work
+kcal kcal kcal kcal kcal kcal kcal kcal
+Male 45 1986 2336 2985 2026 2383 3045 1590 1870
+50 2096 2466 3151 2078 2444 3123 1688 1985
+55 2208 2597 3319 2196 2579 3296 1786 2101
+60 2318 2727 3485 2275 2671 3420 1883 221665 2430 2858 3652 2359 2736 3547 1981 2331
+70 2540 2988 3818 2442 2873 3671 2079 2446
+75 2716 3191 4078 2526 2971 3797 2177 2565
+Female 40 1577 1856 2371 1714 2016 2576 1477 1737
+45 1685 1982 2532 1778 2092 2673 1553 162750 1792 2108 2693 1841 2165 2767 1630 191755 1899 2234 2854 1905 2241 2864 1706 2007
+60 2006 2360 3015 1966 2315 2958 1782 2097
+65 2113 2486 3176 2032 2390 3054 1860 218770 2220 2612 3337 2095 2464 3149 1936 2277
+Source:  ICMR 20105
+408
+PART II: Epidemiological Triad
+Average intake per CU/day (g) =
+Total raw amount used (g)⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Total CU of household (consuming the food)
+Consumption Units (CU) of Individuals
+The energy requirement of an adult reference man is
+taken as ‘one consumption unit (CU)’ and calorie co-efficient for others are proportionately worked out onthe basis of age, sex, physiological status and activity asindicated below.
+The recommended coefficients for calculating energy
+needs of different members of the family are given inTable 22.14.
+The above scale of coefficients is somewhat arbitrary
+and concerns only calories. It is not meant to be applied
+in assessing the needs for other nutrients.
+The recommended intakes of various nutrients are
+shown in (Tables 22.15A and 22.15B) . Additional
+allowances recommended for pregnant and nursing
+mothers are also given in the table.TABLE 22.12: Energy expenditure on various physical
+activities (kcal/hr)*
+Activity Kcal/hr Activity Kcal/hr
+Cleaning/Mopping 210 Shuttle 348
+Gardening 300 Table Tennis 245
+Watching TV 86 Tennis 392
+Cycling Volley Ball 180
+15 (km/hr) 360 Dancing 372
+Running Fishing 222
+12 (km/hr) 750 Shopping 204
+10 (km/hr) 655 Typing 108
+8 (km/hr) 522 Sleeping 57
+6 (km/hr) 353 Standing 132
+Walking 4 (km/hr) 160 Sitting 86
+* Approx. energy expenditure for 60 kg reference man. Individuals
+with higher body weight will be spending more calories than those with
+lower body weight. Reference woman (50 kg) will be spending 5%less caloriesTABLE 22.13: Energy requirement per day for a sedentary
+male worker
+Basal metabolism 1440 for 24 hr
+(including 8 hr of sleep and rest)
+8 hours light routine
+320
+8 hours occupational activity 400
+Specific dynamic action 150
+Total 2310 kcal
+TABLE 22.14: Consumption units according to age, gender, physiological status and activity
+Age group and sex Consumption Units (CU) Age group, gender and Consumption Units (CU)
+physical activity
+1–3 years (B + G) 0.5 ≥ ≥≥ ≥≥ 18 years Female – Non Pregnant Non Lactating
+4–6 years (B + G) 0.7 Sedentary 0.8
+7–9 years (B + G) 0.9 Moderate 0.9
+10–12 years (Boys) 1.0 Heavy 1.3
+10–12 years (Girls) 0.9 ≥ ≥≥ ≥≥ 18 years Female - Pregnant
+13–15 years (Boys) 1.1 Sedentary 0.9
+13–15 years (Girls) 1.0 Moderate 1.0
+16–17 years (Boys) 1.2 Heavy 1.4
+16–17 years (Girls) 0.9
+≥ ≥≥ ≥≥ 18 years Male ≥ ≥≥ ≥≥ 18 years Female - Lactating
+Sedentary 1.0 Sedentary 1.0
+Moderate 1.2 Moderate 1.1
+Heavy 1.6 Heavy 1.5Assessment of Nutritional Status
+Nutritional assessment can be done by two broad types
+of methods—direct and indirect given in Table 22.16 .
+Inadequacies in nutritional intake affect functional
+capacity and result in many adverse health outcomes
+with distinct expressions of malnutrition. Children adaptto inadequate diets through reduced physical activityand slowed rates of growth. The sign of wasting and
+some biochemical abnormalities (e.g. reduction in
+serum albumin) starts appearing at moderate degreesof malnutrition. At advanced stages of malnutrition,linear growth ceases, physical activity is severelycurtailed, body wasting is marked, and clinical signs (e.g.edema, hair and skin changes) are noticeable.
+It is important to identify the nutritional status at
+individual and community level to suggest appropriatecorrective measures. Nutritional assessment requiresvalue judgment regarding quality and quantity of intakeand utilization of nutrients. This needs interpretation ofinformation obtained from anthropometric, dietary,
+biochemical and clinical studies. Following are the
+methods of nutritional assessments.
+CLINICAL EXAMINATION
+One of simplest and practical methods of assessingnutritional status of individuals and at community levelis clinical examination. Essentially the method is based
+409
+CHAPTER 22: Food and Nutrition
+TABLE 22.15A: Recommended dietary allowances for Indians (Macronutrients and Minerals)
+Group Particulars Body Net Energy Protein Visib le Fat Calcium Iron
+wt. kg kcal/dag/d g/d mg/d mg/d
+Man Sedentary work 2320 25
+Moderate work 60 2730 60 30 600 17
+Heavy work 3490 40
+Woman Sedentary work 1900 20
+Moderate work 2230 25 21
+Heavy work 2850 30
+Pregnant woman 55 +350 82.2 30 35
+Lactation0-6 months +600 77.9 3025
+6-12 months +520 70.2 30
+Infants 0-6 months 5.4 92 1.16 - - -
+kcal/kg/d g/kg/d
+6-12 months 8.4 80 1.69 - 500 46
+kcal/kg/d g/kg/d µg/kg/d
+Children 1-3 years 12.9 1060 16.7 27 600 09
+4-6 years 18 1350 20.1 25 137-9 years 25.1 1690 29.5 30 16
+Boys 10-12 years 34.3 2190 39.9 35 800 21
+Girls 10-12 years 35.0 2010 40.4 35 800 27
+Boys 13-15 years 47.6 2750 54.3 45 800 32
+Girls 13-15 years 46.6 2330 51.9 40 800 27
+Boys 16-17 years 55.4 3020 61.5 50 800 28
+Girls 16-17 years 52.1 2440 55.5 35 800 26
+a Rounded off to the nearest 10 kcal/d
+TABLE 22.15B: Recommended dietary allowances for Indians (Vitamins)
+Group Particulars V it. A µg/d Thiamin Riboflavin Niacin Pyridoxin Ascorbic Folate Vitamin M agnesium Zinc
+mg/d mg/d equivalent mg/d acid µg/d B12 mg/d mg/d
+mg/d mg/d µg/d
+Reti- β caro-
+nol tene
+Man Sedentary 1.2 1.4 16work
+Moderate 600 4800 1.4 1.6 18 2.0 40 200 1 340 12
+work
+Heavy 1.7 2.1 21
+work
+Woman Sedentary 1 1.1 12
+work
+Moderate 600 4800 1.1 1.3 14 2.0 40 200 1 10
+work
+Heavy 1.4 1.7 16
+work
+310
+Pregnant 800 6400 +0.2 +0.3 +2 2.5 60 500 1.2
+woman
+Lactation
+950 7600+0.3 +0.4 +4 2.5
+80 300 1.512
+0-6 months6-12 +0.2 +0.3 +3 2.5
+months
+Infants 0-6 - - 0.2 0.3 710 µg/kg 0.1 30 -
+months 25 25 0.2
+6-12 350 2800 0.3 0.4 650 µg/kg 0.4 45 -
+months
+Children 1-3 years 0.5 0.6 8 0.9 80 50 5
+4-6 years 400 3200 0.7 0.8 11 0.9 40 100 70 77-9 years 600 4800 0.8 1.0 13 1.6 120 100 8
+Contd...
+410
+PART II: Epidemiological TriadBoys 10-12
+years 1.1 1.3 15 1.6 40 140 120 9
+Girls 10-12years 1.0 1.2 13 1.6 160 9
+Boys 13-15
+years 600 4800 1.4 1.6 16 2.0 40 150 0.2 165 11
+Girls 13-15 to 1.0
+years 1.2 1.4 14 2.0 210 11
+Boys 16-17
+years 1.5 1.8 17 2.0 195 12
+Girls 16-17 40 200
+years 1.0 1.2 14 2.0 235 12
+Source: ICMR, National Institute of Nutrition, Hyderabad, 2010.Group Particulars V it. A µg/d Thiamin Riboflavin Niacin Pyridoxin Ascorbic Folate Vitamin M agnesium Zinc
+mg/d mg/d equivalent mg/d acid µg/d B12 mg/d mg/d
+mg/d mg/d µg/d
+Reti- β caro-
+nol teneContd...
+TABLE 22.16: Methods of nutritional assessment
+Direct Indirect
+ Clinical examination  Morbidity data
+ Anthropometry Mortality data
+ Biochemical tests Food consumption data
+ Biophysical methods (diet survey)
+ Food production data
+on examination of changes that can be observed or felt
+in different parts of body. Occasionally this can be
+supplemented in the field by certain physical tests withor without instrumental aids, such as testing of ankle
+jerks. Though the method is relatively inexpensive, the
+method requires careful training and continuoussupervision by experts. Like any other method of
+assessment, the method has its own limitations, which
+must be known for its proper application. Majorlimitations include, lack of quantification of malnutrition
+and lack of specificity of clinical signs. Most signs of
+malnutrition are not specific to lack of a particularnutrient and often it can be associated with various non-
+nutritional factors. For example, bitot spots classically
+considered as pathognomonic of vitamin A deficiency,can be due to chronic conjunctival trauma from smoke,
+dust, eye infection, etc. Glossitis can be seen in niacin,
+folic acid, Vitamin B
+12, or riboflavin deficiency. Clinical
+picture of angular stomatitis, often incorrectly considered
+as pathognomonic of ariboflavinosis, can result from
+excessive chewing of beetle nut chewing in India.However, judicious and proper application of the
+methods provides a nutritional status of the community.
+Following is the list of selected signs and symptomscommonly used for nutritional survey.
+19Part involved Signs
+Hair Lack of luster
+Thinness and sparse
+Dyspigmentation
+Flag signEasy pluckability
+Face Dif fuse depigmentation
+Nasolabial dyssebaciaMoon faces
+Eye Pale conjunctiva
+Bitot spotConjunctival/corneal xerosis
+Keratomalacia
+Lips Angular stomatitis/scar
+Cheilosis
+Tongue Palor, edema, Magenta tongue,
+Atrophic papillae
+Teeth Mottled enamels
+Gums Spongy bleeding gums
+Glands Thyroid enlargement
+Skins Xerosis
+Follicular hyperkeratosisPellagrous dermatosisFlaky paint dermatosis
+Nails KoilonychiaSubcutaneous tissue EdemaMuscular and skeletal Muscle wasting
+system Epiphyseal enlargementBeading of ribsKnocked knee and bow legs
+Gastrointestinal, HepatomegalyNervous and Psychometer changesCardiovascular system Mental confusion
+Sensory loss and motor weakness
+Loss of ankle and knee jerksCalf tendernessCardiac enlargement
+Source: WHO Expert Committee on Medical Assessment of Nutritional
+Status (1963).
+411
+CHAPTER 22: Food and Nutrition
+NUTRITIONAL ANTHROPOMETRY
+Anthropometry is the most frequently used method to
+assess the nutritional status of individuals or population
+groups. Measurements of nutritional anthropometry arebased on growth in children and body weight changes
+in adults. Nutritional anthropometry has been defined
+as “measurements of the variations of the physicaldimensions and the gross composition of the humanbody at different age levels and degrees of nutrition“(Jelliffe, 1966). Anthropometric measurements aresensitive over the full spectrum of malnutrition as
+compared to biochemical and clinical indicators, which
+are useful only at the extremes of malnutrition. Inaddition, anthropometric measurements are non-invasive, inexpensive and relatively easy to obtain. Themain disadvantage of anthropometry is its lack ofspecificity, as it may be affected by several other factors,
+including intake of essential nutrients, infection, altitude,
+stress and genetic background.
+Anthropometric indices (height, weight and BMI) are
+widely used for the assessment of the adequacy ofenergy intake. Body weights and heights of childrenreflect their nutritional and growth status; weights and
+heights of adults represent the cumulative effect of
+dietary intake over a long period. Continuedoverconsumption of energy especially in stuntedindividuals could lead to over-nutrition, obesity andincreased risk of noncommunicable diseases.
+Commonly used anthropometric measurements are:
+1. Weight
+2. Height3. Mid-arm circumference4. Head, chest, waist and hip  circumference
+5. Skin-fold thickness
+Weight
+Body weight is the most common and simplestanthropometric measure used for assessment ofnutritional status. Body weight is an indicator of‘current’ nutritional status of the individual, as weightfluctuates with nutrition. Unlike height which isirreversible, it reflects the current nutrition state. It is
+therefore a useful indicator for acute malnutrition.
+Measurement of weight:  The ideal weighing
+instrument is the lever actuated balance or a beam
+balance. However, in field situation a suitable instrumentfor weighing a child is a 25 kg hanging spring scalemarked out in steps of 0.1 kg. After weighing pants are
+attached to the lower hook of the scale, the instrument
+is adjusted to zero. The child should be weigh inminimum clothing after putting on the weighing pants.
+Weight for age indicator: Weight for age compares
+the weight of a given individuals with that of an individualof same age in the reference population. To know thenutritional status of the child we can use weight for agereference table or growth chart.
+Height
+Height is a key variable in the calculation of relative
+body weight and frequently used as an indicator of thenutritional status. The presence of undernutrition inchildren is assessed using these three anthropometricparameters ( weight-for-age, height-for-age and weight-
+for-height) and by comparing them with internationallyaccepted reference standards. Appropriate height-for-age of a child reflects linear growth and can measurelong-term growth faltering or stunting , while
+appropriate weight-for-height reflects proper bodyproportion or the harmony of growth. Weight-for-heightis particularly sensitive to acute growth disturbances andis useful to detect the presence of wasting. Weight-for-
+age represents a combined effect of both the criteria,i.e. height-for-age and weight-for-height. Thus, patientsclassified on the basis of weight-for-age criteria are amixed group in terms of both linear growth and bodyproportion and thus can be used for the diagnosis ofunderweight children.
+If a child has a low height-for-age, i.e. a Z-score
+below two standard deviations of the referencepopulation mean (-2 Z-score), such a child iscategorized as “stunted”. Similarly, a low weight-for-ageis diagnostic of an “underweight” child, while a lowweight-for-height is indicative of “wasting”. WHO andUNICEF jointly recommended a cut-off of -3 Z-scoresfor definition of severe acute malnutrition (SAM) basedon weight-for-height criteria (Table 22.17)
+When assessing weight-for-height, infants and children
+under 24 months of age should have their lengthsmeasured lying down (supine). Children over 24 monthsof age should have their heights measured whilestanding. For simplicity, however, infants and childrenunder 87 cm can be measured lying down (or supine)and those above 87 cm standing. An infantometer is useto measure the recumbent ‘length’. In adults and olderchildren, the height is measured using a vertical measuringrod, the ‘Anthropometric rod’.
+Mid Upper Arm Circumference (MUAC)
+The mid-upper arm circumference is the circumferenceof the upper arm at that same midpoint, measured witha non-stretchable tape. It is based on the observation
+TABLE 22.17: Recommended diagnostic criteria
+for SAM in children aged 6–60 months21
+Indicator Measure Cut-off
+Severe wasting2Weight-for-height1< –3 SD
+Severe wasting2MUAC < 115 mm
+Bilateral edema3Clinical sign
+1Based on WHO Standards (www.who.int/childgrowth/standards)
+2,3Independent indicators of SAM that require urgent action
+412
+PART II: Epidemiological Triadthat this measurement does not change much in
+children between six months and five years old, socomparison to a “normal” measurement is useful. The
+mid-upper arm circumference is measured on the non-
+dominant arm (left arm in case of right handed subjectsand vice versa) of the subject. The midpoint between
+the tip of the acromion of scapula and olecranon process
+of ulna is located with the arm flexed at the elbow.
+Shakir introduced a simple tri-colored tape in 1975,
+called as the Shakir’s tape. This can be used by fieldworker even with minimum skill. The MUAC less than12.5 cm cutoff value fall in red zone of the tape indicate
+marked danger, that between 12.5 and 14 cm fall in
+yellow zone indicate marked caution and more than14.0 cm fall in green indicate normal. However, WHO
+and UNICEF in 2009 jointly recommended a lower
+cutoff value of MUAC (<115 mm) for identificationsevere wasting. The MUAC less than 115 mm in the
+children aged 6 to 59 months gives an indication of the
+degree of wasting and is a good predictor of mortality.
+Waist and Hip Circumference
+Waist and hip  circumference is measured in adult to
+detect abdominal obesity.  Waist circumference is
+measured with a fiber reinforced plastic tape at point
+mid way between the lowest margin of the ribs and the
+iliac crest. Adult men with waist circumference ≥102
+cm and adult women with ≥88 cm were considered
+as having abdominal obesity.19 Hip circumference are
+measured with the tape a point of maximumprotuberance of buttocks. Adult men with waist hip ratio
+of ≥0.95 and women with ≥0.80 were considered as
+having abdominal obesity.
+BODY MASS INDEX (BMI)
+The BMI is the most widely used anthropometric index
+for the assessment of the nutritional status in adults asit reflects the effect of both acute and chronic energy
+deficiency/excess. BMI, however, does not clearly bring
+out the entire extent of chronic undernutrition. Forinstance those who are stunted and have low body
+weight may have normal BMI. Continued over-
+consumption of energy especially in stunted individualscould lead to over-nutrition, obesity and increased risk
+of non-communicable diseases. Thinness (low BMI) is
+also an indicator of risk to health, often being associatedwith general illness and other undernutrition related
+consequences like osteoporosis and fractures in the
+elderly. BMI is calculated from height and weightmeasurements (weight in kg/ height in meters²). A detail
+is given in obesity chapter.
+BIOCHEMICAL TESTS
+Biochemical indicators require laboratory facilities, costly
+equipment, and highly qualified staff to perform andinterpret tests as well as equipment, facilities, and
+protocols for specimen collection, specimen storage,
+specimen transit, and the reporting of results.
+BIOPHYSICAL METHODS
+These tests are not used widely for community surveys
+because of several reasons. Examples are: radiological
+examination (for diagnosis of rickets, osteomalacia,
+fluorosis) and dark adaptation test (for diagnosis ofvitamin A deficiency).
+MORBIDITY DATA
+The diagnosis of marasmus or kwashiorkor, when madeproperly, can, of course, be a reliable index of nutritional
+status of the community. In view of the close association
+between diarrhea and malnutrition, the occurrence ofdiarrhea may give some rough indication of nutritionalstatus. The same holds true of measles to some extent.In case of disease like beriberi, rickets, anemia and nightblindness, the significance in relation to the specific
+nutrient deficiency is obvious.
+23
+MORTALITY DATA
+Infant mortality rate is associated with malnutrition in
+the community. Such association is mainly related to thepostneonatal mortality component of the IMR.However, an even better indicator of malnutrition is the
+1 to 4 years (12 to 60 months) mortality. This may be
+expressed in the following three ways:
+19
+1. Percentage of deaths below 60 months to total deaths.2. Age-specific mortality rate (Annual 1 to 4 years
+death rate per 1000 children aged 1 to 4 years).
+3. Ratio of 1 to 4 year mortality rate to 1 to 12 months
+mortality rate (Wills and Water low index).
+NUTRITIONAL INTAKE ASSESSMENT
+Measures of nutritional intake estimate the amount offood a person is eating and can be used to assessadequacy of dietary nutrients intake (Table 22.18) .
+These methods are called diet survey. Dietary surveymethods measure actual food intake at the individualor family level by asking respondents to recall what they
+ate in the previous 24 hours and analyzing the chemical
+and nutrient content of diets. This information is thencompared with RDA to determine the deficiency ofnutrient intake.
+This is collected by conducting a diet survey in a
+representative sample of the population. It can be done
+in the following six ways:
+1.Random diet interview:  Here the person is asked to
+state what and how much he or she generally
+eats or drinks at different times such as breakfast,
+lunch, dinner, evening snacks, etc. The total amount
+413
+CHAPTER 22: Food and Nutritionof various nutrients consumed during 24 hours is
+then calculated with the help of standard food tables.
+2.Recall method: Here the subject is asked to state what
+he has eaten during the last 24 hours, starting from thetime of interview backwards. The usual 24 hours recallmethod may also be extended to 48 or 72 hours recall.
+3.Diet record: Literate subjects can be asked to record
+their actual dietary intake on plain paper or printedforms supplied beforehand. This method can be
+extended over 1,3,7 days or even more. However,
+it can be practical only in well-defined situations.
+4.Sample or aliquot method: The person is asked
+to keep a duplicate sample of everything consumed
+in bags specially provided for this purpose. Theamount collected is weighed, mixed, homogenized
+in a mixer and then chemically analyzed. This is
+obviously an experimental method used only forclinical research.
+5.Direct measurement method: This is again an experi-
+mental method applicable only in a metabolic orresearch ward. Each and every item of food is
+weighed accurately to the nearest gramme. The 24
+hour food consumption is calculated by deductingthe food left over from the total food served.
+6.Domestic food balance method: All the foodstuffs
+present in the house on a particular day are listedand measured. The same is done in case of any
+foods purchased or otherwise entering the house
+over a period of a 1 week. The food remaining atthe end of 1 week is again measured. The total daily
+consumption divided by the number of reference
+dietary units (as described earlier) gives the actual24 hours dietary intake. Due allowance is made for
+any foods eaten outside the house.
+FOOD PRODUCTION DATA
+This can be applied at the national level where total food
+consumed (food grown plus food imported minus foodexported or wasted) is divided by the total populationin terms of reference dietary units. Average nationalconsumption per reference consumption unit can beobtained in this manner.
+Nutritional Deficiency States
+EPIDEMIOLOGICAL ASPECTS
+The importance of optimal nutrition for health andhuman development is well recognized. Currently thecountry is in the midst of rapid socioeconomic,demographic, nutrition and health transition. While thecountry is yet to overcome poverty, undernutrition andcommunicable diseases, it is increasingly facing problemsrelated to affluence. Because of poor economiccondition mal distribution of food, lack of nutritionawareness and unhygienic environment, India and otherdeveloping countries faces major burden of nutritionrelated disorders. Long-term undernutrition leads tostunting and wasting, non-communicable chronic dietrelated disorders, increased morbidity and mortality andreduced physical work output leading to economic lossto the country. On the other hand with increasingurbanization, consumption of higher amount of fat,sugar and refined food with less dietary fiber coupledwith sedentary lifestyle contributing to higher prevalenceof obesity, heart disease, hypertension particularlyamong affluent population.
+COMMON NUTRITION PROBLEMS IN INDIA
+The major nutrition problems of India can be classifiedas follows:1. Undernutrition
+a. Protein Energy Malnutrition (Marasmus and
+Kwashiorkor)
+b. Iron deficiencyc. Iodine deficiencyd. Vitamin “A” deficiency.e. Low Birth Weight Children
+2. Over-nutrition: Following are epidemiological
+determinants of malnutrition.
+AGENT FACTORS
+•Energy deficiency:  This is the most common cause
+of undernutrition leading to the so-called energyprotein malnutrition. It is usually associated withdeficiency of other nutrients as well.
+•Other nutrient deficiencies:  When one or more than
+one nutrients are inadequate in the food, specific
+conditions may occur such as night blindness,beriberi, pellagra, anemia, rickets, etc.
+HOST OR HUMAN FACTORS
+•Age and sex : Basal metabolic rate (BMR) and
+physical expenditure of energy vary with age andsex. Kwashiorkor is found in young children. Osteo-
+TABLE 22.18: Average intake of nutrients and their adequacy
+Nutrient Daily intake per RDA** Intake as
+consumption unit* % of RDA
+Energy (kcal) 1994 2425 82
+Protein (g) 65.5 60 100
+Calcium (mg) 368 400 92
+Iron (mg) 30 28 108
+Vitamin A (mg) 470 600 78
+(Retinol)
+Thiamine (mg) 1.7 1.2 141
+Riboflavin (mg) 0.9 1.4 65
+Nicotinic acid (mg) 15.2 16 145
+Vitamin C (mg) 42.6 40 107
+Fat (g) 10 20 50
+Based upon data of *National Nutrition Monitoring Bureau4 and **ICMR5
+414
+PART II: Epidemiological Triadmalacia and nutritional anemia occur in pregnant
+women and nursing mothers.
+•Habits, customs and food fad s: These often contri-
+bute to malnutrition. Examples are the habit ofthrowing away excess water after cooking of rice, thecustom of discarding colostrum, the customary
+prestige attached to desi ghee and the modern trend
+of increased intake of processed and packagedcostly fast foods, often containing harmfulpreservatives.
+•Physiological and pathological stress : Undernutrition
+may be secondary to interference with digestion,
+absorption and utilization of food, increase in nutri-
+tional requirements or increased nutrient loss. Diges-
+tion is affected in gastric, duodenal, biliary andpancreatic disease. Absorption is affected in diseaseof the jejunum and ileum, such as idiopathic tropical
+reabsorption syndrome (ITMS) or tropical sprue.Prolonged use of mineral oil may interfere withabsorption of fat-soluble vitamins. Nutritional needsare increased in exercise, pregnancy and hyper-
+thyroidism. In fever, one degree Celsius rise in
+temperature raises the BMR by 13%. Leukemia andother malignant diseases also increase the BMR.Examples of increased excretion of loss are glycosuriain diabetes, protein loss in burns, exudates andtransudates, salt loss in excessive perspiration and
+diarrhea and iron loss in hookworm infection.
+•Psychological state: A person tends to eat more in
+pleasant company and less when the mood and
+surroundings are gloomy.
+Psychogenic factors are known to play an impor-
+tant role in anorexia nervosa.
+•Heredity and constitution:  Some nutrition related
+diseases are, at least in part, genetically determined.Examples are obesity, diabetes and celiac disease.
+ENVIRONMENTAL FACTORS
+These may be related to physical, socioeconomic orbiological environment.
+•Physical factors : Geographic location, climate, soil,
+agricultural development and population density
+play important role in determining nutritional status.For example, rickets occurs in those areas wherethere is less exposure to sun. Beriberi is found mainlyamong the rice eating people of Asia. Pellagra is
+found in those parts where the staple food is maize
+or jawar. Hypovitaminosis A and scurvy occur inthose months of the year when fresh vegetables arenot available. Pellagra, again is at peak in earlysummer when more maize is eaten. Goiter isendemic in the foothills of Himalayas.
+•Socioeconomic factors: A large part of the world’spopulation obtains food by purchase or barter. Peoplewith less purchasing power suffer more from under-nutrition, especially during the natural calamities suchas crop failure and war. Religious and social customsand taboos are other factors which affect food intakeand nutritional status. The role of socioeconomic andpolitical factors in malnutrition is classically brought
+out by the example of Orissa. The only districts in
+India where starvation deaths occur are Koraput andKalahandi in this state. This is in spite of the fact thatthese districts are the granaries of Orissa. The productionof pulses in these two districts is so much that notonly the demands of the whole state are met but
+also there is surplus to be exported to nearby states.
+These two districts also produce the highest quantumand best type of cotton in Orissa. However, the largelytribal population in these districts is exploited by afew royal families that own 80% of the land.
+24
+•Biological factors : Coexisting communicable and
+parasitic diseases such as hookworm, round-
+worm,25,26 Giardia27,28 and malaria debilitate people
+and produce nutritional deficiency. In addition, signifi-cant crop and food destruction is caused by insectsand rodents, especially in the tropics.
+Protein Energy Malnutrition (PEM)
+The term PEM is really a misnomer because proteindeficiency is very uncommon. Almost all diet surveys
+carried out in different parts of the world have shownthat the proportion of protein in the diet of mostpeople, whether rich or poor, vegetarian ornonvegetarian, children or adults, is adequate.
+The primary cause of PEM is chronic energy
+deficiency. Undernutrition starts as early as conception.Both clinical and sub-clinical undernutritions are widelyprevalent even during early childhood and adolescence.Though the prevalence of florid forms of severe PEMlike kwashiorkor and marasmus  among preschool
+children is <1%, countrywide surveys indicate that
+about 43% of <5 year children suffer from sub-clinical
+undernutrition such as underweight (weight for age<median – 2SD of WHO child growth standards). Thestudies have shown that there is a steep increase in theprevalence of underweight among young children, from6 months of age to 24 months of age. This is attributable
+to faulty infant and young child feeding practices
+prevailing in the community. Persistent undernutritionthroughout the growing phase of childhood leads toshort stature  in adults.
+Malnutrition impairs immune function, and
+malnourished children are prone to frequent infections
+that are more severe and longer-lasting than those in
+well-nourished children thus perpetuating into amalnutrition–infection–malnutrition cycle. The spectrumof PEM includes mild, moderate and severe form.
+415
+CHAPTER 22: Food and NutritionCLASSIFICATION OF PEM
+PEM is usually assessed on the basis of anthropometric
+criteria. The three measurements commonly used areweight, height and midarm circumference, out of whichweight recording is by far the most common.
+Mild protein-energy malnutrition: Weight loss in
+children or adults, or lack of weight gain in childrenleading to an observed weight that is 1 or more butless than 2 standard deviations below the mean valuefor the reference population (or a similar loss expresssedthrough other statistical approaches).
+Moderate protein-energy malnutrition: Weight
+loss in children or adults, or lack of weight gain inchildren leading to an observed weight that is 2 or morebut less than 3 standard deviations below the meanvalue for the reference population (or a similar lossexpressed through other statistical approaches).
+SEVERE MALNUTRITION
+The World Health Organization (WHO) defines severeacute malnutrition as a mid-upper arm circumference(MUAC) < 11.5 cm, a weight-for-height z-score (WHZ)
+below –3, or the presence of bilateral pedal edema inchildren with kwashiorkor.
+21 In the absence of
+anthropometric assessment, severe acute malnutritioncan also be diagnosed by assessing children for visiblesevere wasting, defined as the presence of musclewasting in the gluteal region, loss of subcutaneous fat,or prominence of bony structures, particularly over thethorax. Severe acute malnutrition differs from chronicmalnutrition, which manifests as stunting. Complicatedsevere acute malnutrition is a life-threatening
+condition requiring urgent, specialized treatment.
+CLINICAL FEATURES
+Severe malnutrition can take two extreme forms, viz,marasmus and kwashiorkor. Out of these, marasmus isby far the more common and less serious, themaximum mortality being found when both arepresent. Together, i.e. marasmic kwashiorkor. A simplemethod of categorizing these conditions is given inTable 22.19.
+The characteristic features of marasmus are marked
+loss of weight, wasting of muscles and loss of subcu-taneous fat. As a result, the child appears to be justskin and bones with wrinkled face and shining alerteyes, giving the appearance of a “wise, old man”.Kwashiorkor is mainly a disease of toddlers (age group1 to 3 years) but may be found upto five years of age.The characteristic feature is edema, giving rise to“moonface”, usually accompanied by skin lesions(peeling skin), irritability and lack of interest insurroundings. Loss of weight may not be apparentbecause of edema. Kwashiorkor is much less commonthan marasmus. However, it is more serious and maybe fatal within days to weeks, if untreated. Marasmickwashiorkor is a mixed syndrome characterised bybody weight less than 60% in the presence of edema.It is more serious than simple kwashiorkor.
+Iron Deficiency
+The term ‘nutritional anemia’ encompasses allpathological state in which the hemoglobinconcentration fall below a critical level, due to deficiency
+of one or more nutrients. Iron deficiency and anemiacaused by it steal vitality from the young and old,threaten the health of pregnant women, impair thecognitive development of children and in their mostsevere forms can be a direct cause of death.
+32
+Nutritional anemia occurs frequently in both developing
+and industrialized countries.33 Worldwide, at any given
+moment, more individuals have iron deficiency anemiathan any other health problem.
+34 The estimated
+prevalence in South East Asia is 50 to 70%.35 Prevalence
+rates are usually considerably higher in pregnant women,
+with an overall mean of 51%.34 Unlike reported figures
+for protein energy malnutrition and vitamin A deficiency,
+which are declining, estimates suggest that anemiaprevalence rates are increasing.
+35 Iron supplementation
+programs have been carried out in many places throughoutthe world over the last two decades. Still, the prevalence
+of iron deficiency anemia does not appear to be
+declining.
+35
+Anemia is a major health problem in India,
+especially among women and children. Anemia canresult in maternal mortality, weakness, diminishedphysical and mental capacity, increased morbidity from
+infectious diseases, perinatal mortality, premature
+delivery, low birth weight, and (in children) impairedcognitive performance, motor development, andscholastic achievement. Among children between theages of 6 and 59 months, the great majority (70%) areanemic. More than half of women in India (56%) have
+anemia, including 39 percent with mild anemia, 15
+percent with moderate anemia, and 2 percent withsevere anemia.
+36 In India, the prevalence of anemia is
+high because of low dietary intake, poor bio-availability
+of iron in phytate fiber-rich Indian diet and highincidence of infection such as malaria, hookworminfestations, etc.TABLE 22.19: Classification of severe PEM*21
+% weight for age Edema
+Present Absent
+80 to 60 Kwashiorkor Undernourished
+Below 60 Marasmic Marasmus
+Kwashiorkor
+*Using 60th percentile of Harvard values as the reference.
+416
+PART II: Epidemiological TriadIt may be mentioned that, for practical purpose,
+nutritional anemia may be regarded as iron deficiency
+anemia because this is the most common cause of theformer, the two other being folic acid deficiency and B
+12
+deficiency, both of which are much less common. It mayalso be mentioned that anemia is only a late manifestationof iron deficiency. In mild and early stages of irondeficiency, adverse physiological alterations and symptomsmay be seen in the absence of anemia. At a matter offact, severity of symptoms in iron deficiency is not closelycorrelated with the degree of anemia and the responseto iron therapy often precedes the rise in bloodhemoglobin.
+37 This is so because symptoms in iron deficient
+individuals are attributable not only to low bloodhemoglobin but also to alterations in tissue metabolism.
+Iron deficiency can occur either because of excessive
+body loss or because of inadequate intake. The formeris much more common.
+37 Gastrointestinal and female
+genital tract are the two most common sources of bloodloss. Hookworm infection is an important preventablecause of blood loss. Dietary iron intake is usuallyadequate. Iron intake in Indian diet has, in fact, beenestimated to be 108%.
+ The real cause of the widespread
+iron deficiency anemia in developing countries isprobably attributable to two factors—decreased absorp-tion of iron and increased loss due to intestinal parasites.
+IRON DEFICIENCY ANEMIA
+Iron deficiency is defined as a condition in which thereare no mobilizable iron stores and in which signs of acompromised supply of iron to tissues, including theerythron, are noted. The more severe stages of irondeficiency are associated with anemia. When iron-deficient state occurs, hemoglobin concentrations arereduced to below-optimal levels. When individualhemoglobin levels are below two standard deviations(–2SD) of the distribution mean for hemoglobin in anotherwise normal population of the same gender andage who are living at the same altitude, iron deficiencyanemia is considered to be present (Table 22.20) .
+38
+Severe anemia in pregnancy is defined as
+hemoglobin <7 g/dl and requires medical treatment.Very severe anemia is defined as hemoglobin <4 g/dl.Very severe anemia in pregnant women is a medicalemergency due to the risk of congestive heart failure;maternal death rates are greatly increased.
+PREVENTION STRATEGIES
+Prevention strategies must be sustainable involving awide range of sectors and organizations.
+Dietary Improvement
+• The approaches are designed to increase
+micronutrient intake through the diet.
+• Bioavailability of iron in usual diets can be improved
+by altering meal patterns to favor enhancers, lowerinhibitors, or both.  Enhancers of iron absorption
+includes heme iron in meat, poultry, fish, andseafood, vitamin C; some fermented or germinatedfood and condiments, such as sauerkraut and soysauce. Inhibitors of iron absorption are phytates,
+present in cereal bran, cereal grains, nuts, and seeds,
+etc. food with high inositol content; iron-bindingphenolic compounds (tannins); foods that containthe most potent inhibitors such as tea, coffee, cocoa,herbal infusions, certain spices, etc. calcium,particularly from milk and milk products.
+Food Fortification
+There is a consensus that enrichment (or fortification)of food is an effective long-term approach to improvingthe iron status of populations. Legislative action to ensurethe quality and safety of iron-fortified foods, and honestand fair practices in marketing them, may also be
+needed. Several iron fortificants have been used
+successfully in a variety of national programmes. Wherebread and pasta are abundantly consumed, and flouris milled in only a few places, several iron fortificantshave been added successfully during the milling process.
+Fortified Foods for Young Children
+Normal-birth-weight infants who are exclusivelybreastfed do not need iron supplements for the first 4to 6 months of life. When complementary feeding
+begins, and certainly after 6 months of age, infantsneed an additional source of iron to maintain adequate
+TABLE 22.20: Hemoglobin levels defining anemia38
+Age and sex group Hemoglobin level (g/dl)
+Non anemic Anemic Mild anemia Moderate anemia Severe anemia
+Children 6–59 months 11.0 or more <11.0 10–10.99 7–9.99 <7
+Children 5–11 years 11.5 or more <11.5 10–11.49 7–9.99 <7
+Children 12–14 years 12.0 or more <12.0 10–11.99 7–9.99 <7
+Non-pregnant women 12.0 or more <12.0 10–11.99 7–9.99 <7
+Pregnant women 11.0 or more <11.0 10–10.99 7–9.99 <7
+Men 13.0 or more <13.0 10–12.99 7–9.99 <7
+Source: WHO38
+417
+CHAPTER 22: Food and Nutritioniron nutrition and prevent iron deficiency anemia. Since
+cereals are widely used as early complementary foods,they should be fortified during their commercialpreparation.
+Iron Supplementation
+Iron supplementation is the most common strategycurrently used to control iron deficiency in developingcountries. Supplementation is most often used to treatexisting iron deficiency anemia. It is also considered asa preventive public health measure to control irondeficiency in populations at high risk of iron deficiencyand anemia. Therapeutic supplementation should bepart of the health care delivery system. In India underNational Nutritional Anemia Control pregnant womenare recommended to have 100 mg elemental iron perday for 100 days after the first trimester of pregnancy;a similar dose applies to lactating women and IUDacceptors.
+Control of Infection
+Parasitic disease control programs, in particular thosedirected to hookworm, schistosomiasis and malariacontrol are effective in controlling iron deficiencyanemia. Periodic de-worming by single doseAlbendazole 400 mg three times in a year in endemicareas and twice a year in nonendemic areas isrecommended.
+Health and Nutrition Education
+Policy decision: Incentive policies and improved
+farming systems that favor the development, availability,distribution, and use of foods that enhance ironabsorption.
+Link intervention strategies to related health
+and nutrition programs  (e.g. family planning,
+breastfeeding promotion, complementary feeding,reproductive health, IMCI).
+Others measures: Emergency food aid for
+refugees and displaced persons, agricultural, socio-economic improvement, nutritional education, etc.
+Iron Absorption
+The percentage of iron absorbed from diet can beincreased by the following means:•Increasing ascorbic acid intake: Vitamin C is known
+to increase iron absorption. It is, hence, advisableto promote the use of lemon and fresh fruits andvegetables, especially leafy vegetables.
+•Decreasing phytate content of food: Phytic acid in
+the cereals finds iron as iron phytate. The leaveningof flour by yeast breaks down phytates by the actionof the enzyme phytase, thus making more ironavailable for absorption.•Incorporating heme iron in diet:  Iron absorption
+mechanisms are different for heme iron and nonheme
+iron, a higher proportion of the former beingabsorbed. It has been found that a small amount offlesh foods, when consumed with vegetarian food,increases the percentage of iron absorbed from thediet. The exact mechanism or this is not known, but
+an as yet unidentified iron absorption promoting
+factor in animal foods has been postulated. However,such effect is not seen in response to egg.Besides attempting to increase the degree of iron
+absorption, another approach toward improving ironnutritional status is increasing the intake of iron. High iron
+content in diet ensures that more iron is ultimately absorbed.
+Iron content in diet can be increased by augmenting theintake of iron rich foods, particularly leafy vegetables, andby taking oral iron preparations. Costly iron preparationsoffer no special advantage and ferrous sulphate is still thebest and cheapest. This is the preparation used in the
+National Nutritional Anemia Prophylaxis Program
+described later. An iron deficient patient absorbs as muchas 20% of iron taken as ferrous sulphate.
+37
+Most vulnerable group to iron deficiency anemia:Anemia is prevalent in all ages and both sexes. But themost vulnerable groups are pregnant women, womenof reproductive age group, adolescent girls and young
+children.
+Consequences of iron deficiency anemia:
+During pregnancy Increases maternal mortality
+Increases incidence of abortionIncreases number in LBW babies
+Increases infant mortality
+Young children Low IQ
+Small attention span
+High absenteeism due to morbidity
+Poor performance in school
+Adolescent girls Early marriage and pregnancy aggravate
+anaemia.
+All age groups More infection due to low immunity
+Exhaustion
+Headache
+LethargyLow productivity due to decreased work
+capacity
+BreathlessnessPalpitation
+Vitamin A Deficiency
+Vitamin A deficiency, usually denoted by the term
+xerophthalmia, is fairly common in India and manyother countries. It is unfortunate that it should be so,because the means of preventing xerophthalmia areknown and are fairly cheap. Adequate intake of greenleafy vegetables ensure good vitamin A nutritional status.In spite of this, it is estimated that 13000 childrenbecome blind due to vitamin A deficiency every yearin India alone. The figure is 16000 in Bangladesh.
+418
+PART II: Epidemiological Triad
+Surveys in India have revealed widespread low
+dietary intake of vitamin A. According to the data of
+National Nutrition Monitoring Bureau, vitamin A intakein rural areas was adequate in none of the statessurveyed. The highest daily intake was in Andhra Pradesh,about 415 to 450 mg. In all others, daily intake was lessthan half of the RDA.
+ Clinical surveys for signs of
+xerophthalmia conducted by the NNMB have revealeda prevalence of 1.8 to 10.6% in preschool children invarious states. These prevalence figures are based uponpresence of one or more ocular signs of xerophthalmia,including corneal and conjunctival signs. The various signsare listed in Table 22.21 which gives the classification
+of xerophthalmia recommended by the WHO.
+39
+Out of the signs listed in the above table, the most
+reliable sign that is reasonably specific and unlikely tobe missed is Bitot’s spot. There is reliable evidence that2 to 3% children below 5 years age in India have Bitot’sspots.
+41 In view of the high prevalence of xerophthalmia,
+a national xerophthalmia prophylaxis program has beenlaunched in India as described later. It ought to bementioned that it was claimed sometime ago
+42 that six
+monthly administration of vitamin A 200,000 unitsreduced child mortality by as much as 30%. Seriousdoubts have been expressed about this claim.
+43,44 A
+double blind study of 15,875 preschool children atNational Institute of Nutrition found that mortality wasunaltered in children who received vitamin A.
+Iodine Deficiency
+Human body and various important functionalcompounds in it are composed of several elements suchas Carbon, oxygen, nitrogen, hydrogen iron, zinc, etc.Iodine is one such element which is a highly volatileelement. It is a constituent of two important hormones,i.e. T3 (Triiodothyronine) and T4 (Thyroxine)synthesized in thyroid gland. These hormones areessential for proper physical growth and mental or braindevelopment from the fetal stage throughout life.
+Due to low iodine intake with the food and
+subsequent low level of iodine in the thyroid gland, thegland tries to compensate by enlarging itself to makeadequate amounts of T3 and T4. This enlargement ofgland is goiter.
+PREVALENCE
+Goiter is prevalent in almost all submountainous regionsin various countries, there being nearly 200 millioncases in the world. Globally, 1570 million people areliving in IDD endemic areas.
+44a In India, the disease is
+endemic in the sub-Himalayan areas, extending over adistance of 2400 km from Kashmir to NEFA, includingthe northern districts of Punjab, UP , Bihar and WestBengal. Cases are also found in Satpuda and Sahyadrihills of Maharashtra. Recent surveys have revealed highprevalence in hitherto unsuspected areas, includingDelhi and its neighboring regions. For example, a village40 km from Delhi has been found to have goiterprevalence of 38.8% in the total population. 6.9% ofthe population had visible goiter (grade II and III). Theprevalence was higher in females.
+44b Studies in six
+districts of West Bengal have revealed goitre prevalenceas low as 11.3% to as high as 25.9%.
+45-48 In India, about
+more than 71 million persons are suffering from goiterand other iodine deficiency disorders.
+49 Earlier 321
+districts in the country have been surveyed in 28 statesand 7 Union Territories for IDD and 260 districts havebeen found to be endemic (i.e. prevalence of IDD ismore than 10%).
+50
+AGENT FACTORS
+Deficiency of iodine is the main factor. Othercontributory factors are excess of rapeseed, mustard,yellow turnip, cabbage, maize, sweet potatoes andgroundnut skin in the diet.
+HOST FACTORS
+Heredity plays negligible role. School going children,adolescent and pregnant women are more susceptibleto goitre.
+ENVIRONMENT FACTORS
+The iodine content in soil and water is low in the hillyareas. Consequently, vegetables, etc. grown in theseregions are poor in iodine.
+CLINICAL FEATURES
+Iodine Deficiency Disorders (IDD) – a term coined byHetzel in 1983, encompasses the collective clinical andTABLE 22.21: Classification of xerophthalmia39,40
+Code Condition Diagnostic
+Prevalence
+use limits*(%)
+X1A Conjunctival xerosis Nonspecific
+X1B Bitot’s spot with Useful in very 0.5
+conjunctival xerosis young children
+X2 Corneal xerosis Useful 0.01
+X3A Corneal ulceration/ Useful 0.01
+keratomalacia (< 1/3 of
+corneal surface)
+X3B Corneal ulceration/kerato- Useful 0.01
+malacia ( > 1/3 of corneal
+surface)
+XN Night blindness Qualitative useXF Xerophthalmia funds Not employedXS Corneal scare Uncertain 0.05
+specificity
+*Prevalence more than this in preschool children should cause public
+health concern.

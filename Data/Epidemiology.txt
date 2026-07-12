@@ -1,0 +1,952 @@
+
+Mahajan & Gupta
+Textbook of
+Preventive and Social Medicine
+In their Esteemed Opinion....
+“ I congratulate you for your bold and strenuous effort in bringing out the Textbook of
+Preventive and Social Medicine for medical students in India. This book would definitelybecome popular very soon in India.”
+— Dr M Sudarshan,  Professor and Head, Department of Community Medicine,
+Kempegowda Institute of Medical Sciences, Bengaluru, Karnataka, India
+“This book is very informative and well written and can be used as reference by communityhealth personnel engaged in health care delivery.”
+— Dr Deoki Nandan, Professor, Department of Social and
+Preventive Medicine, SN Medical College, Agra, Uttar Pradesh, India
+“I congratulate you for writing a good Textbook of Preventive and Social Medicine.”
+— Dr VN Mishra, Professor and Head, Department of Social and
+Preventive Medicine, LLRM Medical College, Meerut, Uttar Pradesh, India
+“It was a pleasure to go through this book. The contents have been brought out at thedesired standard.”
+— SD Gaur, Professor and Head, Department of Preventive and
+Social Medicine, BHU, Varanasi, Uttar Pradesh, India
+“The Textbook of Preventive and Social Medicine by Dr Mahajan and Dr Gupta is a verygood attempt.”
+— Dr Abdul Rauf, Professor and Head, Department of Social and
+Preventive Medicine, Government Medical College, Srinagar, Jammu and Kashmir, India
+JAYPEE BROTHERS MEDICAL PUBLISHERS (P) LTD
+New Delhi • Panama City  London  Dhaka  KathmanduMahajan & Gupta
+Textbook of
+Preventive and Social Medicine
+Revised by
+Rabindra Nath Roy  MBBS MD (PSM)
+Associate Professor
+Department of Community Medicine
+Burdwan Medical College and Hospital
+Burdwan, West Bengal, India
+Indranil Saha MBBS MD (Community Medicine)
+Assistant Professor
+Department of Community Medicine
+Burdwan Medical College and Hospital
+Burdwan, West Bengal, India
+Authors of Previous Edition’s
+MC Gupta MBBS MD (Medicine) MPH LLB
+Ex-Dean and Professor
+National Institute of Health and Family Welfare, New Delhi, India
+Formerly Additional Professor
+All India Institute of Medical Sciences, New Delhi, India
+(Late) BK Mahajan MBBS DPH FCCP FIAPSM
+Deputy Director, Health Services, Bombay State (1958-60)
+Formerly, Professor of Preventive and Social Medicine at Medical College, Jamnagar (1960-73)
+Mahatma Gandhi Institute of Medical Sciences, Sevagram (1973-82)
+Senior Consultant, ICDS Central Technical Cell, AIIMS (1982-87)Fourth Edition
+®
+Jaypee Brothers Medical Publishers (P) Ltd.
+Headquarters
+Jaypee Brothers Medical Publishers (P) Ltd.
+4838/24, Ansari Road, DaryaganjNew Delhi 110 002, IndiaPhone: +91-11-43574357Fax: +91-11-43574314Email: jaypee@jaypeebrothers.com
+Overseas Offices
+J.P. Medical Ltd. Jaypee-Highlights Medical Publishers Inc.
+83, 
+Victoria Street, London City of Knowledge, Bld. 237, Clayton
+SW1H 0HW (UK) Panama City, Panama
+Phone: +44-2031708910 Phone: + 507-301-0496
+Fax: +02-03-0086180 Fax: + 507-301-0499
+Email: info@jpmedpub.com Email: cservice@jphmedical.com
+Jaypee Brothers Medical Publishers (P) Ltd. Jaypee Brothers Medical Publishers (P) Ltd.
+17/1-B, Babar Road, Block-B, Shaymali Shorakhute, Kathmandu
+Mohammadpur, Dhaka-1207 Nepal
+Bangladesh Phone: +00977-9841528578
+Mobile: +08801912003485 Email: jaypee.nepal@gmail.com
+Email: jaypeedhaka@gmail.com
+Website: www.jaypeebrothers.com
+Website: www.jaypeedigital.com
+© 2013, Jaypee Brothers Medical Publishers
+All rights reserved. No part of this book may be reproduced in any form or by any means without the prior permission of the
+publisher.
+Inquiries for bulk sales may be solicited at: jaypee@jaypeebrothers.com
+This book has been published in good faith that the contents provided by the authors contained herein are original, and is
+intended for educational purposes only. While every effort is made to ensure accuracy of information, the publisher and theauthors specifically disclaim any damage, liability, or loss incurred, directly or indirectly, from the use or application of any ofthe contents of this work. If not specifically stated, all figures and tables are courtesy of the authors. Where appropriate, t he
+readers should consult with a specialist or contact the manufacturer of the drug or device.
+Mahajan & Gupta Textbook of Preventive and Social Medicine
+First Edition: 1991
+Second Edition: 1995
+Third Edition: 2003
+Fourth Edition: 2013
+ISBN 978-93-5090-187-8 978-93-5025-239-0
+Typeset at   JPBMP typesetting unit
+Printed at
+®
+Dedicated to
+My dear wife
+(Late) Dr Manju Gupta
+(27-1-1948—13-6-1996)
+without whose
+inspiration and sacrifice
+this book would not have been possible
+MC Gupta
+Preface to the Fourth Edition
+The last few years have witnessed a rapid progress in the field of Community Medicine. There was a felt need
+for publication of an updated fourth edition of this book after a gap of couple of years. Many new concepts
+have arisen and much more modifications have been incorporated over the past strategies. We think this edition
+will also meet the expectations of the medical and nursing students, as well as the students of Public Health,
+teachers of Community Medicine and the program implementers of health services.
+Almost all the chapters have been thoroughly revised and updated; notably among those are epidemiology,
+communicable and noncommunicable diseases, MCH and family planning, management, demography and vital
+statistics, disaster, biomedical waste management, food and nutrition, immunization, geriatrics, communication,
+etc. National Health Programs have also been thoroughly revised and updated. New data have been incorporated,
+wherever applicable. Latest SRS and census data have also been included. Various domains that are of
+importance, both in theory, practical and viva of MBBS examination have been highlighted with examples and
+justification. Many postgraduate study materials have also been incorporated with references for further reading.
+Various flow charts, diagrams and pictures have been introduced for clarity of understanding. Students will be
+benefited for their preparation in answering MCQ for their Postgraduate Entrance Examination.
+It is our earnest hope that fourth edition of this textbook will help the MBBS, Postgraduate aspirants,
+Postgraduate students and the students of other public health disciplines. We will be grateful to the students and
+the teachers for their valuable feedback, comments and constructive criticism. We will acknowledge and will try
+our best to address those issues in the subsequent editions.
+Rabindra Nath Roy
+Indranil Saha
+Preface to the First Edition
+Preventive and social medicine is one of the most important subjects in the curriculum of a medical student.
+Unlike other subjects, preventive and social medicine, community medicine and community health are the concern
+not only of those specializing in these fields but of all others in the medical profession, including those engaged
+in active clinical care as well as the health administrators. As a matter of fact, the subject is of serious concern
+to all interested in human health and welfare, whether in the medical profession or not. The present book is
+patterned on the earlier book Preventive and Social Medicine  in India  by Professor BK Mahajan, published in
+1972. However, the marked developments in the subject during the last 20 years have necessitated extensivechanges and additions. Hence, this volume is presented as a new book in its first edition. The entire approach
+is epidemiological and the subject matter is presented in a linked and continuous manner. The language and
+style are simple, and attractive with emphasis on practical aspects which may be of utility not only to PHC medical
+officers and health administrators but even to general practitioners.
+The whole book is divided into four parts. The first part deals with the general aspects of preventive and
+social medicine and its scope. The second part, comprising two-thirds of the book, is built around the
+epidemiological triad. The third part deals with demography, vital statistics and biostatistics. The fourth part is
+devoted to health care of different groups, and includes detailed discussion of primary health care, health policy
+and the relation between health and development. The above division is objective and purposeful. It makes
+the reader familiar with the essential course content of community medicine, inculcates in him the epidemiological
+approach to health and disease, and prepares him to practise family medicine as a family physician. A chapter
+on general practice has been added for this purpose.
+Though the book is primarily written for the undergraduate students, it would be of use to the postgraduate
+students as well. The number of references has been kept to a minimum. Only those references have beenincluded which substantiate a controversial or less widely-known point, or which relate to recent work or review.
+Inter-relation between health and development, health manpower planning, communicable disease
+epidemiology in natural disasters, mental health program and the program for control of acute respiratory infections
+have been discussed in detail. The national ICDS program has been given adequate coverage. Care has been
+taken to include practical aspects in relation to diagnosis and management of leprosy, which may have to be
+tackled by many PHC medical officers and general physicians. Special attention has been paid to the chapters
+on social environment, host factors and health, noncommunicable diseases, food and nutrition, demography
+and vital statistics, health policy, planning management and administration, primary health care, health education,
+information and communication, maternity and child health, school health, geriatrics, mental health and health
+service through general practitioners so as to present the concerned topic in a most up-to-date and easily
+comprehensible manner.
+Some sections, such as those relating to water supply and disposal of wastes, could have been reduced further
+by omitting certain details; the latter have been retained in view of the requirement of public health administrators.
+The existing curricula of various universities, as also the suggestions from eminent professors, have been given
+due consideration while preparing this book. We shall feel amply rewarded if this book is found useful for students,
+teachers, public health administrators and PHC medical officers.
+We are grateful to a large number of colleagues in different parts of India, who spared their valuable time
+and effort to go through the manuscript, offered constructive suggestions and incorporated appropriate changes
+wherever necessary. These include Professor YL Vasudeva and Professor Sunder Lal (Rohtak), Professor RD
+Bansal and Professor SC Chawla (LHMC, Delhi), Professor OP Aggarwal (UCMS, Delhi), Professor G Anjaneyulu
+(Hyderabad), Dr GS Meena (MAMC, Delhi), Professor IC Verma, Dr Bir Singh and Dr Ravi Gupta (AIIMS, Delhi),
+Dr GVS Murthy and Dr K Madhavani (Wardha), Dr LN Balaji (UNICEF) and Professor KK Wadhera (CMC,
+Ludhiana). Professor Bansal, Professor Anjaneyulu and Professor Wadhera, in particular, took special pains to
+go through the entire manuscript critically at various stages of preparation. We owe special gratitude to Professor
+G Anjaneyulu, for writing a foreword to the first edition for the book after going through the entire manuscript.
+We are thankful to the American Public Health Association, Washington, and the Institute of Health and
+Nutrition, Delhi, India for permission to reproduce certain portions of the text from their publications. Reference
+to original source has been made wherever this has been done. We must thank to M/s Jaypee Brothers Medical
+Publishers (P) Ltd, New Delhi, India, who have done a marvellous job in record time, in spite of delay from
+our side. We must also acknowledge the contribution of our typists Shri Rameshwar Dayal and Shri Murli Manohar,
+whose excellent typing skills greatly reduced the drudgery associated with drafting and redrafting of a manuscript.
+Lastly, we must express our heartfelt thanks and indebtedness to our wives who silently, and sometimes not
+so silently, suffered—their husbands continuously lost in books, papers and proofs in utter disregard of their
+domestic responsibilities.
+ MC Gupta
+(Late) BK Mahajan
+xTextbook of Preventive and Social Medicine
+Acknowledgments
+We would like to thank the people without whom this book would not have been possible, they are our colleagues,
+students and our family. We are thankful to the Almighty for the ability, circumstances and health that were
+needed to write the book. Last but not the least both the editors thankful to M/s Jaypee Brothers Medical Publishers
+(P) Ltd, Kolkata and New Delhi, India to give this special opportunity to update and revise
+Mahajan & Gupta T extbook of Preventive and Social Medicine .
+Contents
+PART I: GENERAL
+1. Evolution of Preventive and Social Medicine 1
+• Historical Background  1; • Public Health, Preventive Medicine, Social Medicine and Community
+Medicine  1
+2. Basic Concepts in Community Medicine 4
+• Why to Study Community Medicine?  4 ; • Concepts of Health  5; • Determinants of Health  6;
+• Indicators of Health  7; •  Concepts of Disease  8; •  Concepts of Prevention  8
+PART II: EPIDEMIOLOGICAL TRIAD
+3. Epidemiological Approach in Preventive and Social Medicine 11
+•  Concept of Epidemiology  11; • Definition of Epidemiology  11; •  The Epidemiological Triad  12;
+•  The Host  13; •  Web of Causation  15; •  Epidemiological Wheel  15; •  Natural History of Disease  15;
+•  Epidemio logical Studies  21; •  Aim and Objectives of Epidemiology  22; • Clinical vs Epidemiological
+Approach  22; •  Applications and Uses of Epidemiology  23
+4. General Epidemiology 28
+• Types of Epidemiological Study  28; • Study Design  29; • Cohort Study (Follow-up Study)  34;
+• Types of Therapeutic or Clinical Trials  38
+5. Physical Environment: Air 45
+• Air  45 ; • Physical Agents in Atmosphere  46; • Chemical Agents in Atmosphere  47;
+• Biological Agents in Atmosphere  50; • Ventilation  50
+6. Physical Environment: Water 52
+• Sources of Water  52 ; • Water Supply and Quantitative Standards  55; • Water Quality and Qualitative
+Standards  56; • Special Treatments in Water Purification  64; • Swimming Pool Hygiene  65;
+• Water Problem in India  65
+7. Physical Environment: Housing 67
+• Types of Soil  67; • Soil and Health  67; • Housing  68; • Harmful Effects of Improper Housing  69;
+• Recent Trends in Housing  69
+8. Physical Environment: Wastes and their Disposal 71
+• Wastes and Health  71; • Recycling of Wastes  71; •  Refuse Disposal  72; • Excreta Disposal  73;
+• Sewerage System  77; • Sullage Disposal  81
+xiv
+Textbook of Preventive and Social Medicine9. Physical Environment: Place of Work or Occupation (Occupational Health) 83
+• Physicochemical Agents  83; • Physical Agents  83; • Effects on Gastrointestinal Tract  88;
+• Biological and Social Factors 88; • Offensive Trades and Occupations  88;
+• Occupational Diseases and Hazards  89; • Prevention of Occupational Diseases  92;
+• Occupational Health Legislation  93;  • Factories Act, 1948  93; • The Employees State Insurance Act,
+1948  95; • Worker Absenteeism  97
+10. Environmental Pollution 99
+• Air Pollution  99; • Water Pollution  102; • Soil and Land Pollution  103; • Radioactive Pollution  104;
+• Thermal Pollution  105; • Noise Pollution  106
+11. Biological Environment 107
+• Rodents  107; • Arthropods  109; • Insect Control  120
+12. Social Environment 126
+• Social Sciences  126; • Cultural Anthropology  129; • Social Psychology  130; • Economics  130;
+• Political Science  130; • Social Environment and Health  136
+13. Health and Law 138
+• Laws Related to Health  138; • Law and the Rural Masses  138
+14. Host Factors and Health 144
+• Age, Sex, Marital Status and Race  144; • Physical State of the Body  144;
+• Psychological State and Personality  145; • Genetic Constitution  145; • Defense Mechanisms  147;
+• Nutritional Status  148 ; • Habits and Lifestyle  149
+15. General Epidemiology of Communicable Diseases 153
+• Epidemiological Description of Communicable Diseases  161
+16. Respiratory Infections 170
+• Nonspecific Viral Infections  170 ; • Specific Viral Infections  175 ; • Nonspecific Bacterial Infections  185;
+• Specific Bacterial Infections  186; • Revised National Tuberculosis Control Programme  200
+17. Water and Food-borne (Alimentary) Infections 214
+• Cholera and Diarrhea  214; • Food Poisoning  228; • Enteric Fevers  230; • Brucellosis (ICD-A23.9)
+(Undulent Fever, Malta Fever)  233 ; • Bacillary Dysentery or Shigellosis (ICD-A03.9)  234;
+• Amebiasis (ICD-A06.9)  235; • Giardiasis (ICD-A07.1)  237; • Balantidiasis (ICD-A07.0)  237;
+• Viral Hepatitis (ICD—B15-B19)  238;  • Poliomyelitis (ICD-A80.9)  244
+18. Contact Diseases 260
+• Leprosy (ICD-A30.9)  260; • Sexually Transmitted Diseases or Venereal Diseases  272;
+• National STD Control Program  278; • Acquired Immunodeficiency Syndrome (AIDS) (ICD-B24)  279;
+• National AIDS Control Program  288; • Trachoma (ICD-A71.9)  301; • Fungus Infections  302
+19. Arthropod-borne Diseases 305
+• Malaria (ICD-B54)  305; • Filariasis (ICP-B74.9)  319; • Arboviruses  325; • Yellow Fever (ICD-A95.9)  326;
+• Dengue (ICD-A90)  329; • Chikungunya Fever (ICD-A92.0)  330; • Japanese Encephalitis (ICD-A83.0)  330;
+• Sandfly Fever (ICD-A93.1) (Pappataci Fever)  332; • Leishmaniasis (ICD-B55.9)  332;
+• Plague (ICD-A20.9)  335; • Kyasanur Forest Disease (ICD-A98.2)  338 ;
+xv
+Contents
+• Epidemic Typhus (Louse Borne Typhus) (ICD-A75.0)  339; • Trench Fever (ICD-A79.0)  340;
+• Scrub Typhus (Tsutsugamushi Fever) (ICD-A75.3)  340; • Tick Typhus (ICD-A77.9) (Rocky Mountain
+Spotted Fever)  341 ; • Relapsing Fever (ICD-A68.9)  341
+20. Miscellaneous Zoonoses, Other Infections and Emerging Infections 343
+• Miscellaneous Zoonoses  343; • Other Infections  350; • Emerging Infections  352
+21. Epidemiology of Noncommunicable Diseases 353
+• Cancer  354 ; • Cardiovascular Diseases  362 ; • Obesity  370; • Diabetes  372; • Accidents  374;
+• Blindness  376; • Disease Surveillance  382; • Integrated Management of Childhood Illness (IMCI)  385
+22. Food and Nutrition 388
+• Epidemiological Aspects  388; • Nutrients and Proximate Principles of Food  389;
+• Food and Food Groups  398; • Preservation of Foods and Conservation of Nutrients  404;
+• Diet Standards and Diet Planning  406; • National Nutrition Programs  419; • Food Hygiene  423;
+• National Nutrition Policy  424
+PART III: HEALTH STATISTICS, RESEARCH AND DEMOGRAPHY
+23. Biostatistics 434
+• Presentation of Statistics  435; • Variability and Error  438 ; • Analysis and Interpretation of Data  439;
+• Sampling  441; • Sampling Variations  442; • Tests of Significance  443
+24. Research Methodology 450
+• Purpose of Research and Broad Areas of Research  450; • Research Approaches in Public Health  451;
+• Case Studies  451; • Surveys  452; • Designing Research Protocol  455;
+• Ethical Considerations in Research  458
+25. Demography and Vital Statistics 460
+• Demography  460 ; • Vital Statistics  463; • Interpretation, Conclusions, and Recommendations  472
+PART IV: HEALTH CARE AND SERVICES
+26. Health Planning, Administration and Management 476
+• Health Planning  476; • Health Administration and Management  489;
+• Government Health Organization in India  497 ; • National Health Policy  500; • Health and Development  517
+27. Health Economics 524
+• Basic Concepts  524; • Some Practical Considerations  528
+28. Health Care of the Community 531
+• World Health Day 2009: Make Hospitals Safe in Emergencies  531 ; • Imbalance in Health Care and its
+Causes  531 ; • Health Problems in India  532; • Health Care  532; • Rural Primary Health Care  534;
+• National Health Programs  548
+xvi
+Textbook of Preventive and Social Medicine29. Information, Education, Communication and Training in Health 555
+• Definitions and Concepts  555; • Role and Need of Health Education and Promotion  558;
+• Objectives of Health Education and Promotion  559; • The Process of Change in Behavior  560;
+• Principles of Health Education  561; • Communication in Health Education and Training  563;
+• Education and Training Methodology  564; • Planning of Health Education  568;
+• Levels of Health Education  568 ; • Experience and Examples of Health Education  570 ;
+• Child to Child Program  571; • Education and Training System in Health and FW Institutions  571;
+• IEC Training Scheme  572; • Social Marketing  574
+30. Maternal and Child Health 576
+• World Health Day 2005: Make Every Mother and Child Count  576; • Maternal Morbidity and Mortality  577;
+• Pediatric Morbidity and Mortality  579 ; • Maternal and Child Health Services  581;
+• National Programs for Maternal and Child Health  591; • Reproductive and Child Health (RCH) Program  591;
+• National Immunization Program  595
+31. Family Planning and Population Policy 605
+• Scope of Family Planning Services  605; • Demographic Considerations in Family Planning 606;
+• Qualities of a Good Contraceptive  606; • Methods of Family Planning  607; • Emergency Contraceptive  615;
+• National Family Welfare Program  620; • National Population Policy  627; • Social Dimensions of Family
+Planning and Population Control  631
+32. School Health Services 633
+• Health Status of School Children  633; • School Health Service in India  633; • Special Needs of the School
+Child  634; • School Health Program  634
+33. Geriatrics: Care and Welfare of the Aged 637
+• World Health Day 2012: Aging and Health  637; • The Problems of the Old  637; • Administrative Aspects  640
+34. Mental Health  642
+• Prevalence of Mental Illness  642; • Types of Mental Disorders  643; • Drug Addiction  644;
+• Mental Health Care  646 ; • Prevention and Control of  Mental Illness  646;
+• National Mental Health Program  647
+35. Health Services through General Practitioners 650
+• What is General Practice?  650; • Components of Family Medicine or General Practice  651
+36. International Health 654
+• Pre-who Efforts  654; • World Health Organization  655; • Other UN Agencies  658;
+• Bilateral Agencies  660 ; • Nongovernment Agencies  661
+37. Biomedical Waste Management 663
+• Concept and Definition  663; • Importance and Nature of Biomedical Waste  663;
+• Health Hazards Associated with Poor Hospital Waste Management  664 ;
+• Disposal of Biomedical Waste  665; • Treatment  666;
+• Biomedical Wastes (Management and Handling) Rules, 1998  668
+xvii
+Contents
+38. Anthrax and Bioterrorism 671
+• Anthrax  671; • Bioterrorism  673
+39. Nosocomial Infections* 674
+40. Oral Diseases 675
+• Major Statements  675; • Oral Cancer  675; • Oral Precancer  676; • Oral Mucosal Diseases  676;
+• Periodontal Disease  676; • Dental Caries  677
+41. Disaster Management 680
+• World Health Day 2008: Protecting Health from Climate Change  680; • General Concepts  680 ;
+• Natural Disasters  684 ; • Biological Disasters  686; • Chemical Disasters  688 ;
+• Natural Disaster Management in India  690; • Disaster Management Structure in India  691;
+• Disaster Management Structure in Health Sector  691 ; • Non-governmental Organizations  692
+Index 693
+Preventive and Social Medicine is comparatively a
+newcomer among the academic disciplines of medicine.Previously it was taught to medical students as hygiene
+and public health. This name was later changed to
+preventive and social medicine when it was realized thatthe subject encompassed much more than merely theprinciples of hygiene and sanitation and public healthengineering. The name preventive and social medicineemphasizes the role of: (a) disease prevention in general
+through immunization, adequate nutrition, etc. in
+addition to the routine hygiene measures, and (b) socialfactors in health and disease.
+The name preventive and social medicine has gained
+wide acceptance in the past twenty-five years or sobecause of its broader and more comprehensive
+outlook on medicine, integrating both prevention and
+cure. Today, it implies a system of total health caredelivery to individuals, families and communities at theclinic, in the hospital and in the community itself.
+Historical Background
+During last 150 years, there have been two important
+“revolutions”. The industrial revolution  in 1830 was
+associated with the discovery of steam power and ledto rapid industrializations, resulting in concentration ofwealth in the cities and, consequently, migration from
+rural to urban areas. The net result was that on the one
+hand the villages were neglected and, on the other, thetowns and cities witnessed rapid haphazard expansion,
+often leading to creation of urban slums. These changes
+brought in their wake and more complex healthproblems in rural as well as urban areas which ultimately
+led to development of the concept of public health. The
+social revolution  occurred around 1940, during the
+Second World War. The social revolution brought into
+force the concept of ‘Welfare State’. It envisaged the
+total well being of man, paying major attention to theforgotten majority living in the villages. It was aimed at
+fighting the three enemies of man—poverty, ignorance
+and ill-health on a common platform. This followed therealization that health was not possible withoutimprovement in economic condition or education and
+vice versa.
+Among the developing countries, India gave a lead
+for bringing about the total well being of rural people
+by instituting the remarkable Community Development
+Program (1951). For intensive all-round development,the country was divided into Community DevelopmentBlocks in which ill-health was to be fought through theagency of primary health centers as recommended bythe Bhore Committee. It may be mentioned that the
+concept of public health was fairly well developed in
+ancient Indian. Adequate proof of community healthmeasures adopted during Harappa Civilization as far as5000 years ago has been found in the old excavationsat Mohenjo-Daro and at Lothal near Ahmedabad in the
+form of soakpits, cesspools and underground drainage.
+Public Health, Preventive
+Medicine, Social Medicine and
+Community Medicine
+Traditionally, a young man planning to enter the medical
+college has in mind the picture of a patient in agony,in relieving whose suffering by medicines he considershimself to be amply rewarded. He always thinks ofalleviating the suffering of a patient but rarely about the
+prevention of such suffering at the level of the individual
+patient, his family or his community. No doubt he hasto play a very important role in meeting the curativeneeds of society but that is not all. The community inthe past has felt satisfied with that curative role. But nowthe developing society, in India and elsewhere, expects
+much more from the doctor, and the people are
+gradually becoming more and more conscious of theirhealth needs. These varied expectations are reflectedin the fact that the subject has been practised in the past
+under different names as discussed below.
+Public Health
+It was defined by Winslow (1851) as the science andart of preventing disease, prolonging life and promoting
+Evolution of Preventive and
+Social Medicine 1PART I: General
+2PART I: Generalhealth and efficiency through organized community
+measures such as control of infection, sanitation, healtheducation, health services and legislation, etc. PublicHealth developed in England around the middle of thenineteenth century. Edwin Chadwick, a pleader, thethen Secretary of Poor Law Board (constituted underPoor Law Act passed in 1834) championed and causeof community health and the first Public Health Act waspassed in 1848. This signified the birth of public health.
+Public Health in India followed the English pattern
+but the progress was extremely slow during the Britishregime. It started after 1858 when a Royal Commissionwas sent to find the reasons for heavy morbidity andmortality among European troops in India due tomalaria and some other preventable diseases. ThePublic Health Departments started as vaccinationdepartments and later as Sanitation Departments at theCenter as well as in the Provinces around 1864. Therewas a long tussle whether the Sanitation or Public HealthDepartment should be responsible directly to theGovernment or to the Surgeon General-in-Charge ofHospitals and Medical Education. It took almost 40years for the British Government to decide in 1904 thatPublic Health Departments should function separately.The designations of Sanitary Commissioner and AssistantSanitary Commissioner were changed to those ofDirector and Assistant Director of Public Health. Thuscurative and preventive departments worked separatelyas Medical and Public Health Departments. This conti-nued in India even after independence for some time,though the idea of integration started at the beginningof the Second World War. A recommendation to thiseffect was made by the Bhore Committee in 1946.
+Preventive Medicine
+Preventive medicine developed as a specialty only afterLouis Pasteur propagated in 1873 the germ theory ofdisease followed by discovery of causative agents oftyphoid, pneumonia, tuberculosis, cholera anddiphtheria within the next decade. It gained furtherimpetus during subsequent years from the followingdevelopments:• Development of several specific disease preventive
+measures before the turn of the century (antirabiestreatment, cholera vaccine, diphtheria antitoxin andantityphoid vaccine).
+• Discovery and development of antiseptics and
+disinfectants.
+• Discovery of modes of transmission of diseases
+caused by germs. Transmission of malaria, yellowfever and sleeping sickness had been elucidatedbefore the turn of the century.It may be said in retrospect that when public health
+gained roots with the passage of the Public Health Act,the emphasis was on environmental sanitation alone.With the advent of the specialty of preventive medicine,emphasis was also given to prevention of diseases.These included not only infective diseases but also otherssuch as nutritional deficiency diseases.
+Social Medicine
+It is defined as the study of the man as a social being
+in his total environment. It is concerned with the health
+of groups of individuals as well as individuals within
+groups. The term social medicine gained currency inEurope around 1940.
+In 1949, a separate department of Social Medicine
+was started at Oxford by Professor Ryle. The conceptof social medicine is based upon realization of the
+following facts:
+• Suffering of man is not due to pathogens alone. It
+can be partly considered to be due to social causes(social etiology).
+• The consequences of disease are not only physical
+(pathological alterations due to pathogens) but also
+social (social pathology).
+• Comprehensive therapeutics has to include social
+remedies in addition to medical care (social
+medicine).
+• Social services are often needed along with medical
+care services.
+Interest in social medicine began to decline with the
+development of epidemiology. The Royal Commission
+on Medical Education substituted in 1968 the termsocial medicine by community medicine in its report(Todd Report).
+Preventive and Social Medicine
+As clarified above, preventive medicine and social medi-cine cover different areas, though both are concernedwith health of the people. This is why the combined
+name Preventive and Social Medicine was suggested to
+provide a holistic approach to health of the people. Thisname was preferred to the earlier name public healthbecause the former had come to be visualized as adiscipline dealing mainly with sanitation, hygiene andvaccination. However, the term public health has now
+once again become fashionable in England.
+1
+Community Medicine
+It has been defined as “The field concerned with thestudy of health and disease in the population of adefined community or group. Its goal is to identify thehealth problems and needs of defined populations(community diagnosis) and to plan, implement andevaluate the extent to which health measures effectivelymeet these needs”.
+2 Broadly, one could state that
+community medicine, while encompassing the broad
+3
+CHAPTER 1: Evolution of Preventive and Social Medicinescope of preventive and social medicine, lays special
+emphasis on providing primary health care.
+It may be remembered that five of the eight compo-
+nents of primary health care, as described later inChapter 28, are related to clinical activities. The modern
+day message is that the discipline variously labelled in
+the past as public health or preventive and socialmedicine cannot be divorced from health care, includingclinical care of the community. It is in recognition of thiswider role that the Medical Council of India has recentlydecided to label the discipline as Community Medicinein place of Preventive and Social Medicine. In a recentcase decided by the Supreme Court of India the issue
+was whether the Department of Preventive and Social
+Medicine in a Medical College is a Clinical or ParaclinicalDepartment. It was held that it is a Clinical Department.
+Some milestones and history of public health:
+• Father of Medicine: Hippocrates (Greatest physician in Greek
+medicine)
+ Father of Indian Medicine: Charak
+ Concept of bare foot doctors and accupuncture: Chinese
+medicine
+ Yang and Yin principle: Chinese medicine Father of surgery: Ambroise Pare Father of Indian surgery: Sushruta
+ First distinguished epidemiologist: Sydenham
+ Great sanitary awakening: Edwin Chadwick
+ Father of public health: Cholera Deprofessionalization of medicine: Primary health care
+ First vaccine developed: Smallpox
+ Term vaccination: Edward Jenner Term vaccine: Louis Pasteur
+ Citrus fruits in prevention of scurvy: James Lind
+ John Snow: Cholera William Budd: Typhoid
+ Robert Koch: Anthrax
+ Germ theory of disease: Louis Pasteur Multi-factorial causation of disease: Pattenkoffer
+ Social medicine: Virchow
+ Growth chart: First designed by David Morley First country to socialize medicine completely: Russia
+ First country to introduce compulsory sickness insurance:
+Germany
+References
+1. King, Maurice. National Medical Journal of India,
+1992;5:189-90.
+2. Last JM. A Dictionary of Epidemiology. London: Oxford
+University Press, 1983.
+In this chapter, we will first consider why should a
+medical student study community medicine. Then weshall discuss the basic concepts related to health, diseaseand prevention.
+Why to Study Community
+Medicine?
+Before the student starts studying community medicine,
+he must have motivation to study it. Motivation can follow
+only when he can get a clear answer to the question—
+“I want to become a doctor, treat patients and reduce their
+suffering. Why should I study community medicine at all”?
+Let us try to answer this question. Some of the reasons
+why a medical student should take interest in community
+medicine and study it seriously are given below:
+Treatment of patients:  A doctor’s aim should be to
+tr
+eat a patient, not to treat a disease. For example, a
+patient may present to a doctor with malnutrition,
+tuberculosis or diarrhea. The doctor’s responsibility does
+not end with prescribing nutritious diet, antitubercular
+drugs or fluid therapy. If he does so, he would merely
+be treating a disease episode, not the patient. In order
+to understand this better, let us imagine three scenarios.
+1. Imagine yourself sitting in a busy pediatric outpatient
+clinic. A mother has just brought in her fifth child,a boy aged two years. He has sunken eyes, wizened
+appearance, wasted muscles, pot belly, bow legs and
+a skin and bones appearance. You chide the mother
+for her “uncaring attitude” and ignorance and scold
+her for coming so late. You prescribe a dose of
+vitamin A and an antihelminthic, give cursory advice
+on nutrition and send her away. The case sheet is
+closed and you call out the next patient. You learn
+after 6 months that the child died some time ago.
+2. Imagine a different scenario. This time you are sitting
+in a busy medical OPD. A 30-year-old mother of
+three children presents with cough of three months
+duration, loss of weight, hemoptysis and continuous
+fever. You put your stethoscope to her chest and
+before you have time to blink your eyes, the diagnosis
+stares you in the face. You prescribe antitubercular
+drugs, record the notes and send her to the
+dispensary, expecting the staff there to give her
+Basic Concepts in
+Community Medicine 2
+detailed information about the medication. When the
+child and woman come back a few months later ina worse condition with the same recurrent problem,your conscience is pricked. Now it becomes obviousthat there is something wrong with the system. Medicalcare itself is not sufficient. Individual illness is itselfsymptomatic of a wider social malady afflicting theindividual, the family and the community.
+3. Let us now look at the situation existing in many of
+our remote, ill connected villages. In a small hamlet
+cut off from modern civilization, a male infant aged
+eight months, the only child of his parents and the
+fond hope of his grandparents, suffers from diarrhea.There are no trained health functionaries in the
+village. The nearest hospital is 35 kilometers away.
+The parents, being landless laborers, have no meansto reach the nearest hospital. Within 12 hours the
+child’s condition becomes critical. The mother gives
+the child some herbal decoctions as advised by thelocal dai. The result: no improvement. Within another
+six hours the child takes his last breath. With all itstechnological sophistication, does modern medicinehave an answer for this unwarranted death? Unless
+technological breakthroughs are supplemented by
+“social revolution” to communicate informationeffectively to the thousands who need them, they are
+of no avail. Cheap interventions like ORS can
+become meaningful only if people are armed withknowledge about them and put this knowledge into
+practice whenever needed. This is an area where
+community medicine practice can help.It is clear from the above three realistic examples
+that for treating a patient in the real sense of the word,a doctor has to know more than clinical medicine; hehas to know the preventive and social aspects of disease.
+Social equity:  Resources for health care are limited. These
+resources must be equitably distributed among the people.
+F
+or the cost of one big hospital, it is possible to create 50
+small accessible health posts in the community. For onepatient needing coronary bypass surgery, there arethousands in need of treatment for diarrhea, skin disease,respiratory infection, fever and hepatitis, etc. Who shouldget priority when it comes to providing free medical carethrough the country’s health system—the bureaucrat orpolitician who needs sophisticated cardiac care or the
+5
+CHAPTER 2: Basic Concepts in Community Medicinethousands of unimmunized, malnourished children and
+pregnant women who have no access to simple technologylike growth monitoring, ORS, immunization, antenatal care,
+etc.? Only a thorough knowledge of principles of community
+medicine can provide answers to such dilemmas.
+Health services planning:  The needs of the many
+should take pr 
+ecedence over those of the few. This issue
+becomes even more complex and critical by our
+knowledge that those who are in the greatest need of
+health care may not even know about their need; evenif they do, they may not be able to seek health care.
+How can we come to know what the population’s health
+needs are? Do we even know whether health is a priorityfor most people? And what are the reasons which prevent
+them from seeking help at designated health facilities?
+Such questions must be answered before health servicesare planned for people. Experience of community
+medicine can considerably help in this regard.
+Doctor’s responsibility:  At the center of a moralistic
+debate is the question of a doctor
+’s responsibility. To
+whom is a doctor responsible? Only to those who
+come to the clinic or also to those who need his
+services but cannot come to the clinic? Where does
+the responsibility end? We must realize that the healthsector in a country cannot be divorced from the
+country’s economic or social fabric. Sitting in an ivory
+tower may isolate us but cannot insulate us fromreality—the situation existing in the country. Thus
+modern medicine has to extend itself outside the
+confines of the four walls of a hospital and seeksolutions at an affordable cost. It is not enough to
+have theoretical knowledge and the pharmaceutical
+prescriptions to promote health and manage diseasein the community. We must also necessarily have a
+system of health care delivery that can implement the
+feasible solutions and make them available to as manyas possible at a cost that the country and the
+community can afford. Community medicine strives
+to provide the appropriate solutions in this regard.Examples are the national programs for malaria, filaria,
+tuberculosis, AIDS, iodine deficiency diseases, diarrheal
+disease, anemia, vitamin A deficiency, etc.
+Patient’s queries: Many a time a doctor is confronted
+with the question—“Doctor
+, what is the chance that I
+may get carcinoma of the lung since I smoke 20
+cigarettes a day”? or, “Doctor, I am suffering from
+tuberculosis. Can I breastfeed my child”? Answers tothese questions are only possible if one is familiar with
+the natural history of disease, its etiology and the myriad
+risk factors and their interactions. These are addressedby community medicine.
+Interaction with patients:  Even doctors who have
+decided to set up private practice can benefit from thediscipline of community medicine. Knowledge of
+community dynamics, community skills and culturalfactors related to health improves the doctor-patientinteraction and directly leads to increased patientconfidence and improved compliance.
+Health team leadership:  Health practice is a team
+effor
+t and the doctor is the team leader. The varied
+knowledge encompassed within the ambit of communitymedicine will make the doctor a strong team leader andan able health administrator.
+Concepts of Health
+Health is one of the most difficult terms to define. Health
+can mean different things to different people. To some
+it may mean freedom from any sickness or disease whileto some it may mean harmonious functioning of all body
+systems. It may be construed as a feeling of “wholeness”
+and a happy frame of mind. At the center of the debateis whether health denotes a positive quality or whether
+it should be understood or defined in terms of the
+absence of a negative quality, i.e. freedom from disease.Modern medicine or modern medical practice tends to
+view health as simply the state of absence of all known
+diseases. Doctors are too busy fighting disease to beunduly bothered about health. Even when they are
+caring for well babies, the parameter chosen to so define
+a baby is in terms of absence of congenital abnormalitiesor postnatal deleterious effects. When doctors spend time
+to screen adult populations for carcinoma of the cervix,
+hypertension or the like, their focus of interest is onabsence of these morbid conditions. Thus the emphasis
+in modern medicine has been on freedom from disease.
+If this be the yardstick, then what does one strive for?If the best is to be the goal, health necessarily needs to
+be defined in a positive fashion.
+The WHO (1948) has attempted to construct a
+positive definition of Health and has described Healthas “a state of complete physical, mental and social well-
+being and not merely an absence of disease or infirmity.
+1
+Later on (1978), it has been added as to lead a “sociallyand economically productive life”. This is an all-
+encompassing definition and clearly places health on ahigher pedestal in comparison to disease. This definition,
+however, refers to an ideal state which one strives to
+achieve, though one may not be able to do so. Therehas been criticism that using such a yardstick, very few
+people would be categorized as healthy since almost
+everyone whould have some grade of ill health orabnormality, may be in a clinical, subclinical,
+pathological or biochemical sense. It is perhaps best to
+talk of the WHO ideal of positive health as the top ofthe ladder while other categories of health status may
+occupy lower rungs. A diseased state may be categorized
+at the lowest rung of the ladder.
+6PART I: GeneralSuch a categorization of health is skin to a spectrum,
+with positive health at one end and a diseased state at
+the other end. This conceptualization permits one to talkof health as a dynamic state capable of moving up ordown the ladder, rather than a static state in equilibrium.This is appropriate because the health status cannotremain constant for an individual, family, communityor country over a period of time.
+Let up now look at the components of the WHO
+definition, i.e. physical, social and mental well-being.
+Physical well-being  is most easily understood by all
+of us. Physical health relates to the anatomical,physiological and biochemical functioning of the humanbody. Thus the attributes of physical health denotenormalcy of the body structure and organs and theirproper functioning. One should remember that a“normal state” in medicine is based on the law ofaverages and the extent of deviation from the averageor the mean. Thus the normal state for a European maybe different as compared to the Asians. If the deviationis excessive, it may constitute an abnormal situation. Theselection of the limits of “normalcy”, even in statisticalterms such as 2 standard deviations from the mean, isan arbitrary cut off point. Thus the line dividing normaland abnormal is very thin near the preselected limits.It should also be remembered that these limits ofnormalcy can change over time or generations.
+Various modes of assessment of physical health are
+available, e.g. height, weight, muscle mass, head circum-ference, serum estimations, physiological tests of func-tioning such as forced expiratory volume, etc. but all ofthem define normalcy in statistical terms and in relationto the risk of developing a particular disease, e.g.elevated serum cholesterol related to cardiac disease, etc.
+Social well-being  is more  difficult to define. In its
+simplest connotation, social health means that level ofhealth which enables a person to live in harmony withhis surroundings. Man is, after all, a social animal. Heboth learns from and contributes to society. Health isboth a product of and a determinant of social values.The cultural and ethnic background, the traditions andmores, the economic and literacy levels, the needs andperceptions are all important in the consideration of socialhealth. To measure social health is much more difficultbut social scientists have tried to make such measure-ments more objective. Thus social health can bemeasured by attitude scales, socioeconomic status, levelof literacy, employment status, etc. All these measures,however, are indirected measures of social health.
+Mental well-being  is perhaps the most abstract compo-
+nent to describe. Recent developments in psychiatry andpsychology have helped in defining features of mentalhealth in a better fashion. A positive mental health stateindicates that the individual enjoys his routine; there areno undue conflicts, nor frequent bouts of depression orelevation of mood, he has harmonious relations within thefamily and community spheres and is not undulyaggressive. However, there may be transient digression intothe zone of the abnormal, especially under stress or duress.Tests have been developed in recent decades which indicatethe mental health status of individuals. These include testsfor IQ, personality tests, thematic appreciation tests andprojective techniques.
+Spiritual health may be construed as a component
+of mental health. In societies like the Indian society,religion has played an important role in shaping thecultural ethos. Many individuals strongly believe in thesupernatural. In such situations a positive mental healthembraces spiritual health. Spiritual health may help toresolve both internal as well as external conflicts.
+Many a time doctors are approached by patients
+with vague complaints like generalized aches, disinterestin work, easy fatiguability, etc. However, no abnormalityis detected on examination. Are these individuals to beclassified as “healthy” or in poor health? Though theymay not be actually diseased, they may also not belabelled as healthy because they perceive themselves asnot being in good health, and their mental health isthus compromised. Health, therefore, is not a constantentity but a relative state. It is relative to time as wellas to individuals. The threshold of pain is not the samein any two individuals and so their perception of ahealthy state is obviously different. Therefore healthappears to be a matter of degree. Almost everyindividual’s state of health can potentially improve.
+2
+Determinants of Health
+What is it that results in good health, optimum healthor positive health? It is certain that the health statuscannot be the result of one particular activity. Manyinfluences have a bearing on health. The influenceswhich affect health and well-being are calleddeterminants of health. Some of these determinants are:
+Genetic configuration:  The health of a population or
+an individual is greatly dependent upon the genetic
+constitution of populations. These genetic factors maybe overshadowed by other factors but still play a sub-stantial role. Genetic traits related to certain enzymes(e.g. G-6-
+PD deficiency) or HLA markers (e.g. diabetes)
+can lead to a change in health status.
+Level of development:  Economic and social
+development helps to improve health status. Suchdevelopment potentially removes many deleteriousfactors in the e
+xternal environment of man. However,
+affluence can also bring many problems in its wake.These are related to the lifestyle adopted by the affluent.
+Lifestyle:  Contemporar
+ y Western society is nearing the
+pinnacle of socioeconomic development. This has ledto improved health facilities and increased healthawareness. With improved literacy and better
+7
+CHAPTER 2: Basic Concepts in Community Medicineemployment opportunities now available, many of the
+health problems confronting the less developedcountries have been erased. However, sedentarylifestyles an overambitious outlook, excessively aggres-sive competition, lack of regular exercise, excessiveconsumption of alcoholic beverages and smoking, etc.have brought noncommunicable diseases like diabetes,hypertension, myocardial infarction, etc. to the forefront.Similarly, mental health has also been compromised.Efforts are now under way to tackle developmentrelated problems in the West. An example is the “sintaxes” imposed by the US government in April 1993,markedly raising the prices of alcohol and cigarettes,aimed at reducing their consumption.
+Environment: The physical, social and biological
+environment of man is a very important determinant
+of health. P
+oor environmental sanitation, inadequate
+safe drinking water, excessive levels of atmosphericpollution, etc. are important determinants in the physicalenvironment affecting health. The socioeconomic status,employment potential, harmonious maritalrelationships, positive employer-employee relationship,etc. are all important factors in man’s socialenvironment. The biological environment is composedof disease bearing arthropods, insects, domestic andmilch animals, etc. All the members of the animalkingdom can compromise health status of man.
+Health infrastructure:  Accessible and acceptable health
+facilities have a direct bearing on health status. If primaryhealth care facilities are available in the vicinity and suchfacilities are utilized by the population, the healt
+h of
+individuals and communities is bound to improve.
+Indicators of Health
+An index is an objective measure of an existing situation.Indices are generally defined as relative numbersexpressing the value of a certain quantity as comparedwith another.
+3 In relation to health trends, the term
+indicator is to be preferred to index as indices are much
+more precise.4 More recently it has been suggested that
+a health index is better considered as an amalgamationof health indicators.
+5 Indicators are variables which help
+to measure changes. They are most often resorted towhen a direct measure of the change is not possible.As a matter of fact, health being a holistic concept,health change cannot be measured in specified units—it can only be reflected by health indicators.
+Characteristics of an Indicator
+An ideal indicator should be:Valid:  The degree to which the measurement corres-
+ponds to the true state of affairs is called validity 
+. In
+other words, does the indicator actually measure whatit purports to measure?Precise:  Reliability, reproducibility and repeatability are
+synonymous with precision. They reflect the extent towhich repeated measurements of a stable phenomenonare in agreement. The indicator should give the sameresults if used by different individuals and in differentplaces. Thus pr
+ecision ensures objectivity.
+Sensitive:  The indicator should be able to reflect even
+small changes in health status. F
+or example, the infant
+mortality rate is a sensitive indicator of the health statusand the level of living of a population. Similarly maternalmortality rate is a sensitive indicator of the provision ofobstetric services.
+Specific:  The indicator should reflect changes only in
+the situation concer
+ned. For example, enrolment in
+primary school is specific to measurement of literacy.
+Why are health indicators needed? The uses of
+Health Indicators  are as follows:
+• They reflect changes in the health profile over a
+specified time span.
+• They enable delimitation of backward and priority
+areas in a country.
+• They permit international comparison.• They allow evaluation of health services and speci-
+fic interventions.
+• They help to diagnose community needs and per-
+ceptions.
+• They are helpful to program planners and health
+administrators for charting out progress.
+• They allow projections for the future.
+Types of Indicators
+Indicators can be categorized as vital and behavioral.
+VITAL INDICATORS
+These encompass:Mortality indicators:  Crude death rate; infant
+mortality rate; maternal mortality rate; perinatalmortality rate, etc.
+Morbidity indicators:  Incidence and prevalence of
+infectious disease. An example of incidence indicator is
+the number of new cases of pulmonary tuberculosis ina given year in a defined population.
+Disability indicators: These play a supportive role to
+other vital indicators. These include sickness absenteeismrates; paralytic poliomyelitis rate; blindness prevalencerate, etc.
+Service indicators:  These indicators reflect the
+provision of health facilities. Examples are proportionof population served by PHC/subcenters; doctorpopulation ratio; proportion of population having accessto safe drinking water; literacy rate, etc.
+Composite indicators:  These indicators encompass
+many facets and hence provide a better measure. Expec-
+8PART I: Generaltation of life, growth rate, physical quality of life index,
+etc. are all comprehensive indicators. The Physical
+Quality of Life Index (PQLI) has gained popularity
+in recent times.6a It consists of three components: Infant
+mortality rate, life expectancy at one year of age and basicliteracy, in population above 15 years of age. All threecomponents are adequate for international andintercultural comparisons because no society wants to letits infants die and all people want to live longer and tohave access to basic literacy. For each component, theperformance of individual countries is placed on a scaleof 0-100, where ‘0’ represents an absolutely defined‘worst’ performance and ‘100’ represents an absolutelydefined best performance. The three indicators areaveraged after scaling, giving equal weightage to eachcomponent. Thus the final PQLI measure is also scaledfrom 0-100. The index shows changes in performanceovertime, even projecting into the future.
+The PQLI is not meant to rank countries. It is meant
+to show where a country is placed in relation to theultimate objective of “PQLI 100”. It thus affords acountry a chance to improve and bridge the gap. Thusthe PQLI is a dynamic indicator and is sensitive tochanges in the health situation. The PQLI for India inmid 80’s was 43 while it was 94 for the USA.
+BEHAVIORAL INDICATORS
+These measure utilization of services provided, rates ofcompliance and a attitude of populations. Utilization ratesindicate whether the health facilities provided areadequate, relevant, accessible and acceptable. Hospitaloccupancy rates, proportion of population receivingantenatal care, proportion of population visiting primaryhealth centers, etc., are all important indicators of utilization.
+The health services all over the world, since 1981,
+were geared towards achieving the goal of Health forAll by 2000 AD. The WHO has defined some indicatorsto measure progress. The suggested HFA indicators are
+as follows:
+Health policy indicators:  Which reveal the level of
+political commitment towards health for all.
+Social and economic indicators:  Related to health:
+These indicate the overall development perspectives in
+a countr
+y.
+Indicators of the provision of health care:  These
+r
+eflect the actual implementation of the stated policy.
+Health status indicators:  These indicate the benefit
+accruing to the population.7
+Concepts of Disease
+Nature of Disease
+Disease is easier to appreciate and less abstract thanhealth. Whereas health denotes a perfect harmony of thedifferent body systems, disease denotes an aberration of
+this harmony. This aberration may range from a bio-chemical disturbance to severe disability or death. Evena psychological dysfunction may be classified as disease.
+It is important to understand the difference between
+the terms disease and illness. Disease may be defined
+as the biophysiological phenomena which manifest
+themselves as changes in and malfunction of the humanbody.
+8  Illness, on the other hand, is the experience of
+being sick. Disease refers to occurrence of something,i.e. body changes and malfunction. Illness refers toexperience of something, i.e. being sick. Profound
+changes and malfunction may occur in the body without
+their being experienced by the patient. A classicalexample is hypertension, labelled as “the silent killer”.Blood pressure may be markedly increased, yet anindividual may not have any symptoms. Such a personhas hypertensive disease, but he does not feel he has
+any illness. Conversely, a person may feel ill without
+having a disease. For example, snake bite by anonpoisonous snake may result in palpitation,perspiration, fainting and even death. The reason is thatstrong emotion or belief, in this case about the snakebeing poisonous, can result in illness. Another example
+is that of a person fainting or going into trance or frenzy
+under the belief that he is possessed by a spirit. Thuspeople may feel ill in the absence of disease, just as theycan have disease without feeling ill.
+Cause of Disease
+The concept of disease has evolved constantly over theages: (i) In the “miasma” phase , disease was attributed
+to bad air and elements. Specific causes of diseases wereunknown in this era. (ii) This was followed by the
+“germ” phase during which specific pathogens were
+recognised as the cause of disease. This phase marked
+a watershed in the concept of disease and the hunt forpathogens was carried out on a war footing. This gavean impetus to set up isolation wards and big hospitals.
+Concepts of Prevention
+The concepts of prevention as enunciated by Leavell
+and Clark have stood the test of time.9 The basic
+framework worked out by them has practical utility even
+today. The four phases of prevention are: (i) primaryprevention (ii) secondary prevention (iii) tertiaryprevention. These phases are further categorized intofive levels of prevention as follows:
+Primary prevention Health promotion
+Specific protection
+Secondary prevention Early diagnosis and
+treatment
+Tertiary prevention Disability limitation
+Rehabilitation.
+9
+CHAPTER 2: Basic Concepts in Community MedicineThe various phases and levels of prevention are not
+exactly water tight compartments. Some aspects of each
+of the phases may be applicable while tackling specificdiseases. The five levels  of prevention as listed above
+can be restated in practical terms and recategorized asthe following four methods of prevention:1. Measures to eliminate or attack the agents of disease
+2. Methods to attack the channels of transmission
+3. Methods to reduce contact of the agent and the
+susceptible host
+4. Methods to augment host defence mechanisms.
+Primordial Prevention
+It has come from a Latin word ‘primordium’ means
+beginning. It means prevention at a stage, when the riskfactors have not yet developed. Primordial preventionis aimed to eliminate the development of risk factors,while primary prevention is aimed to reduce the risk ofexposure. Primordial prevention is achieved by healtheducation. Example being, information is imparted toschool children for adopting and maintaining healthylifestyles.
+Primary Prevention
+The process of primary prevention is limited to the
+period before the onset of clinical disease in anindividual. Thus activities directed to prevent the
+occurrence of disease in human populations  fall in this
+category. These activities are related to health promotionand specific protection.
+Health promotion:  Health promotion is an all
+embracing entity which goes much beyond prevention
+of only specific disease. It is the means to attain a stateof “positive health”, or
+, at least, “freedom from disease”.
+Health promotion concerns activities within as well asoutside the health sector. Examples of activities within
+the health sector  are:
+• Health education to increase awareness of health
+problems so that populations identify their healthneeds and become familiar with preventive strategiesand the health facilities available. This is the onlycomponent which has a long-term and lastingbenefit. Health education can also improve
+compliance with advice, medication and follow-up.
+• Improved protected water supply systems. These
+again have a long-term impact.
+• Improvement of environmental sanitation.
+• Inculcation of healthy habits.• Family life education.
+Examples of activities outside the health sector
+having a bearing on health promotion are those aimedat increasing literacy, overall socioeconomicdevelopment and industrial production and thoseleading to improved agricultural policies and public
+distribution systems.Specific protection:  Specific protection has benefitted
+to a great extent by improved modern day medicaltechnology
+. Technological break-throughs have
+provided adequate and appropriate tools for prevention.However, specific protection dates back to 1753 whenJames Lind advocated the use of citrus fruits to seamenin order to prevent scurvy. Jenner’s discovery of thesmallpox vaccine in 1796 gave a further boost tostrategies for specific protection. Mass chemoprophylaxisis also a modern tool of specific protection. Otherexamples of specific protection  are as follows:
+• Active immunization by vaccines against measles,
+polio, diphtheria, pertussis, tetanus, hepatitis B, etc.
+• Passive immunization by gamma globulins for
+tetanus, rabies, viral hepatitis, etc.
+• Nutritional supplementation in mid-day school meal
+program; ICDS program, etc. to prevent againstPEM.
+• Specific nutrient supplementation by vitamin A, iron
+and iodine (as iodised salt).
+• Chemoprophylaxis with chloroquine to prevent
+against malaria in travellers to endemic areas.
+• Use of protective goggles in industry.• Chlorination of water supplies, etc.
+Secondary Prevention
+Secondary prevention  comes into play after the disease
+process has been initiated in the human host. The aim
+of such an approach is to minimize the spread of diseaseand to reduce the serious consequences. This is achie-ved through early diagnosis and treatment . Early
+diagnosis and prompt initiation of treatment can be
+undertaken at various levels:
+a. In the general population or in an age specific popu-
+lation.
+b. In captive groups, such as school children, jail inmates
+and industrial workers.
+c. In a hospital or clinical setting.
+Early diagnosis and prompt treatment offers benefits
+to the affected individuals as well as to their families andthe community. It helps to  reduce the transmission ofinfection and, hence, is considered as a method ofprevention. As a preventive strategy, it is most usefulfor diseases with long incubation period or long latent
+period since sufficient time is available to prevent further
+progression of disease and to improve furtherprogression of disease and to improve prognosis. Innoncommunicable diseases, sufficient lead time shouldbe available. Lead time refers to the time gained in the
+natural history of an evolving chronic disease when
+diagnosis is made early.
+10 It means that if carcinoma
+cervix is detected during the presymptomatic period, the
+ultimate prognosis may be better. Thus early diagnosisand prompt treatment can play a very important role.Prompt initiation of treatment should be backed up by
+efforts to improve compliance and reduce default.
+10
+PART I: GeneralScreening for disease is an important step, both in
+the general population and in high risk groups. This is
+especially useful in diseases like leprosy, tuberculosis,carcinoma cervix, diabetes, etc.
+Tertiary Prevention
+Tertiary prevention acts at the stage where disease hasgot established in the individual. It is a costly venture,though recent efforts at community based rehabilitationhave tried to bring down the costs. Tertiary preventioncan be applied at the last two levels of prevention.These are:
+Disability limitation: Here the disease has progressed
+significantly and has caused some loss of function of a
+temporary or permanent nature. The idea is to providerelief to the affected individual so that a total handicapcan be prevented. This mode of prevention can be illus-trated by the e
+xample of leprosy. Leprosy can lead to
+irreversible ocular damage and blindness when leftuntreated. If multidrug therapy is instituted even aftersome ocular damage has occurred, total blindness canstill be prevented.
+Rehabilitation: Rehabilitation can be considered as a
+preventive measure in that if effectively utilized, it canprevent further social drift of the affected individual.Social drif
+t is the phenomenon of going down the social
+ladder due to loss of ability to generate income causedby disease.
+Rehabilitation is an extremely costly venture. The
+aim of rehabilitation is to integrate the affectedindividual in the community by optimizing his functionalability. It involves psychological, vocational and socialand educational intervention.
+Psychological rehabilitation  is of acute importance as,
+immediately after experiencing a handicap, the hithertonormal individual may not be able to cope up with thenew stress situation. This is known as crisis intervention.
+The individual needs to be made to understand theimportance of life and how he can cope with the newsituation.
+If the handicapped have to lead a normal life and
+are to be accepted by the members of the family andthe community, vocational rehabilitation  is very
+important. Creating job opportunities and training thehandicapped for such jobs go a long way in alleviatingtheir suffering. Legislation to accord preferentialtreatment to the handicapped is also needed. Social
+rehabilitation  is extremely important to provide adequate
+support to the handicapped individual. The familymembers should be taught to maintain social supportand involve the disabled in domestic affairs. Stigmaattached to disease should be tackled by effectiveeducation.
+Sometimes the handicap may be of such an extent
+that vocational rehabilitation may not be possible. Anexample is severe mental retardation. In such asituation, rehabilitation efforts should be geared to trainthe individual in activities of daily living.
+References
+1. WHO. The First Ten Years of the World Health Organization.
+Geneva: WHO, 1968.
+2. Kass LR.  Regarding the end of medicine and the pursuit
+of health. In: Caplan AL, et al. (Eds). Concepts of Health
+and Disease. Interdisciplinary perspectives. Massachusetts:
+Addison—Wesley Publishing House, 1986.
+3. WHO/EURO. The efficacy of medical care: Report on a
+symposium. EURO Document No. 294, 1986.
+4. WHO. Third Report of the WHO Expert Committee on
+Public Health Administration on Local Health Service.
+Techn Rep Ser No. 194, 1960.
+5. WHO/EURO. Health statistics: Report on the Fourth
+European Conference. EURO Reports and Studies No. 43,1981.
+6. Micoric P . Health Planning and Management Glossary,
+WHO—SEARO Regional Health Papers No. 5, 1984.
+6a. Grant JB. World Health Forum, 1981;2:272.
+7. WHO. Development Indicators for Monitoring Progress
+Towards Health for All by the year 2000, Geneva: WHO,1981.
+8. Conrad and Kern (Eds).  The sociology of health and
+illness. New York: St Martins Press 9, 1991.
+9. Leavell HR, Clark EG. Preventive Medicine for the Doctor
+in His Community. An Epidemiological Approach (2nd
+edn) McGraw Hill CO., 1958.
+10. Last, John M (Eds). A Dictionary of Epidemiology. New
+York: Oxford University Press. Published for the
+International Epidemiological Association, 1983.
+Epidemiological Approach in
+Preventive and Social Medicine3
+Dictionaries define epidemiology as the scientific basis
+for public health and, especially, preventive medicine.1
+In keeping with this concept, the present book ispatterned on the epidemiological approach, which issymbolized in the triad of host, agent and environment.To put it rather picturesquely, just as there are threecomponents in a drama on the stage, there are threecomponents in the drama of disease as well. The stagedrama or a movie is built around a hero, a villain andthe life circumstances in which they operate and interact.The disease drama has similar components of hero (thehost), villain (the agent of disease) and circumstances(the environment). To summarize, the threeepidemiological components of a disease situation are:1. The host or the man who enjoys health or suffers from
+disease (The World Health Organization defines healthas a state of complete physical, mental and social well-
+being and not mere absence of disease or infirmity.
+2. The agents, whether living (such as bacteria and
+viruses) or nonliving (such as radiation, temperatureand minerals, e.g. lead, fluorine).
+3. The environment comprising of food, air, water,
+housing, place of work, etc. which surround boththe host and the agent and in which both interact.The host, the agent and the environment are discussed
+in detail later in this chapter. The outcome of the host-agent environment interaction may be in the nature ofhealth, discomfort, disability, disease or death. Thus allindividuals in a population group may be equally exposedto the same agent and environment, yet some may totallyescape the disease, others may get only a mild attack whileyet others may develop the full blown disease which mayculminate in death. This is so because the exact outcomeis determined by host factors inherent in each individual.These are described detail in Chapter 14.
+Concept of Epidemiology
+Epidemiology is a scientific study of factors andconditions related to disease as they occur in people.The word epidemiology is derived from epi (in, on,
+upon); demos  (people) and logos  (science). Formerly,epidemiology was considered to be a science ofepidemics and its application was limited to preventionand control of a few communicable diseases such ascholera, smallpox, plague, etc. which occurred inepidemic form. Gradually, the epidemiological methodof studying a disease by devoting attention to itsoccurrence and distribution, etiology, prevention andcontrol was extended to communicable diseases ingeneral. During last few decades, the epidemiologicalapproach has been used in the study ofnoncommunicable diseases also, such as hypertension,coronary artery disease, diabetes, cancer, mentaldisorders and even accidents and burns. As a result,diseases are now broadly classified into two groups—communicable and noncommunicable—for thepurpose of epidemiological study.
+Definition of Epidemiology
+As the scope of epidemiology has enlarged over theyears, the definition of epidemiology has also changedfrom the previous narrow definition as “the branch ofmedical science dealing with epidemics” as suggested byParkin in 1873. Some broader definitions are given below:• It is an orderly study of incidence in human society
+of any morbid state (communicable and non-communicables disease, accidents, injuries andabnormalities of medical importance).
+• It is a study of the role of the agent, host and
+environment in the natural history of disease.
+• It is the study of relationship among various factors
+and conditions in the agent, host and environmentthat determine the frequency of occurrence anddistribution of an infectious process; a disease or aphysiological state in a population.
+• According to Lilienfeld, “Epidemiology is the study
+of the distribution of a disease or a physiologicalcondition in human populations and of the factorsthat influence this distribution”.
+2
+• The study of the frequency, distribution and deter-
+minants of disease (International EpidemiologicalAssociation).PART II: Epidemiological Triad
+12
+PART II: Epidemiological Triad• The study of the distribution and determinants of
+health related states and events in populations and
+the application of this study to control healthproblems.
+3
+Out of the above definitions the last one is the most
+modern. To put it even more simply, “epidemiology isthe study of distribution  and determinants  of health
+related event s in population .”
+4 The meaning of four
+words in this definition needs to be explained for aproper understanding of this definition.
+Events
+Health related events include disease, disability,physiological conditions and different states of health.
+Population
+It includes both human and animal populations.Epidemiology is now extensively used for study ofdiseases in animals.
+Distribution
+It refers to distribution of the event in relation to time,place and person. The description of such distributionis known as descriptive epidemiology . The aim of
+descriptive epidemiology is to discern trends (increasingor decreasing) in occurrence of the disease over theyears, over geographical areas or over differentpopulations. (The population here is used in thestatistical sense and means a group of individuals sharingone or more specified characteristics).
+Determinants
+These refer to the etiological or risk factors related toa particular disease or health state. When these factorsare studied and analyzed along with information fromother disciplines (such as genetics, biochemistry,microbiology, immunology, etc.), the field is known asanalytical epidemiology .
+The Epidemiological Triad
+The occurrence and manifestations of any disease, whethercommunicable or noncommunicable, are determined bythe interactions between the agent, the host and theenvironment, which together constitute the epidemiologicaltriad (Fig. 3.1) . Each of these is treated as a separate
+component, though many epidemiologists consider theagent as part of the biological environment of man.
+The Agent
+The agent is defined as an organism, a substance or aforce, the presence or lack of which may initiate adisease process or may cause it to continue.  There may
+be single or multiple agents for a disease.
+3 These may
+be classified into:• Living or biological agents.• Nonliving or inanimate, classified further as nutrient,
+chemical and physical agents.The various types of agents are listed below:
+Biological Agents
+• Arthropods: Examples are mites and lice, causing
+pediculosis and scabies respectively. However, therole of arthropods in disease transmission is muchmore often as vectors of other agents such asmalarial parasite, rather than as agents themselves.
+• Helminths• Protozoa, of which about 20 are parasitic in man• Fungi• Bacteria• Viruses.
+Much is known about biological agents now. Their
+detailed study constitutes the speciality of microbiology.
+Their epidemiological characteristics in relation to man
+and environments are discussed under “GeneralEpidemiology of Communicable Disease”, Chapter 15.
+The attributes of biological agents  are as follows:
+• Inherent nature and characteristics” Morphology,
+motility, physiology, reproduction, metabolism, nut-
+rition, temperature requirements, toxin production,etc.
+• Viability and resistance: Susceptibility of the organism
+to heat, cold, moisture, sunlight, etc.
+• Characteristics directly related to man:
+– Infectivity or ability to gain access and adapt to
+the human host
+– Pathogenicity or ability to set up a tissue reaction– Virulence of severity of reaction– Antigenic property.
+Nutrient Agents
+The known agents in relation to food and nutrition areenergy, protein, carbohydrate, fat, vitamins, minerals,water and fibre. Their nature and role in health anddisease are discussed in detail in Chapter 22.Fig. 3.1:  The epidemiological triad
+
