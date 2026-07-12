@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Data folder (contains PDFs or text files you don’t want public)
+Data/
+
+# FAISS index files
+faiss_index/
+
+# VS Code settings
+.vscode/
