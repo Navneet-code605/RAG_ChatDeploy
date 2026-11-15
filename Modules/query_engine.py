@@ -14,9 +14,7 @@ embedder = SentenceTransformer("sentence-transformers/LaBSE")
 llm_model = "Qwen/Qwen2.5-0.5B-Instruct"
 tokenizer = AutoTokenizer.from_pretrained(llm_model, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(
-    llm_model,
-    torch_dtype=torch.float16,   # lighter memory footprint
-    device_map="cpu",            # runs on CPU (safe for low VRAM)
+    llm_model,          
     trust_remote_code=True
 )
 
