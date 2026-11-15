@@ -11,7 +11,7 @@ from langdetect import detect
 embedder = SentenceTransformer("sentence-transformers/LaBSE")
 
 # ✅ Load Qwen model + tokenizer once
-llm_model = "Qwen/Qwen2.5-1.5B-Instruct"
+llm_model = "Qwen/Qwen2.5-0.5B-Instruct"
 tokenizer = AutoTokenizer.from_pretrained(llm_model, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(
     llm_model,
